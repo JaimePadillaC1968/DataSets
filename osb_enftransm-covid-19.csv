@@ -1,0 +1,990 @@
+CASO,FECHA_DE_INICIO_DE_SINTOMAS,FECHA_DIAGNOSTICO,CIUDAD,LOCALIDAD_ASIS,EDAD,UNI_MED,SEXO,FUENTE_O_TIPO_DE_CONTAGIO,UBICACION,ESTADO
+1,2020-02-26,2020-03-06,Bogotá,Usaquén,19,1,F,Importado,Casa,Recuperado
+2,2020-03-04,2020-03-10,Bogotá,Engativá,22,1,F,Importado,Casa,Recuperado
+3,2020-03-07,2020-03-10,Bogotá,Engativá,28,1,F,Importado,Casa,Recuperado
+4,2020-03-06,2020-03-12,Bogotá,Fontibón,36,1,F,Importado,Casa,Recuperado
+5,2020-03-06,2020-03-12,Bogotá,Kennedy,42,1,F,Importado,Casa,Recuperado
+6,2020-03-08,2020-03-13,Bogotá,Suba,61,1,F,Importado,Casa,Recuperado
+7,2020-02-28,2020-03-13,Bogotá,Teusaquillo,73,1,F,Importado,Casa,Recuperado
+8,2020-03-06,2020-03-13,Bogotá,Chapinero,54,1,M,Importado,Casa,Recuperado
+9,2020-03-10,2020-03-13,Bogotá,Engativá,54,1,F,Relacionado,Casa,Recuperado
+10,2020-03-08,2020-03-14,Bogotá,Fontibón,23,1,M,Relacionado,Casa,Recuperado
+11,2020-03-11,2020-03-14,Bogotá,Chapinero,18,1,F,Importado,Casa,Recuperado
+12,2020-03-12,2020-03-14,Bogotá,Teusaquillo,59,1,M,Importado,Casa,Recuperado
+13,2020-03-12,2020-03-14,Bogotá,Suba,23,1,F,Importado,Casa,Recuperado
+14,2020-03-11,2020-03-13,Bogotá,Engativá,54,1,M,Importado,Casa,Recuperado
+15,2020-03-12,2020-03-15,Bogotá,Usaquén,72,1,M,Importado,Casa,Recuperado
+16,2020-03-12,2020-03-15,Bogotá,Ciudad Bolívar,45,1,F,Relacionado,Casa,Recuperado
+17,2020-03-13,2020-03-15,Bogotá,Chapinero,29,1,M,Importado,Casa,Recuperado
+18,2020-03-11,2020-03-15,Bogotá,Chapinero,21,1,M,Importado,Casa,Recuperado
+19,2020-03-12,2020-03-15,Bogotá,Chapinero,23,1,F,Importado,Casa,Recuperado
+20,2020-03-06,2020-03-15,Bogotá,Kennedy,44,1,F,Relacionado,Casa,Recuperado
+21,2020-03-07,2020-03-15,Bogotá,Kennedy,38,1,M,Relacionado,Casa,Recuperado
+22,2020-03-14,2020-03-15,Bogotá,Usaquén,31,1,M,Relacionado,Casa,Recuperado
+23,2020-03-12,2020-03-15,Bogotá,Barrios Unidos,41,1,F,Importado,Casa,Recuperado
+24,2020-03-08,2020-03-15,Bogotá,Barrios Unidos,67,1,F,Importado,Casa,Recuperado
+25,2020-03-13,2020-03-28,Bogotá,Los Mártires,57,1,M,En estudio,Casa,Recuperado
+26,2020-03-09,2020-03-15,Bogotá,Chapinero,29,1,M,Importado,Casa,Recuperado
+27,2020-03-11,2020-03-15,Bogotá,Chapinero,62,1,M,Importado,Casa,Recuperado
+28,2020-03-12,2020-03-15,Bogotá,Chapinero,42,1,F,Importado,Casa,Recuperado
+29,2020-03-05,2020-03-15,Bogotá,Usaquén,58,1,F,Relacionado,Casa,Recuperado
+30,2020-03-13,2020-03-15,Bogotá,Engativá,34,1,M,Importado,Casa,Recuperado
+31,2020-03-04,2020-03-13,Bogotá,Engativá,37,1,M,Relacionado,Casa,Recuperado
+32,2020-03-15,2020-03-16,Bogotá,Usaquén,31,1,M,Importado,Casa,Recuperado
+33,2020-03-12,2020-03-16,Bogotá,Suba,64,1,M,Relacionado,Casa,Recuperado
+34,2020-03-07,2020-03-17,Bogotá,Chapinero,40,1,F,Importado,Casa,Recuperado
+35,2020-03-14,2020-03-17,Bogotá,Chapinero,22,1,F,Importado,Casa,Recuperado
+36,2020-03-10,2020-03-17,Bogotá,Chapinero,21,1,M,Importado,Casa,Recuperado
+37,2020-03-12,2020-03-17,Bogotá,Chapinero,72,1,M,Importado,Casa,Recuperado
+38,2020-03-15,2020-03-17,Bogotá,Usaquén,37,1,F,Importado,Casa,Recuperado
+39,2020-03-26,2020-03-27,Bogotá,La Candelaria,49,1,F,Relacionado,Casa,Recuperado
+40,2020-03-11,2020-03-17,Bogotá,Rafael Uribe Uribe,18,1,M,Relacionado,Casa,Recuperado
+41,2020-03-10,2020-03-17,Bogotá,Suba,50,1,M,Relacionado,Casa,Recuperado
+42,2020-03-11,2020-03-17,Bogotá,Chapinero,26,1,F,Importado,Casa,Recuperado
+43,2020-03-16,2020-03-18,Bogotá,Puente Aranda,53,1,M,Importado,Casa,Recuperado
+44,2020-03-12,2020-03-18,Bogotá,Usaquén,69,1,M,Importado,Casa,Recuperado
+45,2020-03-15,2020-03-18,Bogotá,Fontibón,37,1,F,Importado,Casa,Recuperado
+46,2020-03-14,2020-03-19,Bogotá,Puente Aranda,54,1,M,Importado,Casa,Recuperado
+47,2020-03-13,2020-03-19,Bogotá,Fontibón,62,1,F,Importado,Casa,Recuperado
+48,2020-03-14,2020-03-19,Bogotá,Usaquén,60,1,M,Relacionado,Casa,Recuperado
+49,2020-03-14,2020-03-19,Bogotá,Usaquén,30,1,M,Importado,Casa,Recuperado
+50,2020-03-14,2020-03-19,Bogotá,Chapinero,33,1,M,Importado,Casa,Recuperado
+51,2020-03-12,2020-03-19,Bogotá,Suba,49,1,M,Importado,Casa,Recuperado
+52,2020-03-15,2020-03-19,Bogotá,Fontibón,29,1,M,Importado,Casa,Recuperado
+53,2020-03-15,2020-03-19,Bogotá,Suba,40,1,F,Relacionado,Casa,Recuperado
+54,2020-03-15,2020-03-19,Bogotá,Engativá,54,1,M,Importado,Casa,Recuperado
+55,2020-03-14,2020-03-19,Bogotá,Chapinero,30,1,M,Importado,Casa,Recuperado
+56,2020-03-07,2020-03-19,Bogotá,Chapinero,34,1,M,Importado,Casa,Recuperado
+57,2020-03-15,2020-03-20,Bogotá,Fontibón,37,1,M,Importado,Casa,Recuperado
+58,2020-04-29,2020-05-01,Bogotá,Rafael Uribe Uribe,37,1,M,Relacionado,Casa,Recuperado
+59,2020-03-13,2020-03-20,Bogotá,Suba,32,1,M,Relacionado,Casa,Recuperado
+60,2020-04-16,2020-04-29,Bogotá,Puente Aranda,40,1,M,Relacionado,Casa,Recuperado
+61,2020-03-13,2020-03-19,Bogotá,Chapinero,29,1,F,Importado,Casa,Recuperado
+62,2020-03-15,2020-03-20,Bogotá,Teusaquillo,47,1,M,Importado,Casa,Recuperado
+63,2020-03-10,2020-03-20,Bogotá,Usaquén,65,1,M,Importado,Fallecido,Fallecido
+64,2020-03-18,2020-03-20,Bogotá,Puente Aranda,53,1,F,Desconocido,Fallecido,Fallecido
+65,2020-03-16,2020-03-20,Bogotá,Usaquén,40,1,M,Importado,Casa,Recuperado
+66,2020-03-14,2020-03-20,Bogotá,Chapinero,34,1,M,Importado,Casa,Recuperado
+67,2020-03-13,2020-03-20,Bogotá,Usaquén,42,1,F,Importado,Casa,Recuperado
+68,2020-03-12,2020-03-20,Bogotá,Suba,22,1,F,Importado,Casa,Recuperado
+69,2020-03-16,2020-03-20,Bogotá,Suba,25,1,M,Importado,Casa,Recuperado
+70,2020-03-15,2020-03-20,Bogotá,Suba,28,1,M,Relacionado,Casa,Recuperado
+71,2020-03-10,2020-03-20,Bogotá,Usaquén,67,1,F,Importado,Casa,Recuperado
+72,2020-03-15,2020-03-20,Bogotá,Fontibón,32,1,F,Relacionado,Casa,Recuperado
+73,2020-03-11,2020-03-20,Bogotá,Suba,45,1,F,Relacionado,Casa,Recuperado
+74,2020-03-17,2020-03-20,Bogotá,Engativá,46,1,F,Relacionado,Casa,Recuperado
+75,2020-03-16,2020-03-20,Bogotá,Tunjuelito,25,1,F,Importado,Casa,Recuperado
+76,2020-03-13,2020-03-20,Bogotá,Engativá,42,1,F,Relacionado,Casa,Recuperado
+77,2020-03-17,2020-03-20,Bogotá,Usaquén,45,1,F,Importado,Casa,Recuperado
+78,2020-03-16,2020-03-20,Bogotá,Engativá,21,1,F,Relacionado,Casa,Recuperado
+79,2020-03-11,2020-03-20,Bogotá,Engativá,27,1,M,Relacionado,Casa,Recuperado
+80,2020-03-14,2020-03-20,Bogotá,Teusaquillo,65,1,F,Importado,Casa,Recuperado
+81,2020-03-14,2020-03-20,Bogotá,Teusaquillo,70,1,M,Importado,Casa,Recuperado
+82,2020-03-07,2020-03-20,Bogotá,Fontibón,23,1,F,Importado,Casa,Recuperado
+83,2020-03-17,2020-03-20,Bogotá,Usaquén,28,1,M,Relacionado,Casa,Recuperado
+84,2020-03-12,2020-03-20,Bogotá,Usaquén,60,1,F,Importado,Casa,Recuperado
+85,2020-03-13,2020-03-20,Bogotá,Usaquén,41,1,M,Importado,Casa,Recuperado
+86,2020-03-17,2020-03-21,Bogotá,Usaquén,62,1,M,Importado,Casa,Recuperado
+87,2020-03-15,2020-03-21,Bogotá,Teusaquillo,68,1,F,Importado,Casa,Recuperado
+88,2020-03-21,2020-04-02,Bogotá,Suba,56,1,F,Relacionado,Casa,Recuperado
+89,2020-03-11,2020-03-21,Bogotá,Suba,59,1,F,Importado,Fallecido,Fallecido
+90,2020-03-11,2020-03-21,Bogotá,Suba,64,1,M,Relacionado,Casa,Recuperado
+91,2020-03-17,2020-03-21,Bogotá,Bosa,41,1,M,Desconocido,Casa,Recuperado
+92,2020-03-17,2020-03-21,Bogotá,San Cristóbal,47,1,M,Importado,Casa,Recuperado
+93,2020-03-06,2020-03-22,Bogotá,Engativá,58,1,F,Relacionado,Casa,Recuperado
+94,2020-03-17,2020-03-22,Bogotá,Usaquén,40,1,M,Importado,Casa,Recuperado
+95,2020-03-17,2020-03-22,Bogotá,Suba,52,1,M,Importado,Casa,Recuperado
+96,2020-03-17,2020-03-22,Bogotá,Fontibón,49,1,M,Importado,Casa,Recuperado
+97,2020-03-09,2020-03-22,Bogotá,Engativá,28,1,M,Relacionado,Casa,Recuperado
+98,2020-03-15,2020-03-22,Bogotá,Fontibón,26,1,M,Relacionado,Casa,Recuperado
+99,2020-03-16,2020-03-22,Bogotá,Kennedy,30,1,F,Relacionado,Casa,Recuperado
+100,2020-03-16,2020-03-22,Bogotá,Fontibón,72,1,F,Importado,Casa,Recuperado
+101,2020-03-10,2020-03-22,Bogotá,Kennedy,76,1,M,Desconocido,Fallecido,Fallecido
+102,2020-03-12,2020-03-22,Bogotá,Suba,45,1,F,Importado,Casa,Recuperado
+103,2020-03-16,2020-03-22,Bogotá,Usaquén,38,1,F,Importado,Casa,Recuperado
+104,2020-03-15,2020-03-22,Bogotá,Kennedy,34,1,F,Relacionado,Casa,Recuperado
+105,2020-03-17,2020-03-22,Bogotá,Chapinero,55,1,M,Importado,Casa,Recuperado
+106,2020-03-12,2020-03-21,Bogotá,Tunjuelito,32,1,F,Relacionado,Casa,Recuperado
+107,2020-03-20,2020-03-22,Bogotá,Usaquén,57,1,F,Importado,Casa,Recuperado
+108,2020-03-16,2020-03-22,Bogotá,Usaquén,26,1,M,Importado,Casa,Recuperado
+109,2020-03-13,2020-03-22,Bogotá,Chapinero,80,1,M,Relacionado,Casa,Recuperado
+110,2020-03-18,2020-03-22,Bogotá,Usaquén,19,1,F,Importado,Casa,Recuperado
+111,2020-03-14,2020-03-20,Bogotá,Fontibón,41,1,M,Importado,Casa,Recuperado
+112,2020-03-10,2020-03-22,Bogotá,Usaquén,61,1,M,Relacionado,Fallecido,Fallecido
+113,2020-03-16,2020-03-22,Bogotá,Suba,35,1,M,Importado,Casa,Recuperado
+114,2020-03-16,2020-03-22,Bogotá,Santa Fe,39,1,M,Importado,Casa,Recuperado
+115,2020-03-17,2020-03-22,Bogotá,Fontibón,31,1,M,Importado,Casa,Recuperado
+116,2020-03-16,2020-03-23,Bogotá,Engativá,21,1,F,Relacionado,Casa,Recuperado
+117,2020-03-18,2020-03-23,Bogotá,Chapinero,59,1,M,Relacionado,Casa,Recuperado
+118,2020-03-19,2020-03-23,Bogotá,Suba,28,1,F,Importado,Casa,Recuperado
+119,2020-03-17,2020-03-22,Bogotá,Suba,40,1,F,Relacionado,Casa,Recuperado
+120,2020-03-18,2020-03-22,Bogotá,Suba,18,1,F,Relacionado,Casa,Recuperado
+121,2020-03-13,2020-03-24,Bogotá,Engativá,23,1,F,Relacionado,Casa,Recuperado
+122,2020-03-13,2020-03-24,Bogotá,Suba,34,1,F,Relacionado,Casa,Recuperado
+123,2020-03-16,2020-03-24,Bogotá,Chapinero,48,1,F,Importado,Casa,Recuperado
+124,2020-03-18,2020-03-24,Bogotá,Chapinero,61,1,M,Importado,Casa,Recuperado
+125,2020-03-18,2020-03-24,Bogotá,Chapinero,58,1,F,Importado,Casa,Recuperado
+126,2020-03-17,2020-03-24,Bogotá,Chapinero,63,1,M,Relacionado,Casa,Recuperado
+127,2020-03-20,2020-03-24,Bogotá,Suba,59,1,M,Importado,Casa,Recuperado
+128,2020-03-13,2020-03-24,Bogotá,Fontibón,51,1,M,Importado,Casa,Recuperado
+129,2020-03-18,2020-03-24,Bogotá,Usaquén,29,1,M,Importado,Casa,Recuperado
+130,2020-03-18,2020-03-24,Bogotá,Usaquén,43,1,F,Relacionado,Casa,Recuperado
+131,2020-03-19,2020-03-24,Bogotá,Usaquén,73,1,M,Relacionado,Fallecido,Fallecido
+132,2020-03-19,2020-03-24,Bogotá,Engativá,74,1,F,Relacionado,Casa,Recuperado
+133,2020-03-19,2020-03-24,Bogotá,Teusaquillo,45,1,F,Importado,Casa,Recuperado
+134,2020-03-15,2020-03-24,Bogotá,Usaquén,34,1,M,Importado,Casa,Recuperado
+135,2020-03-19,2020-03-24,Bogotá,Usaquén,45,1,M,Relacionado,Casa,Recuperado
+136,2020-03-16,2020-03-24,Bogotá,Usaquén,48,1,M,Relacionado,Casa,Recuperado
+137,2020-03-12,2020-03-24,Bogotá,Usaquén,66,1,M,Relacionado,Casa,Recuperado
+138,2020-03-15,2020-03-24,Bogotá,Suba,44,1,F,Importado,Casa,Recuperado
+139,2020-03-21,2020-03-24,Bogotá,Engativá,51,1,F,Relacionado,Casa,Recuperado
+140,2020-03-18,2020-03-24,Bogotá,Engativá,27,1,F,Relacionado,Casa,Recuperado
+141,2020-03-11,2020-03-24,Bogotá,Chapinero,21,1,M,Importado,Casa,Recuperado
+142,2020-03-20,2020-03-24,Bogotá,Chapinero,60,1,F,Importado,Casa,Recuperado
+143,2020-03-18,2020-03-24,Bogotá,Puente Aranda,70,1,F,Importado,Casa,Recuperado
+144,2020-03-14,2020-03-24,Bogotá,Suba,30,1,F,Importado,Casa,Recuperado
+145,2020-03-20,2020-03-24,Bogotá,Usaquén,21,1,M,Importado,Casa,Recuperado
+146,2020-03-15,2020-03-24,Bogotá,Fontibón,58,1,M,Importado,Casa,Recuperado
+147,2020-03-19,2020-03-24,Bogotá,Chapinero,25,1,M,Importado,Casa,Recuperado
+148,2020-03-16,2020-03-24,Bogotá,Chapinero,25,1,F,Importado,Casa,Recuperado
+149,2020-03-19,2020-03-24,Bogotá,Usaquén,45,1,M,Importado,Casa,Recuperado
+150,2020-03-13,2020-03-24,Bogotá,Usaquén,33,1,F,Importado,Casa,Recuperado
+151,2020-03-15,2020-03-24,Bogotá,La Candelaria,43,1,F,Relacionado,Casa,Recuperado
+152,2020-03-17,2020-03-24,Bogotá,La Candelaria,63,1,M,Relacionado,Casa,Recuperado
+153,2020-03-16,2020-03-24,Bogotá,Usaquén,57,1,F,Relacionado,Casa,Recuperado
+154,2020-03-19,2020-03-24,Bogotá,Chapinero,23,1,F,Importado,Casa,Recuperado
+155,2020-03-15,2020-03-24,Bogotá,Suba,48,1,M,Importado,Casa,Recuperado
+156,2020-03-14,2020-03-24,Bogotá,Suba,62,1,M,Desconocido,Fallecido,Fallecido
+157,2020-03-15,2020-03-24,Bogotá,Engativá,35,1,M,Desconocido,Casa,Recuperado
+158,2020-03-14,2020-03-24,Bogotá,Kennedy,69,1,F,Desconocido,Casa,Recuperado
+159,2020-03-17,2020-03-24,Bogotá,Fontibón,52,1,F,Relacionado,Casa,Recuperado
+160,2020-03-11,2020-03-24,Bogotá,Teusaquillo,35,1,M,Importado,Casa,Recuperado
+161,2020-03-22,2020-03-25,Bogotá,Fontibón,40,1,M,Relacionado,Casa,Recuperado
+162,2020-03-14,2020-03-23,Bogotá,Teusaquillo,48,1,F,Relacionado,Casa,Recuperado
+163,2020-03-24,2020-03-25,Bogotá,Engativá,55,1,F,Relacionado,Casa,Recuperado
+164,2020-03-25,2020-03-25,Bogotá,Engativá,35,1,F,Relacionado,Casa,Recuperado
+165,2020-03-22,2020-03-25,Bogotá,Suba,50,1,F,Importado,Casa,Recuperado
+166,2020-03-25,2020-03-25,Bogotá,Barrios Unidos,43,1,F,Relacionado,Casa,Recuperado
+167,2020-04-13,2020-04-24,Bogotá,Kennedy,72,1,F,En estudio,Casa,Recuperado
+168,2020-03-09,2020-03-26,Bogotá,Chapinero,22,1,M,Importado,Casa,Recuperado
+169,2020-03-22,2020-03-26,Bogotá,Chapinero,37,1,F,Importado,Casa,Recuperado
+170,2020-03-18,2020-03-24,Bogotá,Suba,19,1,F,Importado,Casa,Recuperado
+171,2020-03-11,2020-03-24,Bogotá,Kennedy,40,1,F,Desconocido,Casa,Recuperado
+172,2020-03-20,2020-04-03,Bogotá,Suba,33,1,F,Relacionado,Casa,Recuperado
+173,2020-03-16,2020-03-24,Bogotá,Teusaquillo,37,1,F,Relacionado,Casa,Recuperado
+174,2020-03-05,2020-03-24,Bogotá,Teusaquillo,41,1,M,Relacionado,Casa,Recuperado
+175,2020-04-11,2020-04-24,Bogotá,Teusaquillo,8,1,M,Relacionado,Casa,Recuperado
+176,2020-03-15,2020-03-24,Bogotá,Engativá,84,1,F,Relacionado,Casa,Recuperado
+177,2020-03-13,2020-03-24,Bogotá,Engativá,61,1,F,Relacionado,Casa,Recuperado
+178,2020-03-12,2020-03-24,Bogotá,Usaquén,57,1,F,Importado,Casa,Recuperado
+179,2020-03-19,2020-03-24,Bogotá,Engativá,42,1,M,Relacionado,Casa,Recuperado
+180,2020-03-19,2020-03-23,Bogotá,Suba,50,1,M,Importado,Casa,Recuperado
+181,2020-03-16,2020-03-25,Bogotá,Suba,51,1,M,Desconocido,Casa,Recuperado
+182,2020-03-16,2020-03-25,Bogotá,Fontibón,39,1,M,Relacionado,Casa,Recuperado
+183,2020-03-18,2020-03-25,Bogotá,Fontibón,30,1,M,Relacionado,Casa,Recuperado
+184,2020-03-18,2020-03-26,Bogotá,Chapinero,85,1,M,Importado,Casa,Recuperado
+185,2020-03-17,2020-03-26,Bogotá,Chapinero,65,1,M,Relacionado,Casa,Recuperado
+186,2020-03-16,2020-03-26,Bogotá,Usaquén,23,1,F,Relacionado,Casa,Recuperado
+187,2020-03-20,2020-03-26,Bogotá,Fontibón,35,1,M,Importado,Casa,Recuperado
+188,2020-03-21,2020-03-26,Bogotá,Fontibón,32,1,F,Importado,Casa,Recuperado
+189,2020-03-14,2020-03-26,Bogotá,Kennedy,34,1,M,Importado,Casa,Recuperado
+190,2020-03-19,2020-03-26,Bogotá,Suba,48,1,M,Importado,Casa,Recuperado
+191,2020-03-19,2020-03-26,Bogotá,Bosa,42,1,F,Importado,Casa,Recuperado
+192,2020-03-21,2020-03-26,Bogotá,Kennedy,28,1,F,Importado,Casa,Recuperado
+193,2020-03-19,2020-03-26,Bogotá,Kennedy,28,1,M,Desconocido,Casa,Recuperado
+194,2020-03-22,2020-03-26,Bogotá,Bosa,31,1,M,Relacionado,Casa,Recuperado
+195,2020-03-17,2020-03-26,Bogotá,Fontibón,50,1,M,Importado,Casa,Recuperado
+196,2020-03-18,2020-03-26,Bogotá,Ciudad Bolívar,27,1,M,Importado,Casa,Recuperado
+197,2020-03-19,2020-03-26,Bogotá,Fontibón,52,1,M,Importado,Casa,Recuperado
+198,2020-03-16,2020-03-29,Bogotá,Chapinero,36,1,F,Importado,Casa,Recuperado
+199,2020-03-19,2020-03-26,Bogotá,Suba,47,1,F,Importado,Casa,Recuperado
+200,2020-03-22,2020-03-26,Bogotá,Kennedy,35,1,M,Importado,Casa,Recuperado
+201,2020-03-13,2020-03-26,Bogotá,Usaquén,37,1,M,Relacionado,Casa,Recuperado
+202,2020-03-20,2020-03-26,Bogotá,Kennedy,72,1,M,Desconocido,Fallecido,Fallecido
+203,2020-03-16,2020-03-26,Bogotá,Kennedy,74,1,F,Desconocido,Casa,Recuperado
+204,2020-03-15,2020-03-26,Bogotá,Kennedy,35,1,M,Importado,Casa,Recuperado
+205,2020-03-13,2020-03-26,Bogotá,Teusaquillo,71,1,F,Relacionado,Casa,Recuperado
+206,2020-03-06,2020-03-26,Bogotá,Barrios Unidos,71,1,M,Relacionado,Fallecido,Fallecido
+207,2020-03-09,2020-03-26,Bogotá,Suba,50,1,M,Importado,Casa,Recuperado
+208,2020-03-18,2020-03-26,Bogotá,Chapinero,80,1,M,Importado,Casa,Recuperado
+209,2020-03-17,2020-03-26,Bogotá,Engativá,30,1,F,Relacionado,Casa,Recuperado
+210,2020-03-17,2020-03-26,Bogotá,Engativá,24,1,F,Relacionado,Casa,Recuperado
+211,2020-03-20,2020-03-26,Bogotá,Engativá,20,1,M,Relacionado,Casa,Recuperado
+212,2020-03-19,2020-03-26,Bogotá,Engativá,47,1,M,Relacionado,Casa,Recuperado
+213,2020-03-18,2020-03-26,Bogotá,Engativá,26,1,M,Relacionado,Casa,Recuperado
+214,2020-03-21,2020-03-26,Bogotá,Engativá,24,1,F,Relacionado,Casa,Recuperado
+215,2020-03-18,2020-03-26,Bogotá,Santa Fe,62,1,F,Importado,Casa,Recuperado
+216,2020-03-20,2020-03-26,Bogotá,Usaquén,37,1,M,Importado,Casa,Recuperado
+217,2020-03-19,2020-03-26,Bogotá,Suba,32,1,M,Relacionado,Casa,Recuperado
+218,2020-03-21,2020-03-26,Bogotá,Teusaquillo,36,1,F,Relacionado,Casa,Recuperado
+219,2020-03-16,2020-03-26,Bogotá,Suba,84,1,M,Relacionado,Fallecido,Fallecido
+220,2020-03-17,2020-03-26,Bogotá,Antonio Nariño,56,1,F,Relacionado,Casa,Recuperado
+221,2020-03-20,2020-03-26,Bogotá,Bosa,33,1,F,Relacionado,Casa,Recuperado
+222,2020-03-16,2020-03-26,Bogotá,Suba,51,1,M,Relacionado,Casa,Recuperado
+223,2020-03-19,2020-03-25,Bogotá,Suba,43,1,M,Relacionado,Casa,Recuperado
+224,2020-03-18,2020-03-26,Bogotá,Suba,29,1,M,Relacionado,Casa,Recuperado
+225,2020-03-17,2020-03-26,Bogotá,Usaquén,40,1,M,Relacionado,Casa,Recuperado
+226,2020-03-22,2020-03-26,Bogotá,Usaquén,33,1,M,Importado,Casa,Recuperado
+227,2020-03-18,2020-03-26,Bogotá,Chapinero,42,1,M,Relacionado,Casa,Recuperado
+228,2020-03-17,2020-03-26,Bogotá,Puente Aranda,39,1,M,Importado,Casa,Recuperado
+229,2020-03-19,2020-03-26,Bogotá,Puente Aranda,43,1,M,Importado,Casa,Recuperado
+230,2020-03-17,2020-03-26,Bogotá,Kennedy,82,1,F,Desconocido,Casa,Recuperado
+231,2020-03-14,2020-03-26,Bogotá,Suba,41,1,M,Importado,Casa,Recuperado
+232,2020-03-10,2020-03-26,Bogotá,Chapinero,53,1,M,Desconocido,Casa,Recuperado
+233,2020-03-15,2020-03-26,Bogotá,Rafael Uribe Uribe,55,1,F,Desconocido,Casa,Recuperado
+234,2020-03-20,2020-03-26,Bogotá,Engativá,49,1,M,Relacionado,Fallecido,Fallecido
+235,2020-03-20,2020-03-26,Bogotá,Engativá,58,1,F,Relacionado,Casa,Recuperado
+236,2020-03-19,2020-03-26,Bogotá,Usme,38,1,F,Relacionado,Casa,Recuperado
+237,2020-03-17,2020-03-26,Bogotá,Bosa,31,1,F,Relacionado,Casa,Recuperado
+238,2020-03-22,2020-03-26,Bogotá,Barrios Unidos,64,1,F,Relacionado,Casa,Recuperado
+239,2020-03-13,2020-03-26,Bogotá,Suba,48,1,F,Desconocido,Fallecido,Fallecido
+240,2020-03-20,2020-03-26,Bogotá,Fontibón,33,1,F,Relacionado,Casa,Recuperado
+241,2020-03-13,2020-03-26,Bogotá,Bosa,35,1,M,Relacionado,Casa,Recuperado
+242,2020-03-16,2020-03-26,Bogotá,Santa Fe,43,1,M,Relacionado,Casa,Recuperado
+243,2020-03-23,2020-03-26,Bogotá,Rafael Uribe Uribe,58,1,F,Desconocido,Fallecido,Fallecido
+244,2020-03-19,2020-03-26,Bogotá,Suba,30,1,M,Relacionado,Casa,Recuperado
+245,2020-03-24,2020-03-26,Bogotá,Bosa,54,1,M,Desconocido,Casa,Recuperado
+246,2020-03-19,2020-03-26,Bogotá,Suba,53,1,F,Relacionado,Casa,Recuperado
+247,2020-03-17,2020-03-26,Bogotá,Engativá,38,1,F,Importado,Casa,Recuperado
+248,2020-03-16,2020-03-26,Bogotá,Kennedy,30,1,M,Relacionado,Casa,Recuperado
+249,2020-03-21,2020-03-26,Bogotá,Teusaquillo,38,1,M,Importado,Casa,Recuperado
+250,2020-03-16,2020-03-26,Bogotá,Engativá,31,1,F,Importado,Casa,Recuperado
+251,2020-03-22,2020-03-27,Bogotá,Engativá,38,1,M,Relacionado,Casa,Recuperado
+252,2020-03-16,2020-03-27,Bogotá,Usaquén,37,1,M,Importado,Casa,Recuperado
+253,2020-03-18,2020-03-27,Bogotá,Suba,68,1,F,Importado,Casa,Recuperado
+254,2020-03-22,2020-03-24,Bogotá,Teusaquillo,39,1,M,Relacionado,Casa,Recuperado
+255,2020-03-20,2020-03-27,Bogotá,Barrios Unidos,26,1,M,Relacionado,Casa,Recuperado
+256,2020-03-15,2020-03-27,Bogotá,Engativá,62,1,M,Relacionado,Casa,Recuperado
+257,2020-03-17,2020-03-27,Bogotá,Puente Aranda,30,1,M,Relacionado,Casa,Recuperado
+258,2020-03-20,2020-03-27,Bogotá,Usaquén,37,1,M,Importado,Casa,Recuperado
+259,2020-03-18,2020-03-26,Bogotá,Usaquén,33,1,F,Relacionado,Casa,Recuperado
+260,2020-03-20,2020-03-26,Bogotá,Suba,67,1,F,Importado,Casa,Recuperado
+261,2020-03-22,2020-03-28,Bogotá,Usaquén,68,1,F,Importado,Casa,Recuperado
+262,2020-03-17,2020-03-26,Bogotá,Santa Fe,39,1,M,Relacionado,Casa,Recuperado
+263,2020-03-17,2020-03-29,Bogotá,Tunjuelito,29,1,F,Relacionado,Casa,Recuperado
+264,2020-03-22,2020-03-27,Bogotá,Usaquén,50,1,F,Importado,Casa,Recuperado
+265,2020-03-25,2020-03-30,Bogotá,Usaquén,47,1,M,Relacionado,Casa,Recuperado
+266,2020-03-16,2020-03-26,Bogotá,Tunjuelito,25,1,M,Relacionado,Casa,Recuperado
+267,2020-03-19,2020-03-26,Bogotá,Suba,42,1,F,Importado,Casa,Recuperado
+268,2020-03-15,2020-03-26,Bogotá,Fontibón,62,1,F,Importado,Casa,Recuperado
+269,2020-03-17,2020-03-26,Bogotá,Kennedy,38,1,M,Desconocido,Casa,Recuperado
+270,2020-03-17,2020-03-26,Bogotá,Usaquén,45,1,F,Relacionado,Casa,Recuperado
+271,2020-03-17,2020-03-28,Bogotá,Puente Aranda,45,1,F,Desconocido,Casa,Recuperado
+272,2020-03-22,2020-03-27,Bogotá,Usaquén,45,1,M,Importado,Casa,Recuperado
+273,2020-03-12,2020-03-27,Bogotá,Usaquén,42,1,F,Relacionado,Casa,Recuperado
+274,2020-03-24,2020-03-27,Bogotá,Usaquén,42,1,F,En estudio,Casa,Recuperado
+275,2020-03-18,2020-03-27,Bogotá,Engativá,62,1,M,Importado,Casa,Recuperado
+276,2020-03-16,2020-03-28,Bogotá,Engativá,29,1,M,Relacionado,Casa,Recuperado
+277,2020-03-22,2020-03-28,Bogotá,Suba,70,1,M,Relacionado,Casa,Recuperado
+278,2020-03-19,2020-03-28,Bogotá,Suba,60,1,F,Desconocido,Casa,Recuperado
+279,2020-03-19,2020-03-27,Bogotá,Suba,50,1,F,Importado,Casa,Recuperado
+280,2020-03-25,2020-03-27,Bogotá,Chapinero,29,1,M,Relacionado,Casa,Recuperado
+281,2020-03-20,2020-03-27,Bogotá,Chapinero,69,1,F,Importado,Casa,Recuperado
+282,2020-03-25,2020-03-27,Bogotá,Engativá,52,1,M,Relacionado,Casa,Recuperado
+283,2020-03-23,2020-03-27,Bogotá,Kennedy,58,1,F,Importado,Casa,Recuperado
+284,2020-03-14,2020-03-27,Bogotá,Suba,46,1,M,Relacionado,Casa,Recuperado
+285,2020-03-15,2020-03-28,Bogotá,Kennedy,68,1,M,Desconocido,Casa,Recuperado
+286,2020-03-20,2020-03-27,Bogotá,Engativá,26,1,F,Desconocido,Casa,Recuperado
+287,2020-03-14,2020-03-27,Bogotá,Usaquén,38,1,M,Relacionado,Casa,Recuperado
+288,2020-03-21,2020-03-28,Bogotá,Usaquén,25,1,F,Importado,Casa,Recuperado
+289,2020-03-20,2020-03-27,Bogotá,Usaquén,22,1,F,Importado,Casa,Recuperado
+290,2020-03-18,2020-03-27,Bogotá,Engativá,33,1,M,Importado,Casa,Recuperado
+291,2020-03-23,2020-03-27,Bogotá,Suba,34,1,F,Relacionado,Casa,Recuperado
+292,2020-03-20,2020-03-27,Bogotá,Kennedy,28,1,F,Importado,Casa,Recuperado
+293,2020-03-25,2020-03-28,Bogotá,Suba,42,1,F,Relacionado,Casa,Recuperado
+294,2020-03-18,2020-03-28,Bogotá,Usme,51,1,M,Importado,Casa,Recuperado
+295,2020-03-19,2020-03-28,Bogotá,Usaquén,65,1,M,Relacionado,Casa,Recuperado
+296,2020-03-27,2020-03-29,Bogotá,Bosa,34,1,M,Relacionado,Casa,Recuperado
+297,2020-03-27,2020-03-29,Bogotá,Engativá,30,1,M,Relacionado,Casa,Recuperado
+298,2020-03-15,2020-03-26,Bogotá,Suba,50,1,M,Relacionado,Casa,Recuperado
+299,2020-04-04,2020-04-19,Bogotá,Suba,22,1,M,Relacionado,Casa,Recuperado
+300,2020-03-15,2020-03-26,Bogotá,Santa Fe,32,1,M,Relacionado,Casa,Recuperado
+301,2020-03-19,2020-03-26,Bogotá,Usaquén,26,1,M,Importado,Casa,Recuperado
+302,2020-03-14,2020-03-26,Bogotá,Usaquén,47,1,F,Relacionado,Casa,Recuperado
+303,2020-03-14,2020-03-26,Bogotá,Kennedy,38,1,M,Importado,Casa,Recuperado
+304,2020-03-19,2020-03-29,Bogotá,Rafael Uribe Uribe,38,1,M,Relacionado,Casa,Recuperado
+305,2020-03-24,2020-03-29,Bogotá,Usaquén,75,1,F,Desconocido,Fallecido,Fallecido
+306,2020-03-14,2020-03-29,Bogotá,Suba,27,1,M,Desconocido,Casa,Recuperado
+307,2020-03-22,2020-03-29,Bogotá,Bosa,51,1,F,Importado,Casa,Recuperado
+308,2020-03-23,2020-03-29,Bogotá,Fontibón,54,1,F,Relacionado,Casa,Recuperado
+309,2020-03-20,2020-03-29,Bogotá,Puente Aranda,52,1,M,Relacionado,Casa,Recuperado
+310,2020-03-16,2020-03-28,Bogotá,Usaquén,23,1,M,Importado,Casa,Recuperado
+311,2020-03-19,2020-03-28,Bogotá,Suba,50,1,M,Importado,Casa,Recuperado
+312,2020-03-20,2020-03-28,Bogotá,Usaquén,61,1,M,Importado,Casa,Recuperado
+313,2020-03-20,2020-03-28,Bogotá,Usaquén,61,1,F,Importado,Casa,Recuperado
+314,2020-03-26,2020-03-28,Bogotá,Kennedy,73,1,M,Relacionado,Casa,Recuperado
+315,2020-03-18,2020-03-28,Bogotá,Kennedy,51,1,F,Relacionado,Casa,Recuperado
+316,2020-03-20,2020-03-28,Bogotá,Engativá,28,1,M,Relacionado,Casa,Recuperado
+317,2020-03-18,2020-03-29,Bogotá,Usaquén,33,1,F,Importado,Casa,Recuperado
+318,2020-03-18,2020-03-29,Bogotá,Suba,38,1,M,Importado,Casa,Recuperado
+319,2020-03-20,2020-03-29,Bogotá,Suba,38,1,F,Importado,Casa,Recuperado
+320,2020-03-19,2020-03-29,Bogotá,Suba,31,1,M,Importado,Casa,Recuperado
+321,2020-03-25,2020-03-28,Bogotá,Suba,74,1,M,Importado,Casa,Recuperado
+322,2020-03-23,2020-03-28,Bogotá,Fontibón,29,1,M,Importado,Casa,Recuperado
+323,2020-03-26,2020-03-28,Bogotá,Suba,51,1,F,Relacionado,Casa,Recuperado
+324,2020-03-22,2020-03-28,Bogotá,Ciudad Bolívar,21,1,F,Relacionado,Casa,Recuperado
+325,2020-03-24,2020-03-28,Bogotá,Suba,57,1,M,Relacionado,Casa,Recuperado
+326,2020-03-21,2020-03-28,Bogotá,Usaquén,61,1,F,Relacionado,Casa,Recuperado
+327,2020-03-22,2020-03-28,Bogotá,Fontibón,35,1,M,Importado,Casa,Recuperado
+328,2020-03-23,2020-03-28,Bogotá,Teusaquillo,30,1,M,Relacionado,Casa,Recuperado
+329,2020-03-17,2020-03-28,Bogotá,Kennedy,31,1,F,Importado,Casa,Recuperado
+330,2020-03-14,2020-03-28,Bogotá,Kennedy,46,1,M,Relacionado,Casa,Recuperado
+331,2020-03-24,2020-03-28,Bogotá,Teusaquillo,84,1,M,Relacionado,Fallecido (No aplica No causa Directa),Fallecido (No aplica No causa Directa)
+332,2020-03-19,2020-03-28,Bogotá,Fontibón,47,1,F,Relacionado,Casa,Recuperado
+333,2020-03-24,2020-03-28,Bogotá,Fontibón,72,1,F,Importado,Fallecido,Fallecido
+334,2020-03-15,2020-03-28,Bogotá,Fontibón,65,1,M,Importado,Casa,Recuperado
+335,2020-03-22,2020-03-28,Bogotá,Suba,33,1,F,Importado,Casa,Recuperado
+336,2020-03-25,2020-03-29,Bogotá,Engativá,51,1,M,Relacionado,Casa,Recuperado
+337,2020-03-26,2020-03-29,Bogotá,Engativá,2,1,M,Relacionado,Casa,Recuperado
+338,2020-03-24,2020-03-29,Bogotá,Engativá,47,1,F,Relacionado,Casa,Recuperado
+339,2020-03-17,2020-03-28,Bogotá,Kennedy,44,1,M,Desconocido,Casa,Recuperado
+340,2020-03-16,2020-03-29,Bogotá,Usaquén,50,1,M,En estudio,Fallecido,Fallecido
+341,2020-03-26,2020-03-28,Bogotá,Kennedy,30,1,F,Relacionado,Casa,Recuperado
+342,2020-03-23,2020-03-28,Bogotá,Engativá,27,1,F,Relacionado,Casa,Recuperado
+343,2020-03-21,2020-03-28,Bogotá,Suba,35,1,M,Importado,Casa,Recuperado
+344,2020-03-22,2020-03-28,Bogotá,Chapinero,36,1,M,Relacionado,Casa,Recuperado
+345,2020-03-16,2020-03-28,Bogotá,Ciudad Bolívar,28,1,M,Importado,Casa,Recuperado
+346,2020-03-19,2020-03-28,Bogotá,Engativá,25,1,F,Relacionado,Casa,Recuperado
+347,2020-03-19,2020-03-28,Bogotá,Engativá,47,1,F,Relacionado,Casa,Recuperado
+348,2020-03-19,2020-03-28,Bogotá,Engativá,2,1,F,Relacionado,Casa,Recuperado
+349,2020-03-17,2020-03-28,Bogotá,Suba,64,1,F,Relacionado,Casa,Recuperado
+350,2020-03-17,2020-03-28,Bogotá,Chapinero,51,1,M,Importado,Casa,Recuperado
+351,2020-03-15,2020-03-30,Bogotá,Usaquén,49,1,M,Desconocido,Casa,Recuperado
+352,2020-03-27,2020-03-30,Bogotá,Ciudad Bolívar,28,1,M,Relacionado,Casa,Recuperado
+353,2020-03-18,2020-03-30,Bogotá,Bosa,33,1,M,Relacionado,Casa,Recuperado
+354,2020-03-17,2020-03-29,Bogotá,Chapinero,69,1,M,Relacionado,Casa,Recuperado
+355,2020-03-23,2020-03-28,Bogotá,Engativá,2,1,F,Relacionado,Casa,Recuperado
+356,2020-03-22,2020-03-26,Bogotá,Usaquén,39,1,F,Desconocido,Casa,Recuperado
+357,2020-03-24,2020-03-28,Bogotá,Usaquén,50,1,M,Desconocido,Casa,Recuperado
+358,2020-03-15,2020-03-28,Bogotá,Suba,15,1,F,Relacionado,Casa,Recuperado
+359,2020-03-08,2020-03-29,Bogotá,Teusaquillo,30,1,M,Importado,Casa,Recuperado
+360,2020-03-17,2020-03-29,Bogotá,Usaquén,27,1,M,Relacionado,Casa,Recuperado
+361,2020-03-21,2020-03-28,Bogotá,Suba,32,1,M,Relacionado,Casa,Recuperado
+362,2020-03-26,2020-03-28,Bogotá,Usaquén,58,1,F,Desconocido,Casa,Recuperado
+363,2020-03-19,2020-03-28,Bogotá,Kennedy,56,1,F,Relacionado,Casa,Recuperado
+364,2020-03-22,2020-03-30,Bogotá,Chapinero,13,1,M,Relacionado,Casa,Recuperado
+365,2020-03-17,2020-03-29,Bogotá,Kennedy,66,1,F,Relacionado,Fallecido,Fallecido
+366,2020-03-17,2020-03-29,Bogotá,Suba,45,1,M,Relacionado,Casa,Recuperado
+367,2020-04-13,2020-04-18,Bogotá,Kennedy,40,1,F,En estudio,Casa,Recuperado
+368,2020-03-15,2020-03-29,Bogotá,Suba,55,1,F,Relacionado,Casa,Recuperado
+369,2020-03-24,2020-03-30,Bogotá,Usaquén,18,1,M,Importado,Casa,Recuperado
+370,2020-03-25,2020-03-30,Bogotá,Engativá,56,1,M,Relacionado,Casa,Recuperado
+371,2020-03-21,2020-03-30,Bogotá,Chapinero,66,1,F,Desconocido,Fallecido,Fallecido
+372,2020-03-16,2020-03-30,Bogotá,Usaquén,36,1,M,Desconocido,Casa,Recuperado
+373,2020-03-19,2020-03-24,Bogotá,Engativá,35,1,M,Importado,Casa,Recuperado
+374,2020-03-16,2020-03-27,Bogotá,Usaquén,31,1,M,Desconocido,Casa,Recuperado
+375,2020-03-17,2020-03-27,Bogotá,Kennedy,49,1,M,Desconocido,Fallecido,Fallecido
+376,2020-03-20,2020-03-30,Bogotá,Puente Aranda,43,1,F,Relacionado,Casa,Recuperado
+377,2020-03-18,2020-03-30,Bogotá,Teusaquillo,28,1,F,Desconocido,Casa,Recuperado
+378,2020-03-18,2020-03-30,Bogotá,Chapinero,32,1,M,Importado,Casa,Recuperado
+379,2020-03-21,2020-03-30,Bogotá,Teusaquillo,41,1,M,Importado,Casa,Recuperado
+380,2020-03-19,2020-03-30,Bogotá,Engativá,38,1,F,Relacionado,Casa,Recuperado
+381,2020-03-16,2020-03-30,Bogotá,Bosa,18,1,M,Relacionado,Casa,Recuperado
+382,2020-03-16,2020-03-30,Bogotá,Puente Aranda,35,1,M,Desconocido,Casa,Recuperado
+383,2020-03-25,2020-03-30,Bogotá,Engativá,31,1,F,Relacionado,Casa,Recuperado
+384,2020-03-21,2020-03-29,Bogotá,Suba,20,1,F,Importado,Casa,Recuperado
+385,2020-03-20,2020-03-29,Bogotá,Engativá,2,1,M,Relacionado,Casa,Recuperado
+386,2020-03-22,2020-03-29,Bogotá,Suba,37,1,M,Importado,Casa,Recuperado
+387,2020-03-27,2020-03-29,Bogotá,Engativá,29,1,F,Relacionado,Casa,Recuperado
+388,2020-03-17,2020-03-29,Bogotá,Engativá,38,1,M,Relacionado,Casa,Recuperado
+389,2020-03-23,2020-03-29,Bogotá,Kennedy,54,1,F,Importado,Casa,Recuperado
+390,2020-03-19,2020-03-29,Bogotá,Tunjuelito,30,1,F,Importado,Casa,Recuperado
+391,2020-03-24,2020-03-29,Bogotá,Suba,44,1,F,Relacionado,Casa,Recuperado
+392,2020-03-14,2020-03-29,Bogotá,Suba,63,1,M,Importado,Casa,Recuperado
+393,2020-03-19,2020-03-29,Bogotá,Suba,15,1,F,Relacionado,Casa,Recuperado
+394,2020-03-23,2020-03-29,Bogotá,Engativá,39,1,F,Desconocido,Casa,Recuperado
+395,2020-03-21,2020-03-29,Bogotá,Antonio Nariño,49,1,F,Relacionado,Casa,Recuperado
+396,2020-03-07,2020-03-29,Bogotá,Usaquén,73,1,M,Desconocido,Fallecido,Fallecido
+397,2020-03-14,2020-03-29,Bogotá,Usaquén,72,1,M,Desconocido,Fallecido,Fallecido
+398,2020-03-25,2020-03-29,Bogotá,Suba,35,1,M,Desconocido,Casa,Recuperado
+399,2020-03-07,2020-03-29,Bogotá,Kennedy,50,1,M,En estudio,Fallecido,Fallecido
+400,2020-03-26,2020-04-04,Bogotá,Suba,51,1,F,Desconocido,Casa,Recuperado
+401,2020-03-23,2020-04-02,Bogotá,Puente Aranda,54,1,F,Importado,Casa,Recuperado
+402,2020-03-16,2020-03-24,Bogotá,Chapinero,31,1,F,Importado,Casa,Recuperado
+403,2020-03-14,2020-03-27,Bogotá,Tunjuelito,32,1,M,Relacionado,Casa,Recuperado
+404,2020-03-19,2020-03-27,Bogotá,Engativá,23,1,F,Importado,Casa,Recuperado
+405,2020-04-10,2020-04-24,Bogotá,Ciudad Bolívar,35,1,F,Relacionado,Casa,Recuperado
+406,2020-03-19,2020-03-24,Bogotá,Usaquén,44,1,F,Importado,Casa,Recuperado
+407,2020-03-17,2020-03-24,Bogotá,Antonio Nariño,17,1,F,Desconocido,Casa,Recuperado
+408,2020-03-18,2020-03-24,Bogotá,Teusaquillo,39,1,F,Importado,Casa,Recuperado
+409,2020-03-18,2020-03-24,Bogotá,Fontibón,30,1,F,En estudio,Casa,Recuperado
+410,2020-03-16,2020-03-24,Bogotá,Engativá,56,1,M,Desconocido,Casa,Recuperado
+411,2020-03-22,2020-03-26,Bogotá,Engativá,24,1,M,Importado,Casa,Recuperado
+412,2020-03-22,2020-03-27,Bogotá,Kennedy,54,1,M,En estudio,Casa,Recuperado
+413,2020-03-19,2020-03-28,Bogotá,Usaquén,29,1,M,Importado,Casa,Recuperado
+414,2020-03-17,2020-03-29,Bogotá,Usme,26,1,F,Relacionado,Casa,Recuperado
+415,2020-03-27,2020-03-31,Bogotá,San Cristóbal,32,1,F,Relacionado,Casa,Recuperado
+416,2020-03-22,2020-03-31,Bogotá,Suba,66,1,F,Relacionado,Casa,Recuperado
+417,2020-03-23,2020-03-31,Bogotá,Fontibón,54,1,F,En estudio,Casa,Recuperado
+418,2020-03-28,2020-03-31,Bogotá,Usaquén,56,1,F,Importado,Casa,Recuperado
+419,2020-03-22,2020-03-31,Bogotá,Bosa,42,1,F,Relacionado,Casa,Recuperado
+420,2020-03-19,2020-03-31,Bogotá,Kennedy,23,1,M,Relacionado,Casa,Recuperado
+421,2020-03-26,2020-03-31,Bogotá,Bosa,24,1,F,Relacionado,Casa,Recuperado
+422,2020-03-24,2020-03-31,Bogotá,Engativá,12,1,M,Desconocido,Casa,Recuperado
+423,2020-03-23,2020-03-31,Bogotá,Barrios Unidos,64,1,F,Relacionado,Casa,Recuperado
+424,2020-03-28,2020-03-31,Bogotá,Teusaquillo,29,1,F,Relacionado,Casa,Recuperado
+425,2020-03-28,2020-03-31,Bogotá,Los Mártires,32,1,M,Relacionado,Casa,Recuperado
+426,2020-03-25,2020-03-31,Bogotá,Kennedy,21,1,F,En estudio,Casa,Recuperado
+427,2020-03-21,2020-03-31,Bogotá,Fontibón,22,1,F,Relacionado,Casa,Recuperado
+428,2020-03-20,2020-03-31,Bogotá,Teusaquillo,58,1,F,Desconocido,Casa,Recuperado
+429,2020-03-23,2020-03-31,Bogotá,Fontibón,53,1,F,En estudio,Casa,Recuperado
+430,2020-03-22,2020-03-31,Bogotá,Usaquén,56,1,F,Relacionado,Casa,Recuperado
+431,2020-03-25,2020-03-28,Bogotá,Teusaquillo,56,1,M,Relacionado,Casa,Recuperado
+432,2020-03-24,2020-03-28,Bogotá,Teusaquillo,41,1,M,Relacionado,Casa,Recuperado
+433,2020-03-22,2020-03-30,Bogotá,Suba,31,1,F,Relacionado,Casa,Recuperado
+434,2020-03-24,2020-03-30,Bogotá,Suba,31,1,M,Relacionado,Casa,Recuperado
+435,2020-03-24,2020-03-30,Bogotá,Bosa,40,1,F,Desconocido,Casa,Recuperado
+436,2020-03-20,2020-03-30,Bogotá,Usaquén,27,1,F,Relacionado,Casa,Recuperado
+437,2020-03-16,2020-03-30,Bogotá,Suba,39,1,F,Relacionado,Casa,Recuperado
+438,2020-03-21,2020-03-30,Bogotá,Antonio Nariño,26,1,M,Relacionado,Casa,Recuperado
+439,2020-03-27,2020-03-30,Bogotá,Kennedy,39,1,M,Importado,Casa,Recuperado
+440,2020-03-19,2020-03-30,Bogotá,Usme,59,1,F,En estudio,Casa,Recuperado
+441,2020-03-22,2020-03-30,Bogotá,Teusaquillo,71,1,F,Desconocido,Fallecido,Fallecido
+442,2020-03-21,2020-03-31,Bogotá,Los Mártires,44,1,F,Relacionado,Casa,Recuperado
+443,2020-03-17,2020-03-31,Bogotá,Chapinero,24,1,F,Relacionado,Casa,Recuperado
+444,,2020-04-09,Bogotá,Teusaquillo,56,1,M,Relacionado,Casa,Recuperado
+445,2020-03-15,2020-03-30,Bogotá,Chapinero,20,1,M,En estudio,Casa,Recuperado
+446,2020-03-22,2020-03-30,Bogotá,Engativá,31,1,M,Relacionado,Casa,Recuperado
+447,2020-03-18,2020-03-30,Bogotá,Usaquén,40,1,M,Importado,Casa,Recuperado
+448,2020-03-21,2020-03-30,Bogotá,Engativá,34,1,F,Relacionado,Casa,Recuperado
+449,2020-03-16,2020-03-30,Bogotá,Suba,70,1,M,Importado,Fallecido,Fallecido
+450,2020-03-21,2020-03-30,Bogotá,Ciudad Bolívar,74,1,F,Relacionado,Fallecido,Fallecido
+451,2020-03-27,2020-03-30,Bogotá,Ciudad Bolívar,30,1,M,Relacionado,Casa,Recuperado
+452,2020-03-05,2020-03-30,Bogotá,Chapinero,23,1,M,En estudio,Casa,Recuperado
+453,2020-04-14,2020-04-23,Bogotá,Engativá,31,1,F,Relacionado,Casa,Recuperado
+454,2020-03-15,2020-03-30,Bogotá,Usaquén,26,1,F,Relacionado,Casa,Recuperado
+455,2020-03-19,2020-03-30,Bogotá,Suba,38,1,M,Relacionado,Casa,Recuperado
+456,2020-03-23,2020-03-30,Bogotá,Suba,49,1,M,Importado,Casa,Recuperado
+457,2020-03-19,2020-03-30,Bogotá,Suba,36,1,F,Importado,Casa,Recuperado
+458,2020-03-19,2020-03-30,Bogotá,Fontibón,27,1,F,En estudio,Casa,Recuperado
+459,2020-03-21,2020-03-30,Bogotá,Fontibón,26,1,M,Importado,Casa,Recuperado
+460,2020-03-27,2020-03-31,Bogotá,Suba,75,1,M,Relacionado,Casa,Recuperado
+461,2020-03-20,2020-03-30,Bogotá,Suba,79,1,F,Relacionado,Fallecido,Fallecido
+462,2020-03-25,2020-03-30,Bogotá,Engativá,33,1,F,Relacionado,Casa,Recuperado
+463,2020-03-26,2020-04-02,Bogotá,Usaquén,39,1,F,Relacionado,Casa,Recuperado
+464,2020-03-21,2020-03-30,Bogotá,Chapinero,61,1,F,Importado,Casa,Recuperado
+465,2020-03-04,2020-03-30,Bogotá,Suba,25,1,F,Importado,Casa,Recuperado
+466,2020-03-23,2020-03-30,Bogotá,Puente Aranda,38,1,F,En estudio,Casa,Recuperado
+467,2020-03-21,2020-03-30,Bogotá,Engativá,39,1,F,Desconocido,Fallecido,Fallecido
+468,2020-03-24,2020-03-30,Bogotá,Usaquén,45,1,F,Relacionado,Casa,Recuperado
+469,2020-03-21,2020-03-29,Bogotá,Los Mártires,47,1,F,Relacionado,Casa,Recuperado
+470,2020-03-19,2020-03-30,Bogotá,Kennedy,60,1,F,En estudio,Fallecido,Fallecido
+471,2020-03-21,2020-03-30,Bogotá,Suba,33,1,F,Relacionado,Casa,Recuperado
+472,2020-03-21,2020-04-03,Bogotá,Fontibón,33,1,M,Relacionado,Fallecido,Fallecido
+473,2020-03-19,2020-03-28,Bogotá,Teusaquillo,55,1,M,Importado,Casa,Recuperado
+474,2020-03-20,2020-03-30,Bogotá,Ciudad Bolívar,41,1,F,Desconocido,Casa,Recuperado
+475,2020-03-21,2020-03-30,Bogotá,Los Mártires,60,1,M,Relacionado,Casa,Recuperado
+476,2020-03-23,2020-04-03,Bogotá,Suba,59,1,M,Relacionado,Fallecido,Fallecido
+477,2020-03-18,2020-04-03,Bogotá,Teusaquillo,60,1,F,Importado,Casa,Recuperado
+478,2020-03-27,2020-03-31,Bogotá,Engativá,23,1,M,Relacionado,Casa,Recuperado
+479,2020-03-22,2020-04-03,Bogotá,Suba,35,1,M,Importado,Casa,Recuperado
+480,2020-03-23,2020-04-03,Bogotá,Usaquén,59,1,F,Relacionado,Casa,Recuperado
+481,2020-03-23,2020-03-31,Bogotá,Usaquén,36,1,M,Relacionado,Casa,Recuperado
+482,2020-03-19,2020-03-31,Bogotá,Usaquén,66,1,F,Relacionado,Casa,Recuperado
+483,2020-03-22,2020-04-03,Bogotá,Teusaquillo,39,1,M,Importado,Casa,Recuperado
+484,2020-03-21,2020-04-03,Bogotá,Suba,62,1,F,Importado,Casa,Recuperado
+485,2020-04-13,2020-04-20,Bogotá,San Cristóbal,24,1,F,Relacionado,Casa,Recuperado
+486,2020-03-22,2020-04-03,Bogotá,Usaquén,71,1,M,Relacionado,Casa,Recuperado
+487,2020-03-24,2020-04-03,Bogotá,Usaquén,66,1,F,Relacionado,Casa,Recuperado
+488,2020-03-21,2020-04-01,Bogotá,Suba,60,1,F,Relacionado,Casa,Recuperado
+489,2020-03-18,2020-04-03,Bogotá,Engativá,57,1,M,Importado,Casa,Recuperado
+490,2020-03-21,2020-04-03,Bogotá,Puente Aranda,21,1,F,En estudio,Casa,Recuperado
+491,2020-03-22,2020-04-03,Bogotá,Puente Aranda,24,1,M,En estudio,Casa,Recuperado
+492,2020-03-21,2020-04-03,Bogotá,Engativá,29,1,M,Importado,Casa,Recuperado
+493,2020-03-15,2020-04-01,Bogotá,Suba,33,1,M,Desconocido,Fallecido,Fallecido
+494,2020-03-24,2020-04-01,Bogotá,Usaquén,44,1,M,Relacionado,Casa,Recuperado
+495,2020-03-18,2020-04-01,Bogotá,Usaquén,28,1,F,Relacionado,Casa,Recuperado
+496,2020-03-18,2020-04-03,Bogotá,Fontibón,50,1,F,En estudio,Casa,Recuperado
+497,2020-03-21,2020-04-03,Bogotá,Fontibón,38,1,F,Importado,Casa,Recuperado
+498,2020-03-29,2020-04-27,Bogotá,Kennedy,67,1,M,En estudio,Casa,Recuperado
+499,2020-03-14,2020-04-03,Bogotá,Kennedy,52,1,F,En estudio,Casa,Recuperado
+500,2020-03-28,2020-04-03,Bogotá,Kennedy,74,1,F,Relacionado,Casa,Recuperado
+501,2020-03-23,2020-04-03,Bogotá,Suba,50,1,M,Importado,Casa,Recuperado
+502,2020-03-25,2020-04-03,Bogotá,Rafael Uribe Uribe,62,1,M,Relacionado,Casa,Recuperado
+503,2020-03-27,2020-04-03,Bogotá,Teusaquillo,39,1,F,Importado,Casa,Recuperado
+504,2020-03-27,2020-04-03,Bogotá,Teusaquillo,84,1,F,Relacionado,Casa,Recuperado
+505,2020-03-23,2020-04-03,Bogotá,Los Mártires,55,1,F,Importado,Casa,Recuperado
+506,2020-03-20,2020-04-03,Bogotá,Los Mártires,59,1,F,Importado,Casa,Recuperado
+507,2020-03-25,2020-04-03,Bogotá,Teusaquillo,5,1,F,Relacionado,Casa,Recuperado
+508,2020-03-28,2020-04-03,Bogotá,Usaquén,25,1,M,Importado,Casa,Recuperado
+509,2020-03-18,2020-04-03,Bogotá,Antonio Nariño,47,1,F,Importado,Casa,Recuperado
+510,2020-03-26,2020-04-03,Bogotá,Fontibón,60,1,M,En estudio,Casa,Recuperado
+511,2020-03-23,2020-04-03,Bogotá,Rafael Uribe Uribe,37,1,F,Relacionado,Casa,Recuperado
+512,2020-03-24,2020-04-03,Bogotá,Ciudad Bolívar,69,1,M,Relacionado,Casa,Recuperado
+513,2020-03-26,2020-04-01,Bogotá,Kennedy,67,1,F,Desconocido,Fallecido,Fallecido
+514,2020-03-21,2020-04-03,Bogotá,Engativá,59,1,M,En estudio,Casa,Recuperado
+515,2020-03-14,2020-04-03,Bogotá,Bosa,28,1,F,Relacionado,Casa,Recuperado
+516,2020-03-25,2020-04-03,Bogotá,Chapinero,67,1,F,Importado,Casa,Recuperado
+517,2020-03-26,2020-04-01,Bogotá,Chapinero,29,1,F,Relacionado,Casa,Recuperado
+518,2020-03-29,2020-04-03,Bogotá,Bosa,32,1,F,Relacionado,Casa,Recuperado
+519,2020-03-20,2020-04-03,Bogotá,Suba,40,1,M,Importado,Casa,Recuperado
+520,2020-03-29,2020-04-01,Bogotá,Chapinero,25,1,F,Relacionado,Casa,Recuperado
+521,2020-03-29,2020-04-01,Bogotá,Usaquén,22,1,F,Relacionado,Casa,Recuperado
+522,2020-03-25,2020-04-03,Bogotá,Kennedy,69,1,M,Relacionado,Casa,Recuperado
+523,2020-03-27,2020-04-03,Bogotá,Santa Fe,10,2,M,En estudio,Casa,Recuperado
+524,2020-03-14,2020-04-03,Bogotá,Usme,47,1,F,Importado,Casa,Recuperado
+525,2020-03-19,2020-04-03,Bogotá,Kennedy,60,1,M,En estudio,Casa,Recuperado
+526,2020-03-22,2020-04-03,Bogotá,Antonio Nariño,29,1,F,Relacionado,Casa,Recuperado
+527,2020-03-26,2020-04-03,Bogotá,Bosa,10,1,M,Relacionado,Casa,Recuperado
+528,2020-03-22,2020-04-03,Bogotá,Bosa,27,1,F,Relacionado,Casa,Recuperado
+529,2020-03-27,2020-04-03,Bogotá,Bosa,52,1,M,Relacionado,Casa,Recuperado
+530,2020-03-22,2020-04-03,Bogotá,Bosa,49,1,F,Relacionado,Casa,Recuperado
+531,2020-03-26,2020-04-01,Bogotá,Engativá,50,1,M,Relacionado,Fallecido,Fallecido
+532,2020-03-25,2020-04-03,Bogotá,Fontibón,47,1,F,Relacionado,Casa,Recuperado
+533,2020-03-13,2020-04-03,Bogotá,Bosa,34,1,F,En estudio,Casa,Recuperado
+534,2020-03-24,2020-04-01,Bogotá,Teusaquillo,34,1,M,Relacionado,Casa,Recuperado
+535,2020-03-20,2020-04-03,Bogotá,Engativá,20,1,M,Importado,Casa,Recuperado
+536,2020-03-25,2020-04-03,Bogotá,Engativá,42,1,F,En estudio,Casa,Recuperado
+537,2020-03-17,2020-04-03,Bogotá,Usaquén,32,1,M,Importado,Casa,Recuperado
+538,2020-03-20,2020-04-03,Bogotá,Chapinero,28,1,M,Relacionado,Casa,Recuperado
+539,2020-03-21,2020-04-03,Bogotá,Chapinero,38,1,F,Relacionado,Casa,Recuperado
+540,2020-03-21,2020-04-03,Bogotá,Chapinero,3,1,M,Relacionado,Casa,Recuperado
+541,2020-03-21,2020-04-03,Bogotá,Chapinero,48,1,M,Relacionado,Casa,Recuperado
+542,2020-03-20,2020-04-03,Bogotá,Chapinero,22,1,M,Importado,Casa,Recuperado
+543,2020-03-21,2020-04-02,Bogotá,Fontibón,71,1,M,Relacionado,Casa,Recuperado
+544,2020-03-16,2020-04-02,Bogotá,Chapinero,45,1,M,Desconocido,Casa,Recuperado
+545,2020-03-28,2020-04-02,Bogotá,Fontibón,35,1,M,Relacionado,Casa,Recuperado
+546,2020-03-19,2020-04-02,Bogotá,Usaquén,70,1,M,Desconocido,Casa,Recuperado
+547,2020-03-20,2020-04-02,Bogotá,Usaquén,88,1,F,Desconocido,Casa,Recuperado
+548,2020-03-16,2020-04-02,Bogotá,Fontibón,52,1,F,En estudio,Casa,Recuperado
+549,2020-03-22,2020-04-02,Bogotá,Usaquén,27,1,M,Importado,Casa,Recuperado
+550,2020-03-22,2020-04-01,Bogotá,Kennedy,71,1,F,Relacionado,Fallecido,Fallecido
+551,2020-03-23,2020-04-03,Bogotá,Usme,21,1,F,Importado,Casa,Recuperado
+552,2020-03-21,2020-04-01,Bogotá,Suba,41,1,M,Desconocido,Casa,Recuperado
+553,2020-03-20,2020-04-03,Bogotá,Chapinero,29,1,M,Relacionado,Casa,Recuperado
+554,2020-03-22,2020-04-03,Bogotá,Chapinero,46,1,M,En estudio,Casa,Recuperado
+555,2020-03-15,2020-04-03,Bogotá,Suba,70,1,F,Relacionado,Casa,Recuperado
+556,2020-03-28,2020-04-01,Bogotá,Kennedy,36,1,M,Relacionado,Fallecido,Fallecido
+557,2020-03-27,2020-04-01,Bogotá,Engativá,33,1,M,Relacionado,Casa,Recuperado
+558,2020-03-24,2020-04-01,Bogotá,Usaquén,26,1,M,Relacionado,Casa,Recuperado
+559,2020-03-22,2020-04-01,Bogotá,Suba,66,1,F,Desconocido,Casa,Recuperado
+560,2020-03-28,2020-04-01,Bogotá,Usaquén,83,1,F,Importado,Casa,Recuperado
+561,2020-03-15,2020-04-03,Bogotá,Suba,44,1,F,Importado,Casa,Recuperado
+562,2020-03-23,2020-04-01,Bogotá,Usaquén,34,1,F,Relacionado,Casa,Recuperado
+563,2020-03-15,2020-04-01,Bogotá,Engativá,62,1,F,Relacionado,Casa,Recuperado
+564,2020-03-21,2020-04-03,Bogotá,Suba,53,1,M,En estudio,Casa,Recuperado
+565,2020-03-09,2020-04-01,Bogotá,Usaquén,64,1,M,Desconocido,Casa,Recuperado
+566,2020-03-26,2020-04-01,Bogotá,Kennedy,81,1,M,Desconocido,Fallecido,Fallecido
+567,2020-03-26,2020-04-03,Bogotá,Barrios Unidos,26,1,F,Relacionado,Casa,Recuperado
+568,2020-03-26,2020-04-03,Bogotá,Barrios Unidos,7,1,F,Relacionado,Casa,Recuperado
+569,2020-03-27,2020-04-03,Bogotá,Kennedy,41,1,F,Relacionado,Casa,Recuperado
+570,2020-03-29,2020-04-03,Bogotá,Teusaquillo,51,1,F,Desconocido,Casa,Recuperado
+571,2020-03-27,2020-04-03,Bogotá,Usaquén,58,1,M,Importado,Casa,Recuperado
+572,2020-03-19,2020-04-01,Bogotá,Usaquén,45,1,F,Relacionado,Casa,Recuperado
+573,2020-03-22,2020-04-01,Bogotá,Bosa,26,1,M,Desconocido,Fallecido,Fallecido
+574,2020-03-28,2020-04-03,Bogotá,Antonio Nariño,95,1,F,Relacionado,Casa,Recuperado
+575,2020-03-25,2020-04-03,Bogotá,Usaquén,19,1,M,En estudio,Casa,Recuperado
+576,2020-03-30,2020-04-03,Bogotá,Chapinero,48,1,M,Importado,Casa,Recuperado
+577,2020-03-27,2020-04-03,Bogotá,Suba,71,1,F,Relacionado,Casa,Recuperado
+578,2020-03-24,2020-04-03,Bogotá,Engativá,30,1,F,Importado,Casa,Recuperado
+579,2020-03-27,2020-04-03,Bogotá,Bosa,45,1,F,Relacionado,Casa,Recuperado
+580,2020-03-28,2020-04-02,Bogotá,Kennedy,76,1,M,En estudio,Casa,Recuperado
+581,2020-03-25,2020-04-02,Bogotá,Usaquén,34,1,F,Relacionado,Casa,Recuperado
+582,2020-03-23,2020-04-02,Bogotá,Suba,75,1,M,Relacionado,Casa,Recuperado
+583,2020-03-24,2020-04-02,Bogotá,Engativá,48,1,M,En estudio,Casa,Recuperado
+584,2020-03-24,2020-04-02,Bogotá,Teusaquillo,47,1,M,Relacionado,Casa,Recuperado
+585,,2020-04-02,Bogotá,Bosa,11,1,M,En estudio,Casa,Recuperado
+586,2020-03-26,2020-04-02,Bogotá,Bosa,46,1,M,En estudio,Casa,Recuperado
+587,2020-03-26,2020-04-02,Bogotá,Usaquén,64,1,F,Relacionado,Casa,Recuperado
+588,2020-03-22,2020-04-02,Bogotá,Suba,66,1,M,Importado,Casa,Recuperado
+589,2020-03-23,2020-04-02,Bogotá,Kennedy,54,1,M,Importado,Casa,Recuperado
+590,2020-03-25,2020-04-02,Bogotá,Bosa,42,1,M,Relacionado,Casa,Recuperado
+591,2020-03-25,2020-04-02,Bogotá,Suba,28,1,M,En estudio,Casa,Recuperado
+592,2020-03-25,2020-04-02,Bogotá,Usaquén,60,1,F,Relacionado,Casa,Recuperado
+593,2020-03-22,2020-04-02,Bogotá,Suba,42,1,F,Relacionado,Casa,Recuperado
+594,2020-03-20,2020-04-02,Bogotá,Suba,93,1,F,Relacionado,Fallecido,Fallecido
+595,2020-03-26,2020-04-02,Bogotá,Bosa,57,1,F,Relacionado,Casa,Recuperado
+596,2020-03-14,2020-04-03,Bogotá,Chapinero,60,1,M,Relacionado,Casa,Recuperado
+597,2020-04-06,2020-04-15,Bogotá,Suba,23,1,F,Relacionado,Casa,Recuperado
+598,2020-03-26,2020-04-02,Bogotá,Suba,21,1,F,Relacionado,Casa,Recuperado
+599,2020-03-25,2020-04-02,Bogotá,Teusaquillo,26,1,F,Importado,Casa,Recuperado
+600,2020-03-29,2020-04-02,Bogotá,Rafael Uribe Uribe,36,1,F,Relacionado,Casa,Recuperado
+601,2020-03-25,2020-04-02,Bogotá,Rafael Uribe Uribe,57,1,M,Relacionado,Fallecido,Fallecido
+602,2020-03-29,2020-04-02,Bogotá,Rafael Uribe Uribe,54,1,F,Relacionado,Casa,Recuperado
+603,2020-03-25,2020-04-02,Bogotá,Kennedy,32,1,F,Relacionado,Casa,Recuperado
+604,2020-03-24,2020-04-02,Bogotá,Engativá,27,1,M,Relacionado,Casa,Recuperado
+605,2020-03-24,2020-04-02,Bogotá,Engativá,25,1,F,Relacionado,Casa,Recuperado
+606,2020-03-18,2020-04-02,Bogotá,Kennedy,48,1,M,En estudio,Casa,Recuperado
+607,2020-03-16,2020-04-02,Bogotá,Kennedy,76,1,F,Relacionado,Casa,Recuperado
+608,,2020-04-25,Bogotá,Kennedy,28,1,M,Relacionado,Casa,Recuperado
+609,2020-03-28,2020-04-02,Bogotá,Engativá,12,1,F,Relacionado,Casa,Recuperado
+610,2020-03-26,2020-04-02,Bogotá,Engativá,23,1,M,Importado,Casa,Recuperado
+611,2020-03-15,2020-04-02,Bogotá,Teusaquillo,41,1,F,Relacionado,Casa,Recuperado
+612,2020-03-23,2020-04-02,Bogotá,Usaquén,73,1,M,Desconocido,Casa,Recuperado
+613,2020-03-23,2020-04-02,Bogotá,Kennedy,58,1,F,Relacionado,Casa,Recuperado
+614,2020-03-19,2020-04-02,Bogotá,San Cristóbal,32,1,M,Importado,Casa,Recuperado
+615,2020-03-20,2020-04-02,Bogotá,Ciudad Bolívar,26,1,F,Relacionado,Casa,Recuperado
+616,2020-03-25,2020-04-02,Bogotá,Teusaquillo,26,1,F,Importado,Casa,Recuperado
+617,2020-03-21,2020-04-02,Bogotá,Chapinero,66,1,F,Relacionado,Casa,Recuperado
+618,2020-03-25,2020-04-02,Bogotá,Puente Aranda,55,1,M,Importado,Casa,Recuperado
+619,2020-03-21,2020-04-02,Bogotá,Suba,30,1,M,Relacionado,Casa,Recuperado
+620,2020-03-28,2020-04-02,Bogotá,Kennedy,12,1,M,Relacionado,Casa,Recuperado
+621,2020-03-25,2020-04-03,Bogotá,Engativá,67,1,F,Importado,Casa,Recuperado
+622,2020-03-25,2020-04-03,Bogotá,Tunjuelito,39,1,F,En estudio,Casa,Recuperado
+623,2020-03-29,2020-04-03,Bogotá,Puente Aranda,93,1,M,En estudio,Fallecido,Fallecido
+624,2020-03-25,2020-04-02,Bogotá,Ciudad Bolívar,36,1,F,Relacionado,Casa,Recuperado
+625,2020-03-18,2020-04-02,Bogotá,Tunjuelito,67,1,F,Importado,Casa,Recuperado
+626,2020-03-24,2020-04-02,Bogotá,Usaquén,29,1,M,Importado,Casa,Recuperado
+627,2020-03-28,2020-04-03,Bogotá,Ciudad Bolívar,52,1,M,Relacionado,Casa,Recuperado
+628,2020-03-29,2020-04-03,Bogotá,Engativá,5,1,M,Relacionado,Casa,Recuperado
+629,2020-03-25,2020-04-03,Bogotá,Engativá,38,1,F,Relacionado,Casa,Recuperado
+630,2020-03-23,2020-04-03,Bogotá,Kennedy,32,1,F,Relacionado,Casa,Recuperado
+631,2020-03-20,2020-04-03,Bogotá,Engativá,48,1,F,Importado,Casa,Recuperado
+632,2020-03-20,2020-04-03,Bogotá,Engativá,34,1,M,Importado,Casa,Recuperado
+633,2020-03-19,2020-04-03,Bogotá,Usaquén,32,1,F,Importado,Casa,Recuperado
+634,2020-03-16,2020-04-03,Bogotá,Usaquén,35,1,M,Importado,Casa,Recuperado
+635,2020-03-21,2020-04-03,Bogotá,Engativá,28,1,F,Relacionado,Casa,Recuperado
+636,2020-03-24,2020-04-03,Bogotá,Chapinero,18,1,M,Relacionado,Casa,Recuperado
+637,,2020-04-25,Bogotá,Suba,20,1,F,Relacionado,Casa,Recuperado
+638,2020-03-21,2020-04-03,Bogotá,Barrios Unidos,41,1,M,Relacionado,Casa,Recuperado
+639,2020-03-27,2020-04-03,Bogotá,Usaquén,67,1,F,Relacionado,Casa,Recuperado
+640,2020-03-30,2020-04-03,Bogotá,Usaquén,85,1,M,Desconocido,Fallecido,Fallecido
+641,2020-03-26,2020-04-03,Bogotá,Engativá,26,1,M,Relacionado,Casa,Recuperado
+642,2020-04-17,2020-04-26,Bogotá,Teusaquillo,44,1,F,Relacionado,Casa,Recuperado
+643,2020-03-11,2020-04-03,Bogotá,Chapinero,32,1,F,Importado,Casa,Recuperado
+644,2020-03-19,2020-04-03,Bogotá,Kennedy,61,1,M,Importado,Casa,Recuperado
+645,2020-03-15,2020-04-03,Bogotá,Suba,32,1,M,Desconocido,Casa,Recuperado
+646,2020-03-17,2020-04-03,Bogotá,Usaquén,64,1,F,Desconocido,Casa,Recuperado
+647,2020-03-27,2020-04-03,Bogotá,Kennedy,28,1,M,Importado,Casa,Recuperado
+648,2020-03-27,2020-04-03,Bogotá,Suba,30,1,M,Relacionado,Casa,Recuperado
+649,2020-03-21,2020-04-03,Bogotá,Usme,29,1,F,Relacionado,Casa,Recuperado
+650,2020-03-23,2020-04-03,Bogotá,Ciudad Bolívar,37,1,F,Relacionado,Casa,Recuperado
+651,2020-03-12,2020-04-03,Bogotá,Chapinero,41,1,F,Relacionado,Casa,Recuperado
+652,2020-03-15,2020-04-03,Bogotá,Chapinero,62,1,M,Relacionado,Casa,Recuperado
+653,2020-03-26,2020-04-03,Bogotá,Barrios Unidos,42,1,F,Relacionado,Casa,Recuperado
+654,2020-03-10,2020-04-03,Bogotá,Barrios Unidos,66,1,M,Importado,Casa,Recuperado
+655,2020-03-22,2020-04-03,Bogotá,Suba,57,1,M,Importado,Casa,Recuperado
+656,2020-03-23,2020-04-03,Bogotá,Kennedy,22,1,F,Relacionado,Casa,Recuperado
+657,2020-03-20,2020-04-03,Bogotá,Tunjuelito,51,1,M,En estudio,Casa,Recuperado
+658,2020-03-10,2020-04-03,Bogotá,San Cristóbal,54,1,M,Relacionado,Casa,Recuperado
+659,2020-03-24,2020-04-03,Bogotá,Usaquén,63,1,M,Relacionado,Fallecido,Fallecido
+660,2020-03-29,2020-04-03,Bogotá,Usaquén,29,1,F,Relacionado,Casa,Recuperado
+661,2020-03-11,2020-04-03,Bogotá,Kennedy,59,1,M,Relacionado,Casa,Recuperado
+662,2020-03-21,2020-04-03,Bogotá,Fontibón,75,1,M,Importado,Casa,Recuperado
+663,2020-03-23,2020-04-03,Bogotá,Engativá,33,1,M,Desconocido,Casa,Recuperado
+664,2020-03-31,2020-04-03,Bogotá,Kennedy,24,1,M,Relacionado,Casa,Recuperado
+665,2020-03-17,2020-04-03,Bogotá,Usaquén,31,1,M,Relacionado,Casa,Recuperado
+666,2020-03-25,2020-04-03,Bogotá,Usme,25,1,F,Relacionado,Casa,Recuperado
+667,2020-03-17,2020-04-03,Bogotá,Antonio Nariño,73,1,M,Desconocido,Fallecido,Fallecido
+668,2020-03-30,2020-04-03,Bogotá,Tunjuelito,18,1,M,Relacionado,Casa,Recuperado
+669,2020-03-29,2020-04-03,Bogotá,Tunjuelito,61,1,F,Relacionado,Casa,Recuperado
+670,2020-03-20,2020-04-03,Bogotá,Chapinero,32,1,M,Importado,Casa,Recuperado
+671,2020-03-26,2020-04-03,Bogotá,Engativá,36,1,M,Relacionado,Casa,Recuperado
+672,2020-03-20,2020-04-03,Bogotá,Kennedy,65,1,M,En estudio,Casa,Recuperado
+673,2020-03-27,2020-04-03,Bogotá,Usaquén,29,1,F,Relacionado,Casa,Recuperado
+674,2020-03-30,2020-04-03,Bogotá,Kennedy,35,1,F,Relacionado,Casa,Recuperado
+675,2020-03-29,2020-04-03,Bogotá,Teusaquillo,33,1,F,Relacionado,Casa,Recuperado
+676,2020-03-29,2020-04-02,Bogotá,Usme,35,1,M,Relacionado,Casa,Recuperado
+677,2020-03-29,2020-04-02,Bogotá,Kennedy,52,1,F,Relacionado,Casa,Recuperado
+678,2020-03-25,2020-04-03,Bogotá,Teusaquillo,59,1,M,Importado,Casa,Recuperado
+679,2020-03-17,2020-04-02,Bogotá,Rafael Uribe Uribe,55,1,M,Relacionado,Casa,Recuperado
+680,2020-03-26,2020-04-02,Bogotá,Bosa,27,1,F,Relacionado,Casa,Recuperado
+681,2020-03-23,2020-04-02,Bogotá,Teusaquillo,63,1,F,Relacionado,Fallecido,Fallecido
+682,2020-03-19,2020-04-02,Bogotá,Engativá,43,1,M,Desconocido,Casa,Recuperado
+683,2020-03-23,2020-04-02,Bogotá,Suba,46,1,M,Desconocido,Casa,Recuperado
+684,2020-03-29,2020-04-02,Bogotá,Kennedy,90,1,M,Desconocido,Fallecido,Fallecido
+685,2020-03-21,2020-04-02,Bogotá,Engativá,78,1,M,Relacionado,Casa,Recuperado
+686,2020-03-26,2020-04-03,Bogotá,Kennedy,29,1,F,Relacionado,Casa,Recuperado
+687,2020-03-26,2020-04-03,Bogotá,Suba,27,1,F,Relacionado,Casa,Recuperado
+688,2020-03-21,2020-04-02,Bogotá,Usaquén,73,1,F,Importado,Casa,Recuperado
+689,2020-03-20,2020-04-03,Bogotá,Usaquén,23,1,F,Relacionado,Casa,Recuperado
+690,2020-03-26,2020-04-03,Bogotá,San Cristóbal,48,1,M,Importado,Casa,Recuperado
+691,2020-03-30,2020-04-02,Bogotá,Engativá,36,1,M,Relacionado,Casa,Recuperado
+692,2020-03-15,2020-04-02,Bogotá,Teusaquillo,20,1,M,Relacionado,Casa,Recuperado
+693,2020-03-23,2020-04-02,Bogotá,Barrios Unidos,34,1,F,Relacionado,Casa,Recuperado
+694,2020-03-23,2020-04-02,Bogotá,Rafael Uribe Uribe,33,1,F,Relacionado,Casa,Recuperado
+695,2020-03-27,2020-04-02,Bogotá,Puente Aranda,29,1,F,Importado,Casa,Recuperado
+696,2020-03-24,2020-04-02,Bogotá,Bosa,34,1,M,Importado,Casa,Recuperado
+697,2020-03-28,2020-04-02,Bogotá,Puente Aranda,59,1,F,Relacionado,Casa,Recuperado
+698,2020-03-18,2020-04-02,Bogotá,Puente Aranda,57,1,M,Relacionado,Fallecido,Fallecido
+699,2020-03-17,2020-04-02,Bogotá,Rafael Uribe Uribe,37,1,M,Importado,Casa,Recuperado
+700,2020-03-17,2020-04-02,Bogotá,Kennedy,34,1,F,Importado,Casa,Recuperado
+701,2020-03-21,2020-04-02,Bogotá,Kennedy,45,1,F,Importado,Casa,Recuperado
+702,2020-03-22,2020-04-02,Bogotá,Engativá,49,1,F,Relacionado,Casa,Recuperado
+703,2020-03-28,2020-04-02,Bogotá,Usaquén,31,1,M,Relacionado,Casa,Recuperado
+704,2020-03-19,2020-04-02,Bogotá,Los Mártires,66,1,M,Relacionado,Casa,Recuperado
+705,2020-03-22,2020-04-02,Bogotá,San Cristóbal,62,1,M,Desconocido,Fallecido,Fallecido
+706,2020-03-23,2020-04-02,Bogotá,Suba,22,1,F,Relacionado,Casa,Recuperado
+707,2020-03-20,2020-04-02,Bogotá,Barrios Unidos,33,1,F,En estudio,Casa,Recuperado
+708,2020-03-21,2020-04-02,Bogotá,Kennedy,50,1,M,Relacionado,Casa,Recuperado
+709,2020-03-19,2020-04-02,Bogotá,Kennedy,36,1,M,Desconocido,Casa,Recuperado
+710,2020-04-09,2020-04-14,Bogotá,Puente Aranda,21,1,F,En estudio,Casa,Recuperado
+711,2020-03-26,2020-04-02,Bogotá,Suba,31,1,M,Importado,Casa,Recuperado
+712,2020-03-17,2020-04-02,Bogotá,Usaquén,48,1,M,Importado,Casa,Recuperado
+713,2020-03-21,2020-04-04,Bogotá,Engativá,48,1,M,En estudio,Casa,Recuperado
+714,2020-04-20,2020-04-29,Bogotá,Bosa,13,1,F,En estudio,Casa,Recuperado
+715,2020-03-23,2020-04-04,Bogotá,Suba,84,1,F,Relacionado,Casa,Recuperado
+716,2020-03-27,2020-04-04,Bogotá,Suba,45,1,F,Relacionado,Casa,Recuperado
+717,2020-03-19,2020-04-04,Bogotá,Suba,48,1,M,Relacionado,Casa,Recuperado
+718,2020-03-24,2020-04-04,Bogotá,Fontibón,37,1,M,En estudio,Casa,Recuperado
+719,2020-03-19,2020-04-04,Bogotá,Rafael Uribe Uribe,42,1,M,Relacionado,Casa,Recuperado
+720,2020-03-26,2020-04-04,Bogotá,Suba,44,1,M,Relacionado,Casa,Recuperado
+721,2020-03-24,2020-04-03,Bogotá,Suba,32,1,F,Relacionado,Casa,Recuperado
+722,2020-03-23,2020-04-04,Bogotá,Bosa,38,1,M,En estudio,Fallecido,Fallecido
+723,2020-03-26,2020-04-04,Bogotá,Suba,70,1,M,En estudio,Fallecido,Fallecido
+724,2020-03-19,2020-04-04,Bogotá,Suba,49,1,F,Relacionado,Casa,Recuperado
+725,2020-03-29,2020-04-04,Bogotá,Usaquén,19,1,M,Relacionado,Casa,Recuperado
+726,2020-03-30,2020-04-04,Bogotá,Kennedy,97,1,F,Relacionado,Fallecido,Fallecido
+727,2020-03-21,2020-04-02,Bogotá,Fontibón,70,1,F,Importado,Casa,Recuperado
+728,2020-03-25,2020-04-04,Bogotá,Kennedy,55,1,M,En estudio,Casa,Recuperado
+729,2020-03-24,2020-04-04,Bogotá,Tunjuelito,31,1,M,En estudio,Casa,Recuperado
+730,2020-03-31,2020-04-04,Bogotá,Chapinero,27,1,F,Relacionado,Casa,Recuperado
+731,2020-03-26,2020-04-04,Bogotá,Puente Aranda,27,1,F,Relacionado,Casa,Recuperado
+732,2020-03-27,2020-04-04,Bogotá,Bosa,21,1,F,Relacionado,Casa,Recuperado
+733,2020-03-25,2020-04-04,Bogotá,Usaquén,35,1,F,Relacionado,Casa,Recuperado
+734,2020-03-27,2020-04-04,Bogotá,Fontibón,31,1,F,Relacionado,Casa,Recuperado
+735,2020-03-25,2020-04-02,Bogotá,Rafael Uribe Uribe,33,1,F,Relacionado,Casa,Recuperado
+736,2020-03-19,2020-04-02,Bogotá,Santa Fe,61,1,M,Relacionado,Casa,Recuperado
+737,2020-03-20,2020-04-02,Bogotá,Usaquén,76,1,M,En estudio,Fallecido,Fallecido
+738,2020-03-20,2020-04-06,Bogotá,Bosa,50,1,M,En estudio,Casa,Recuperado
+739,2020-03-31,2020-04-04,Bogotá,Suba,87,1,F,Relacionado,Casa,Recuperado
+740,2020-03-22,2020-04-04,Bogotá,Fontibón,44,1,F,En estudio,Casa,Recuperado
+741,2020-03-14,2020-04-04,Bogotá,Santa Fe,30,1,M,Relacionado,Casa,Recuperado
+742,2020-03-21,2020-04-04,Bogotá,Rafael Uribe Uribe,50,1,M,Relacionado,Casa,Recuperado
+743,2020-03-26,2020-04-04,Bogotá,Engativá,15,1,F,En estudio,Casa,Recuperado
+744,2020-03-31,2020-04-04,Bogotá,Engativá,86,1,M,Relacionado,Fallecido,Fallecido
+745,2020-03-23,2020-04-04,Bogotá,Tunjuelito,30,1,F,Relacionado,Casa,Recuperado
+746,2020-03-20,2020-04-04,Bogotá,Teusaquillo,42,1,M,Relacionado,Casa,Recuperado
+747,2020-03-21,2020-04-04,Bogotá,Suba,37,1,M,Relacionado,Casa,Recuperado
+748,2020-03-24,2020-04-04,Bogotá,Suba,45,1,F,Relacionado,Casa,Recuperado
+749,2020-03-23,2020-04-04,Bogotá,Suba,34,1,F,Importado,Casa,Recuperado
+750,2020-03-27,2020-04-04,Bogotá,Suba,52,1,F,Relacionado,Casa,Recuperado
+751,2020-03-24,2020-04-03,Bogotá,Usaquén,47,1,M,Relacionado,Casa,Recuperado
+752,2020-03-16,2020-04-03,Bogotá,Fontibón,37,1,F,Importado,Casa,Recuperado
+753,2020-03-17,2020-04-04,Bogotá,Suba,59,1,F,Relacionado,Casa,Recuperado
+754,2020-03-24,2020-04-04,Bogotá,Kennedy,50,1,F,Relacionado,Casa,Recuperado
+755,2020-03-24,2020-04-04,Bogotá,Kennedy,63,1,M,Relacionado,Casa,Recuperado
+756,2020-04-01,2020-04-04,Bogotá,Engativá,74,1,F,Relacionado,Casa,Recuperado
+757,2020-03-28,2020-04-04,Bogotá,Usaquén,8,2,F,Relacionado,Casa,Recuperado
+758,2020-03-24,2020-04-04,Bogotá,Tunjuelito,66,1,F,En estudio,Casa,Recuperado
+759,2020-03-20,2020-04-04,Bogotá,Suba,85,1,F,Importado,Casa,Recuperado
+760,2020-03-17,2020-04-04,Bogotá,Suba,55,1,M,Desconocido,Casa,Recuperado
+761,2020-03-21,2020-04-04,Bogotá,Ciudad Bolívar,26,1,F,Relacionado,Casa,Recuperado
+762,2020-03-27,2020-04-04,Bogotá,Suba,29,1,F,Relacionado,Casa,Recuperado
+763,2020-03-23,2020-04-04,Bogotá,Usme,31,1,F,En estudio,Casa,Recuperado
+764,2020-03-28,2020-04-04,Bogotá,Puente Aranda,32,1,F,Relacionado,Casa,Recuperado
+765,2020-03-23,2020-04-04,Bogotá,Bosa,35,1,M,En estudio,Casa,Recuperado
+766,2020-03-28,2020-04-04,Bogotá,Bosa,15,1,M,En estudio,Casa,Recuperado
+767,2020-03-31,2020-04-04,Bogotá,Rafael Uribe Uribe,16,1,F,Relacionado,Casa,Recuperado
+768,2020-03-31,2020-04-04,Bogotá,Rafael Uribe Uribe,1,1,F,Relacionado,Casa,Recuperado
+769,2020-03-28,2020-04-04,Bogotá,Rafael Uribe Uribe,31,1,F,Relacionado,Casa,Recuperado
+770,2020-03-23,2020-04-04,Bogotá,Bosa,34,1,M,En estudio,Casa,Recuperado
+771,2020-03-23,2020-04-04,Bogotá,Chapinero,67,1,F,Importado,Casa,Recuperado
+772,2020-04-06,2020-05-02,Bogotá,Ciudad Bolívar,70,1,F,En estudio,Casa,Recuperado
+773,2020-03-18,2020-04-06,Bogotá,Suba,51,1,F,En estudio,Casa,Recuperado
+774,2020-04-01,2020-04-04,Bogotá,Kennedy,82,1,M,En estudio,Fallecido,Fallecido
+775,2020-03-16,2020-04-04,Bogotá,Kennedy,50,1,M,Relacionado,Casa,Recuperado
+776,2020-04-01,2020-04-04,Bogotá,Kennedy,45,1,F,En estudio,Casa,Recuperado
+777,2020-03-22,2020-04-04,Bogotá,Puente Aranda,45,1,F,Relacionado,Casa,Recuperado
+778,2020-03-29,2020-04-04,Bogotá,Fontibón,66,1,F,Desconocido,Fallecido,Fallecido
+779,2020-03-20,2020-04-06,Bogotá,Kennedy,29,1,M,Relacionado,Casa,Recuperado
+780,2020-03-30,2020-04-06,Bogotá,Teusaquillo,55,1,M,Relacionado,Casa,Recuperado
+781,2020-03-12,2020-04-06,Bogotá,Usaquén,47,1,F,Importado,Casa,Recuperado
+782,2020-03-12,2020-04-06,Bogotá,Teusaquillo,57,1,F,Importado,Casa,Recuperado
+783,2020-03-29,2020-04-06,Bogotá,Engativá,60,1,F,Importado,Casa,Recuperado
+784,2020-03-27,2020-04-06,Bogotá,Engativá,40,1,M,Relacionado,Casa,Recuperado
+785,2020-03-28,2020-04-06,Bogotá,Engativá,42,1,F,Relacionado,Casa,Recuperado
+786,2020-03-23,2020-04-06,Bogotá,Suba,53,1,F,Relacionado,Casa,Recuperado
+787,2020-03-23,2020-04-06,Bogotá,Suba,21,1,F,Relacionado,Casa,Recuperado
+788,2020-03-21,2020-04-06,Bogotá,Engativá,28,1,M,Relacionado,Casa,Recuperado
+789,2020-03-31,2020-04-06,Bogotá,Bosa,29,1,M,Relacionado,Casa,Recuperado
+790,2020-03-17,2020-04-06,Bogotá,Bosa,23,1,F,Relacionado,Casa,Recuperado
+791,2020-03-19,2020-04-06,Bogotá,Bosa,51,1,M,Importado,Casa,Recuperado
+792,2020-03-27,2020-04-06,Bogotá,Bosa,27,1,F,Relacionado,Casa,Recuperado
+793,2020-03-19,2020-04-06,Bogotá,Ciudad Bolívar,29,1,M,En estudio,Casa,Recuperado
+794,2020-03-28,2020-04-06,Bogotá,Fontibón,45,1,F,En estudio,Casa,Recuperado
+795,2020-03-27,2020-04-06,Bogotá,Teusaquillo,39,1,F,En estudio,Casa,Recuperado
+796,2020-03-30,2020-04-06,Bogotá,Puente Aranda,30,1,M,Importado,Casa,Recuperado
+797,2020-03-19,2020-04-06,Bogotá,Suba,77,1,M,Desconocido,Casa,Recuperado
+798,2020-03-24,2020-04-20,Bogotá,Suba,67,1,M,Relacionado,Casa,Recuperado
+799,2020-03-10,2020-04-04,Bogotá,Kennedy,73,1,F,En estudio,Fallecido,Fallecido
+800,2020-03-11,2020-04-04,Bogotá,Bosa,48,1,F,Relacionado,Casa,Recuperado
+801,2020-03-25,2020-04-04,Bogotá,Bosa,69,1,F,En estudio,Casa,Recuperado
+802,2020-03-27,2020-04-04,Bogotá,Engativá,38,1,F,Relacionado,Casa,Recuperado
+803,2020-03-17,2020-04-04,Bogotá,Fontibón,43,1,F,Relacionado,Casa,Recuperado
+804,2020-03-26,2020-04-04,Bogotá,Usaquén,46,1,F,Relacionado,Casa,Recuperado
+805,2020-03-27,2020-04-04,Bogotá,Teusaquillo,36,1,M,Relacionado,Casa,Recuperado
+806,2020-03-29,2020-04-04,Bogotá,Barrios Unidos,34,1,M,Relacionado,Casa,Recuperado
+807,2020-03-30,2020-04-04,Bogotá,Engativá,31,1,F,Relacionado,Casa,Recuperado
+808,2020-03-26,2020-04-04,Bogotá,Suba,22,1,F,Importado,Casa,Recuperado
+809,2020-03-28,2020-04-04,Bogotá,Kennedy,48,1,F,Desconocido,Casa,Recuperado
+810,2020-03-26,2020-04-04,Bogotá,Kennedy,62,1,M,Desconocido,Casa,Recuperado
+811,2020-04-01,2020-04-04,Bogotá,Ciudad Bolívar,54,1,F,Relacionado,Casa,Recuperado
+812,2020-03-31,2020-04-04,Bogotá,Ciudad Bolívar,53,1,F,Relacionado,Casa,Recuperado
+813,2020-03-27,2020-04-04,Bogotá,Rafael Uribe Uribe,44,1,M,Relacionado,Casa,Recuperado
+814,2020-03-30,2020-04-08,Bogotá,Engativá,45,1,M,Relacionado,Casa,Recuperado
+815,2020-04-01,2020-04-04,Bogotá,Usaquén,61,1,F,Relacionado,Casa,Recuperado
+816,2020-04-01,2020-04-04,Bogotá,Usaquén,24,1,M,Relacionado,Casa,Recuperado
+817,2020-03-16,2020-04-04,Bogotá,Chapinero,52,1,F,Importado,Casa,Recuperado
+818,2020-03-26,2020-04-04,Bogotá,Suba,39,1,F,Relacionado,Casa,Recuperado
+819,2020-03-29,2020-04-04,Bogotá,Engativá,49,1,F,Relacionado,Casa,Recuperado
+820,2020-03-31,2020-04-04,Bogotá,Fontibón,29,1,M,Relacionado,Casa,Recuperado
+821,2020-03-29,2020-04-04,Bogotá,Ciudad Bolívar,51,1,M,Relacionado,Casa,Recuperado
+822,2020-04-02,2020-04-05,Bogotá,Suba,70,1,M,Relacionado,Casa,Recuperado
+823,2020-03-20,2020-04-05,Bogotá,Suba,64,1,M,Relacionado,Casa,Recuperado
+824,2020-03-29,2020-04-05,Bogotá,Suba,31,1,F,Relacionado,Casa,Recuperado
+825,2020-03-26,2020-04-04,Bogotá,Usaquén,35,1,M,Relacionado,Casa,Recuperado
+826,2020-03-16,2020-04-06,Bogotá,Engativá,53,1,F,Importado,Casa,Recuperado
+827,2020-03-29,2020-04-06,Bogotá,Bosa,37,1,M,En estudio,Casa,Recuperado
+828,2020-03-26,2020-04-06,Bogotá,Ciudad Bolívar,49,1,M,Relacionado,Casa,Recuperado
+829,2020-03-27,2020-04-06,Bogotá,Usaquén,28,1,M,Importado,Casa,Recuperado
+830,2020-03-23,2020-04-06,Bogotá,Suba,44,1,M,Relacionado,Casa,Recuperado
+831,2020-03-20,2020-04-06,Bogotá,Engativá,28,1,F,Relacionado,Casa,Recuperado
+832,2020-03-12,2020-04-06,Bogotá,Engativá,50,1,M,Desconocido,Casa,Recuperado
+833,2020-03-30,2020-04-06,Bogotá,Suba,24,1,F,Relacionado,Casa,Recuperado
+834,2020-03-28,2020-04-06,Bogotá,Fontibón,37,1,F,Relacionado,Casa,Recuperado
+835,2020-03-19,2020-04-06,Bogotá,Kennedy,31,1,F,Relacionado,Casa,Recuperado
+836,2020-03-25,2020-04-06,Bogotá,Fontibón,58,1,M,Importado,Casa,Recuperado
+837,2020-03-25,2020-04-06,Bogotá,Usaquén,29,1,F,Relacionado,Casa,Recuperado
+838,2020-03-28,2020-04-06,Bogotá,Teusaquillo,79,1,F,Desconocido,Fallecido,Fallecido
+839,2020-03-21,2020-04-06,Bogotá,Suba,38,1,M,Relacionado,Casa,Recuperado
+840,2020-03-26,2020-04-06,Bogotá,Suba,34,1,F,Desconocido,Casa,Recuperado
+841,2020-03-26,2020-04-06,Bogotá,Suba,60,1,F,Importado,Casa,Recuperado
+842,2020-03-28,2020-04-06,Bogotá,Suba,30,1,M,Relacionado,Casa,Recuperado
+843,2020-03-31,2020-04-06,Bogotá,Usaquén,35,1,M,Relacionado,Casa,Recuperado
+844,2020-03-31,2020-04-06,Bogotá,Usaquén,62,1,F,Relacionado,Casa,Recuperado
+845,2020-03-25,2020-04-06,Bogotá,Usaquén,56,1,F,Relacionado,Casa,Recuperado
+846,2020-03-15,2020-04-06,Bogotá,Kennedy,42,1,M,Desconocido,Casa,Recuperado
+847,2020-04-01,2020-04-06,Bogotá,Usaquén,59,1,M,Relacionado,Casa,Recuperado
+848,2020-03-28,2020-04-06,Bogotá,Rafael Uribe Uribe,61,1,M,En estudio,Fallecido,Fallecido
+849,2020-03-27,2020-04-06,Bogotá,Suba,24,1,M,Relacionado,Casa,Recuperado
+850,2020-03-16,2020-04-06,Bogotá,Engativá,54,1,F,Relacionado,Casa,Recuperado
+851,2020-03-25,2020-04-06,Bogotá,Kennedy,48,1,F,Relacionado,Casa,Recuperado
+852,2020-03-24,2020-04-06,Bogotá,Chapinero,28,1,F,Importado,Casa,Recuperado
+853,2020-03-30,2020-04-06,Bogotá,Suba,61,1,M,Importado,Casa,Recuperado
+854,2020-03-30,2020-04-06,Bogotá,Engativá,30,1,F,Relacionado,Casa,Recuperado
+855,2020-03-22,2020-04-06,Bogotá,Barrios Unidos,31,1,M,Relacionado,Casa,Recuperado
+856,2020-03-21,2020-04-06,Bogotá,Kennedy,31,1,F,Importado,Casa,Recuperado
+857,2020-03-26,2020-04-06,Bogotá,Barrios Unidos,32,1,F,Relacionado,Casa,Recuperado
+858,2020-03-31,2020-04-06,Bogotá,Puente Aranda,53,1,M,En estudio,Casa,Recuperado
+859,2020-03-27,2020-04-06,Bogotá,Bosa,73,1,M,En estudio,Fallecido,Fallecido
+860,2020-03-31,2020-04-06,Bogotá,Tunjuelito,28,1,M,Relacionado,Casa,Recuperado
+861,2020-03-28,2020-04-06,Bogotá,Puente Aranda,43,1,M,En estudio,Casa,Recuperado
+862,2020-03-25,2020-04-06,Bogotá,Los Mártires,58,1,F,Relacionado,Casa,Recuperado
+863,2020-03-27,2020-04-06,Bogotá,Fontibón,38,1,F,Importado,Casa,Recuperado
+864,2020-03-23,2020-04-06,Bogotá,Chapinero,61,1,F,Relacionado,Casa,Recuperado
+865,2020-03-29,2020-04-06,Bogotá,Chapinero,62,1,M,Relacionado,Casa,Recuperado
+866,2020-03-27,2020-04-06,Bogotá,Chapinero,34,1,F,Importado,Casa,Recuperado
+867,2020-03-21,2020-04-06,Bogotá,Suba,62,1,F,Importado,Casa,Recuperado
+868,2020-04-26,2020-05-08,Bogotá,Kennedy,34,1,M,Relacionado,Casa,Recuperado
+869,2020-03-30,2020-04-06,Bogotá,Suba,45,1,M,Relacionado,Casa,Recuperado
+870,2020-03-27,2020-04-06,Bogotá,San Cristóbal,52,1,F,Relacionado,Casa,Recuperado
+871,2020-03-13,2020-04-06,Bogotá,Chapinero,27,1,M,Importado,Casa,Recuperado
+872,2020-03-20,2020-04-06,Bogotá,Engativá,83,1,M,En estudio,Fallecido,Fallecido
+873,2020-04-01,2020-04-06,Bogotá,Usaquén,14,1,M,En estudio,Casa,Recuperado
+874,2020-03-29,2020-04-06,Bogotá,Engativá,64,1,M,En estudio,Casa,Recuperado
+875,2020-03-31,2020-04-06,Bogotá,Usaquén,48,1,F,Relacionado,Casa,Recuperado
+876,2020-03-13,2020-04-06,Bogotá,Engativá,52,1,M,Relacionado,Casa,Recuperado
+877,2020-03-25,2020-04-06,Bogotá,San Cristóbal,28,1,F,Relacionado,Casa,Recuperado
+878,2020-03-28,2020-04-06,Bogotá,Kennedy,30,1,F,Relacionado,Casa,Recuperado
+879,2020-04-02,2020-04-06,Bogotá,Teusaquillo,41,1,M,Relacionado,Casa,Recuperado
+880,2020-03-18,2020-04-06,Bogotá,Engativá,27,1,F,Relacionado,Casa,Recuperado
+881,2020-03-15,2020-04-06,Bogotá,Fontibón,45,1,M,Importado,Casa,Recuperado
+882,2020-03-20,2020-04-06,Bogotá,Suba,29,1,F,Relacionado,Casa,Recuperado
+883,2020-03-20,2020-04-06,Bogotá,Kennedy,39,1,F,Desconocido,Casa,Recuperado
+884,2020-03-25,2020-04-07,Bogotá,Bosa,72,1,F,Desconocido,Casa,Recuperado
+885,2020-03-27,2020-04-07,Bogotá,Bosa,49,1,M,Desconocido,Casa,Recuperado
+886,2020-03-27,2020-04-07,Bogotá,Engativá,49,1,F,Desconocido,Casa,Recuperado
+887,2020-03-26,2020-04-07,Bogotá,San Cristóbal,51,1,M,Relacionado,Casa,Recuperado
+888,2020-03-27,2020-04-07,Bogotá,Kennedy,26,1,M,Relacionado,Fallecido (No aplica No causa Directa),Fallecido (No aplica No causa Directa)
+889,2020-03-24,2020-04-07,Bogotá,Suba,52,1,F,Desconocido,Casa,Recuperado
+890,2020-04-01,2020-04-07,Bogotá,Suba,72,1,M,En estudio,Fallecido,Fallecido
+891,2020-03-20,2020-04-07,Bogotá,Kennedy,60,1,M,En estudio,Casa,Recuperado
+892,2020-03-14,2020-04-07,Bogotá,Antonio Nariño,65,1,F,Relacionado,Casa,Recuperado
+893,2020-03-25,2020-04-07,Bogotá,Rafael Uribe Uribe,2,1,F,Relacionado,Casa,Recuperado
+894,2020-04-02,2020-04-07,Bogotá,Rafael Uribe Uribe,35,1,F,Relacionado,Casa,Recuperado
+895,2020-03-30,2020-04-07,Bogotá,Rafael Uribe Uribe,36,1,M,Relacionado,Casa,Recuperado
+896,2020-03-28,2020-04-07,Bogotá,San Cristóbal,52,1,F,Relacionado,Casa,Recuperado
+897,2020-03-30,2020-04-07,Bogotá,Fontibón,1,1,M,Relacionado,Casa,Recuperado
+898,2020-03-29,2020-04-07,Bogotá,Fontibón,49,1,F,Importado,Casa,Recuperado
+899,2020-03-19,2020-04-07,Bogotá,Suba,57,1,M,En estudio,Casa,Recuperado
+900,2020-03-21,2020-04-07,Bogotá,Kennedy,59,1,M,Desconocido,Casa,Recuperado
+901,2020-03-26,2020-04-07,Bogotá,Suba,82,1,M,Relacionado,Fallecido,Fallecido
+902,2020-03-20,2020-04-07,Bogotá,Engativá,62,1,M,Desconocido,Casa,Recuperado
+903,2020-03-21,2020-04-07,Bogotá,Engativá,70,1,M,Importado,Casa,Recuperado
+904,2020-04-02,2020-04-07,Bogotá,Engativá,40,1,F,Relacionado,Casa,Recuperado
+905,2020-03-29,2020-04-07,Bogotá,Engativá,30,1,F,Importado,Casa,Recuperado
+906,2020-03-30,2020-04-07,Bogotá,Kennedy,43,1,F,Relacionado,Casa,Recuperado
+907,2020-03-25,2020-04-07,Bogotá,Kennedy,64,1,F,En estudio,Casa,Recuperado
+908,2020-03-31,2020-04-07,Bogotá,Suba,61,1,M,Importado,Casa,Recuperado
+909,2020-03-23,2020-04-07,Bogotá,Usaquén,59,1,F,Importado,Casa,Recuperado
+910,2020-03-30,2020-04-07,Bogotá,Bosa,52,1,F,Desconocido,Casa,Recuperado
+911,2020-03-15,2020-04-07,Bogotá,Engativá,77,1,F,Relacionado,Casa,Recuperado
+912,2020-03-15,2020-04-07,Bogotá,Fontibón,54,1,F,Relacionado,Casa,Recuperado
+913,2020-03-29,2020-04-07,Bogotá,Kennedy,22,1,F,Relacionado,Casa,Recuperado
+914,2020-03-23,2020-04-07,Bogotá,Usaquén,45,1,F,Relacionado,Casa,Recuperado
+915,2020-03-27,2020-04-07,Bogotá,Engativá,73,1,F,Relacionado,Casa,Recuperado
+916,2020-04-01,2020-04-07,Bogotá,Puente Aranda,8,1,F,Relacionado,Casa,Recuperado
+917,2020-03-30,2020-04-07,Bogotá,Puente Aranda,55,1,M,Relacionado,Casa,Recuperado
+918,2020-03-31,2020-04-07,Bogotá,Ciudad Bolívar,34,1,M,En estudio,Casa,Recuperado
+919,2020-03-16,2020-04-07,Bogotá,Puente Aranda,26,1,F,Relacionado,Casa,Recuperado
+920,2020-03-28,2020-04-07,Bogotá,Engativá,49,1,F,Relacionado,Casa,Recuperado
+921,2020-03-19,2020-04-07,Bogotá,Usaquén,62,1,M,Importado,Casa,Recuperado
+922,2020-03-30,2020-04-07,Bogotá,Kennedy,37,1,F,Relacionado,Casa,Recuperado
+923,2020-03-30,2020-04-06,Bogotá,Usaquén,38,1,M,Relacionado,Casa,Recuperado
+924,2020-03-26,2020-04-05,Bogotá,Kennedy,53,1,F,En estudio,Casa,Recuperado
+925,2020-03-16,2020-04-06,Bogotá,Fontibón,69,1,F,Importado,Casa,Recuperado
+926,2020-03-29,2020-04-06,Bogotá,Antonio Nariño,32,1,F,Relacionado,Casa,Recuperado
+927,2020-03-28,2020-04-06,Bogotá,Teusaquillo,61,1,F,Importado,Casa,Recuperado
+928,2020-03-20,2020-04-06,Bogotá,Engativá,34,1,M,Relacionado,Casa,Recuperado
+929,2020-03-16,2020-04-06,Bogotá,Fontibón,26,1,M,Relacionado,Casa,Recuperado
+930,2020-04-01,2020-04-06,Bogotá,Kennedy,37,1,F,Relacionado,Casa,Recuperado
+931,2020-03-29,2020-04-06,Bogotá,Suba,34,1,M,Relacionado,Casa,Recuperado
+932,2020-03-19,2020-04-05,Bogotá,Chapinero,73,1,M,Desconocido,Casa,Recuperado
+933,2020-03-20,2020-04-05,Bogotá,San Cristóbal,23,1,F,Relacionado,Casa,Recuperado
+934,2020-03-12,2020-04-05,Bogotá,Los Mártires,67,1,F,Desconocido,Fallecido,Fallecido
+935,2020-04-01,2020-04-05,Bogotá,Suba,36,1,M,Relacionado,Casa,Recuperado
+936,2020-03-25,2020-04-05,Bogotá,Engativá,46,1,M,Desconocido,Casa,Recuperado
+937,2020-03-26,2020-04-05,Bogotá,Teusaquillo,78,1,F,Desconocido,Casa,Recuperado
+938,2020-04-01,2020-04-05,Bogotá,Bosa,64,1,M,Relacionado,Fallecido,Fallecido
+939,2020-03-20,2020-04-06,Bogotá,Ciudad Bolívar,50,1,M,Relacionado,Casa,Recuperado
+940,2020-04-02,2020-04-06,Bogotá,Puente Aranda,64,1,F,Relacionado,Casa,Recuperado
+941,2020-03-27,2020-04-06,Bogotá,Usaquén,37,1,F,Desconocido,Fallecido,Fallecido
+942,2020-03-28,2020-04-07,Bogotá,Usaquén,32,1,F,Relacionado,Casa,Recuperado
+943,2020-03-26,2020-04-07,Bogotá,Engativá,26,1,F,Importado,Casa,Recuperado
+944,2020-03-22,2020-04-07,Bogotá,Engativá,27,1,M,Importado,Casa,Recuperado
+945,2020-03-20,2020-04-07,Bogotá,Kennedy,62,1,F,Relacionado,Casa,Recuperado
+946,2020-03-27,2020-04-07,Bogotá,Suba,48,1,M,En estudio,Casa,Recuperado
+947,2020-03-19,2020-04-06,Bogotá,Usaquén,5,1,M,Importado,Casa,Recuperado
+948,2020-03-16,2020-04-06,Bogotá,Usaquén,14,1,M,Importado,Casa,Recuperado
+949,2020-03-19,2020-04-06,Bogotá,Usaquén,33,1,F,Importado,Casa,Recuperado
+950,2020-03-27,2020-04-06,Bogotá,Kennedy,66,1,M,En estudio,Casa,Recuperado
+951,2020-03-26,2020-04-06,Bogotá,Ciudad Bolívar,48,1,M,En estudio,Fallecido,Fallecido
+952,2020-03-28,2020-04-06,Bogotá,Tunjuelito,74,1,F,En estudio,Fallecido,Fallecido
+953,2020-03-23,2020-04-06,Bogotá,Engativá,56,1,M,Relacionado,Casa,Recuperado
+954,2020-03-26,2020-04-06,Bogotá,Kennedy,67,1,M,Relacionado,Casa,Recuperado
+955,2020-03-15,2020-04-06,Bogotá,Kennedy,13,1,M,En estudio,Casa,Recuperado
+956,2020-03-31,2020-04-06,Bogotá,Ciudad Bolívar,12,1,M,Relacionado,Casa,Recuperado
+957,2020-03-29,2020-04-06,Bogotá,Barrios Unidos,19,1,F,Relacionado,Casa,Recuperado
+958,2020-03-20,2020-04-06,Bogotá,Ciudad Bolívar,49,1,M,Relacionado,Casa,Recuperado
+959,2020-03-27,2020-04-06,Bogotá,Ciudad Bolívar,27,1,M,Relacionado,Casa,Recuperado
+960,2020-03-24,2020-04-06,Bogotá,Usaquén,30,1,M,Desconocido,Casa,Recuperado
+961,2020-04-01,2020-04-07,Bogotá,Kennedy,44,1,F,En estudio,Casa,Recuperado
+962,2020-03-26,2020-04-07,Bogotá,Bosa,28,1,M,En estudio,Casa,Recuperado
+963,2020-03-30,2020-04-06,Bogotá,Usaquén,33,1,M,Relacionado,Casa,Recuperado
+964,2020-03-19,2020-04-06,Bogotá,Fontibón,48,1,F,Relacionado,Casa,Recuperado
+965,2020-03-22,2020-04-06,Bogotá,Suba,45,1,M,Relacionado,Casa,Recuperado
+966,2020-03-23,2020-04-04,Bogotá,Engativá,7,1,M,En estudio,Casa,Recuperado
+967,2020-03-22,2020-04-02,Bogotá,Usaquén,19,1,M,Importado,Casa,Recuperado
+968,2020-03-23,2020-04-04,Bogotá,Suba,54,1,M,Relacionado,Casa,Recuperado
+969,2020-03-31,2020-04-04,Bogotá,Suba,75,1,F,En estudio,Casa,Recuperado
+970,2020-03-26,2020-04-04,Bogotá,Bosa,32,1,F,Relacionado,Casa,Recuperado
+971,2020-04-01,2020-04-04,Bogotá,Usaquén,55,1,M,Relacionado,Casa,Recuperado
+972,2020-04-01,2020-04-04,Bogotá,Usaquén,48,1,F,Relacionado,Casa,Recuperado
+973,2020-04-01,2020-04-06,Bogotá,Engativá,47,1,F,Relacionado,Casa,Recuperado
+974,2020-04-01,2020-04-06,Bogotá,Engativá,45,1,F,Relacionado,Casa,Recuperado
+975,2020-04-01,2020-04-06,Bogotá,Engativá,22,1,M,Relacionado,Casa,Recuperado
+976,2020-03-29,2020-04-06,Bogotá,Suba,72,1,M,Relacionado,Casa,Recuperado
+977,2020-03-22,2020-04-06,Bogotá,Tunjuelito,64,1,M,Relacionado,Casa,Recuperado
+978,2020-03-25,2020-04-06,Bogotá,Suba,67,1,M,Importado,Casa,Recuperado
+979,2020-03-27,2020-04-06,Bogotá,Usaquén,44,1,F,Relacionado,Casa,Recuperado
+980,2020-03-31,2020-04-06,Bogotá,San Cristóbal,24,1,F,Relacionado,Casa,Recuperado
+981,2020-03-20,2020-04-06,Bogotá,Chapinero,58,1,M,Importado,Casa,Recuperado
+982,2020-03-28,2020-04-06,Bogotá,Teusaquillo,71,1,M,En estudio,Casa,Recuperado
+983,2020-03-25,2020-04-06,Bogotá,Kennedy,30,1,M,En estudio,Casa,Recuperado
+984,2020-03-29,2020-04-06,Bogotá,Barrios Unidos,34,1,F,Relacionado,Casa,Recuperado
+985,2020-03-26,2020-04-06,Bogotá,Kennedy,48,1,F,En estudio,Casa,Recuperado
+986,2020-03-28,2020-04-06,Bogotá,Kennedy,48,1,M,Relacionado,Casa,Recuperado
+987,2020-03-20,2020-04-06,Bogotá,Ciudad Bolívar,10,1,M,Relacionado,Casa,Recuperado
+988,2020-03-25,2020-04-06,Bogotá,Fontibón,36,1,F,Importado,Casa,Recuperado
+989,2020-03-08,2020-04-06,Bogotá,Bosa,2,1,F,En estudio,Casa,Recuperado

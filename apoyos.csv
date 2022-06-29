@@ -1,0 +1,1100 @@
+Departamento ;Municipio;Agencia_Organizacion;Institucion_donde_se_entrega;Nombre_institucion;Insumo;Unidad_de_medidad; Cantidad_personas ;Disponible ;Entregado;Fecha_de_entrega
+Antioquia;Medellin;OIM;Total Albergue;;;;1000;No;Si;Abril
+Antioquia;Medellin;OIM;Total Comunidad;;;;500;No;Si;Abril
+Antioquia;Remedios;OIM;Total Comunidad;;;;200;No;Si;Abril
+Antioquia;Vigía del Fuerte;OIM;Total Comunidad;;;;200;No;Si;Abril
+Arauca ;Arauca;OIM;Total Hospital;;;;2000;No;Si;Abril
+Arauca ;Arauquita;OIM;Total Comunidad;;;;150;No;Si;Abril
+Arauca ;Arauquita;OIM;Total Hospital;;;;1100;No;Si;Abril
+Arauca ;Arauquita;OIM;Total Institución Pública;;;;500;No;Si;Abril
+Arauca ;Tame;OIM;Total Hospital;;;;1000;No;Si;Abril
+Atlántico;Barranquilla;OIM;Total Hospital;;;;1400;No;Si;Abril
+Atlántico;Barranquilla;OIM;Total Institución Pública;;;;1100;No;Si;Abril
+Atlántico;Barranquilla;World Vision;Total Hospital;;;;5730;Si;No;Mayo
+Atlántico;Barranquilla- Soledad;OIM;Total Comunidad;;;;1000;No;Si;Abril
+Atlántico;Soledad;OIM;Total Institución Pública;;;;2800;No;Si;Abril
+Caquetá ;La Montañita;OIM;Total Comunidad;;;;150;No;Si;Abril
+Caquetá ;La Montañita;OIM;Total Hospital;;;;350;No;Si;Abril
+Caquetá ;San Vicente del Caguán;OIM;Total Comunidad;;;;200;No;Si;Abril
+Caquetá ;San Vicente del Caguán;OIM;Total Hospital;;;;250;No;Si;Abril
+Caquetá ;San Vicente del Caguán;OIM;Total Institución Pública;;;;50;No;Si;Abril
+Casanare;;;Total Institución Pública;;;;1000;No;Si;Abril
+Cauca;Buenos Aires;OIM;Total Comunidad;;;;50;No;Si;Abril
+Cauca;Buenos Aires;OIM;Total Hospital;;;;450;No;Si;Abril
+Cesar;La Paz;OIM;Total Comunidad;;;;175;No;Si;Abril
+Cesar;La Paz;OIM;Total Hospital;;;;300;No;Si;Abril
+Cesar;La Paz;OIM;Total Institución Pública;;;;25;No;Si;Abril
+Cesar;Valledupar;OIM;Total Comunidad;;;;1500;No;Si;Abril
+Cesar;Valledupar;OIM;Total Hospital;;;;3000;No;Si;Abril
+Cesar;Valledupar;OIM;Total Institución Pública;;;;1500;No;Si;Abril
+Chocó;Quibdó;OIM;Total Institución Pública;;;;1000;No;Si;Abril
+Chocó;Riosucio;OIM;Total Comunidad;;;;150;No;Si;Abril
+Chocó;Riosucio;OIM;Total Hospital;;;;300;No;Si;Abril
+Chocó;Riosucio;OIM;Total Institución Pública;;;;50;No;Si;Abril
+Córdoba;Tierralta;OIM;Total Hospital;;;;250;No;Si;Abril
+Córdoba;Tierralta;OIM;Total Institución Pública;;;;250;No;Si;Abril
+Cundinamarca;Bogotá ;OIM;Total Comunidad;;;;500;No;Si;Abril
+Cundinamarca;Bogotá ;OIM;Total Hospital;;;;2600;No;Si;Abril
+Cundinamarca;Chía ;OIM;Total Comunidad;;;;400;No;Si;Abril
+Cundinamarca;Chía ;OIM;Total Hospital;;;;2000;No;Si;Abril
+Cundinamarca;Chía ;OIM;Total Institución Pública;;;;200;No;Si;Abril
+Cundinamarca;Soacha ;OIM;Total Comunidad;;;;2500;No;Si;Abril
+Cundinamarca;Soacha ;OIM;Total Hospital;;;;500;No;Si;Abril
+Cundinamarca;Soacha;World Vision;Total Hospital;;;;5730;Si;No;Mayo
+Cundinamarca;Soacha ;OIM;Total Comunidad;;;;100;No;Si;Abril
+Cundinamarca;Soacha ;OIM;Total Hospital;;;;2000;No;Si;Abril
+La Guajira;Fonseca;OIM;Total Comunidad;;;;200;No;Si;Abril
+La Guajira;Fonseca;OIM;Total Hospital;;;;300;No;Si;Abril
+La Guajira;Maicao;OIM;Total Hospital;;;;2000;No;Si;Abril
+La Guajira;Maicao;OIM;Total Institución Pública;;;;500;No;Si;Abril
+La Guajira;Riohacha;OIM;Total Hospital;;;;2000;No;Si;Abril
+La Guajira;Riohacha;OIM;Total Institución Pública;;;;800;No;Si;Abril
+La Guajira;Riohacha y Maicao;OIM;Total Comunidad;;;;1000;No;Si;Abril
+La Guajira;San Juan del Cesar;OIM;Total Hospital;;;;1000;No;Si;Abril
+La Guajira;Uribia;OIM;Total Hospital;;;;1000;No;Si;Abril
+;;;Total Pendiente entrega a las instituciones;;;;450;No;Si;Abril
+Guaviare;San José del Guaviare;OIM;Total Comunidad;;;;400;No;Si;Abril
+Guaviare;San José del Guaviare;OIM;Total Hospital;;;;600;No;Si;Abril
+Guaviare ;San José del Guaviare;OIM;Total Pendiente entrega a las instituciones;;;;100;No;Si;Abril
+La Guajira;Riohacha;World Vision;Total Hospital;;;;5730;Si;No;Mayo
+Magdalena;Santa Marta;OIM;Total Hospital;;;;3300;No;Si;Abril
+Magdalena;Santa Marta;OIM;Total Institución Pública;;;;3000;No;Si;Abril
+Meta;La Macarena;OIM;Total Comunidad;;;;150;No;Si;Abril
+Meta;La Macarena;OIM;Total Hospital;;;;250;No;Si;Abril
+Meta;La Macarena;OIM;Total Institución Pública;;;;100;No;Si;Abril
+Meta;;;Total Comunidad;;;;100;No;Si;Abril
+Meta;;;Total Hospital;;;;300;No;Si;Abril
+Meta;;;Total Institución Pública;;;;100;No;Si;Abril
+Meta;Vistahermosa;OIM;Total Comunidad;;;;150;No;Si;Abril
+Meta;Vistahermosa;OIM;Total Hospital;;;;300;No;Si;Abril
+Meta;Vistahermosa;OIM;Total Institución Pública;;;;50;No;Si;Abril
+Nariño;Ipiales;OIM;Total Albergue;;;;300;No;Si;Abril
+Nariño;Ipiales;OIM;Total Hospital;;;;5500;No;Si;Abril
+Nariño;Ipiales;OIM;Total Institución Pública;;;;700;No;Si;Abril
+Nariño;Ipiales;World Vision;;Total Hospital Civil/IPS Municipal de Primer Nivel;;;5730;Si;No;Mayo
+Nariño;Ipiales;;Total Pública;;;;5730;Si;No;Abril
+Nariño;Policarpa;OIM;Total Comunidad;;;;50;No;Si;Abril
+Nariño;Policarpa;OIM;Total Hospital;;;;450;No;Si;Abril
+Nariño;Tumaco;OIM;Total Comunidad;;;;150;No;Si;Abril
+Nariño;Tumaco;OIM;Total Hospital;;;;300;No;Si;Abril
+Nariño;Tumaco;OIM;Total Institución Pública;;;;50;No;Si;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;Total Comedor, albergue, geriatrico, centro de salud, fundacion ;;;;2342;No;Si;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;;;;;;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;Total Comedor, albergue, geriatrico, centro de salud, fundacion ;;;;1424;No;Si;Abril
+Norte de Santander;Cúcuta;OIM;Total Albergue;;;;300;No;Si;Abril
+Norte de Santander;Cúcuta;OIM;Total Comunidad;;;;2400;No;Si;Abril
+Norte de Santander;Cúcuta;OIM;Total Hospital;;;;4000;No;Si;Abril
+Norte de Santander;Cúcuta;OIM;Total Institución Pública;;;;1000;No;Si;Abril
+Norte de Santander;Cúcuta;World Vision;;Total Instituto Departamental de Salud;;;5730;Si;No;Mayo
+Norte de Santander;Cúcuta;World Vision;Total Hospital;;;;5730;Si;No;Mayo
+Norte de Santander;Tibú;OIM;Total Comunidad;;;;100;No;Si;Abril
+Norte de Santander;Tibú;OIM;Total Hospital;;;;2300;No;Si;Abril
+Norte de Santander;Tibú;OIM;Total Institución Pública;;;;50;No;Si;Abril
+Norte de Santander;Villa del Rosario;OIM;Total Albergue;;;;250;No;Si;Abril
+Norte de Santander;Villa del Rosario;OIM;Total Comunidad;;;;100;No;Si;Abril
+Norte de Santander;Villa del Rosario;OIM;;Total ESE HOSPITAL JORGE CRISTO SAHIUM  (proyectado) ;;;2000;No;Si;Abril
+Norte de Santander;Villa del Rosario;OIM;Total Hospital;;;;4000;No;Si;Abril
+Norte de Santander;Villa del Rosario;OIM;Total Institución Pública;;;;300;No;Si;Abril
+Pendiente entrega a las instituciones y comunidades;Pendiente entrega a las instituciones y comunidades;OIM;;;(en blanco);Afiches;32800;No;Si;Abril
+Pendiente entrega a las instituciones y comunidades;Pendiente entrega a las instituciones y comunidades;OIM;Total Pendiente entrega a las instituciones y comunidades;;;;43874;No;Si;Abril
+Putumayo;Puerto Asís;OIM;Total Comunidad;;;;200;No;Si;Abril
+Putumayo;Puerto Asís;OIM;Total Institución Pública;;;;300;No;Si;Abril
+Santander ;Bucaramanga;OIM;Total Albergue;;;;250;No;Si;Abril
+Santander ;Bucaramanga;OIM;Total Comunidad;;;;4700;No;Si;Abril
+Santander ;Bucaramanga;OIM;Total Hospital;;;;4800;No;Si;Abril
+Santander ;Bucaramanga;OIM;Total Institución Pública;;;;550;No;Si;Abril
+Santander ;Bucaramanga;OIM;Total Pendiente entrega a las instituciones;;;;200;No;Si;Abril
+Tolima ;Ibagué;OIM;Total Institución Pública;;;;2000;No;Si;Abril
+Tolima ;Icononzo;OIM;Total Comunidad;;;;200;No;Si;Abril
+Tolima ;Icononzo;OIM;Total Hospital;;;;300;No;Si;Abril
+Tolima ;Planadas;OIM;Total Comunidad;;;;200;No;Si;Abril
+Tolima ;Planadas;OIM;Total Hospital;;;;300;No;Si;Abril
+Valle del Cauca;Cali;OIM;Total Comunidad;;;;4450;No;Si;Abril
+Valle del Cauca;Cali;OIM;Total Hospital;;;;1400;No;Si;Abril
+Vichada;Puerto Carreño;OIM;Total Albergue;;;;350;No;Si;Abril
+Vichada;Puerto Carreño;OIM;Total Hospital;;;;1500;No;Si;Abril
+Vichada;Puerto Carreño;OIM;Total Institución Pública;;;;1800;No;Si;Abril
+Amazonas;Leticia;ACH;;;Máscaras de Alta Eficiencia N95;;200;SI;SI;Mayo
+Amazonas;Puerto Nariño;ACH;;;Gel antibacterial;;;SI;SI;Mayo
+(en blanco);(en blanco);;Total (en blanco);;;;44430;;;Abril
+Otro;Cinco zonas de influencia para atención de población indígena ;;;;;;700;No;No;Abril 
+Amazonas;Puerto Nariño;ACH;;;Hipoclorito granulado;;;SI;SI;Mayo
+Amazonas;Puerto Nariño;ACH;;;Alcohol;;;SI;SI;Mayo
+Amazonas;Puerto Nariño;ACH;;;Máscaras de Alta Eficiencia N95;;200;SI;SI;Mayo
+Amazonas;Puerto Nariño;ACH;;;Mascarillas quirúrgicas;;1200;SI;SI;Mayo
+Amazonas;Puerto Nariño;ACH;;;Mascarillas quirúrgicas;;1200;SI;SI;Mayo
+Amazonas;Puerto Nariño;ACH;;;Mascarillas quirúrgicas;;60;SI;SI;Mayo
+Amazonas;Puerto Nariño;ACH;;;Batas desechables;;2140;SI;SI;Mayo
+Amazonas;Puerto Nariño;ACH;;;Trajes;;60;SI;SI;Mayo
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;Comedor, albergue, geriatrico, centro de salud, fundacion ;Fundacion nueva ilusion, albergue el progreso, comedor misericordia cada dia, comedor los olivos, asilo san jose, geriatrico rincon de bendicion, geriatrico rejuvenecer, fundacion hoasis, terminal de transporte y geriatrico asilo rudesinsdo soto;Gel antibacterial;galones;364;No;Si;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;Guantes  estériles;unidades;88;No;Si;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;Jabón antiséptico;galones;192;No;Si;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;Mascarillas quirúrgicas;unidades;1530;No;Si;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;Toallas de papel;paquetes;168;No;Si;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;Balde con ruedas;unidades;5;No;Si;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;Bolsas de basura;unidades;150;No;Si;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;Cloro;litros;208;No;Si;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;Desinfectante;litros;100;No;Si;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;Escobas;unidades;8;No;Si;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;Estación lavado de manos;unidades;3;No;Si;Abril
+Norte de Santander;(Cúcuta, Villa del Rosario, Tibú);OIM;Secretaría de salud Departamental y Municipal;;;;1;No;No;Mayo
+Nariño; (Tumaco, Policarpa);OIM;Secretaría de salud Departamental y Municipal;;;;2;No;No;Mayo
+Guajira ;(Fonseca);OIM;Secretaría de salud Departamental y Municipal;;;;1;No;No;Mayo
+Putumayo ;(Puerto Asís);OIM;Secretaría de salud Departamental y Municipal;;;;1;No;No;Mayo
+Caquetá ;(San Vicente del Caguán, La Montañita);OIM;Secretaría de salud Departamental y Municipal;;;;2;No;No;Mayo
+Cauca ;(Caldono, Miranda, Patía, Buenos Aires);OIM;Secretaría de salud Departamental y Municipal;;;;4;No;No;Mayo
+Meta ;(Vistahermosa, Mesetas, La Macarena);OIM;Secretaría de salud Departamental y Municipal;;;;3;No;No;Mayo
+Tolima ;(Ibagué, Planadas, Icononzo);OIM;Secretaría de salud Departamental y Municipal;;;;2;No;No;Mayo
+Antioquia ;(Anorí, Dabeiba, Remedios, Ituango, Vigía del Fuerte);OIM;Secretaría de salud Departamental y Municipal;;;;5;No;No;Mayo
+Chocó ;(Riosucio);OIM;Secretaría de salud Departamental y Municipal;;;;1;No;No;Mayo
+Cesar ;(la Paz);OIM;Secretaría de salud Departamental y Municipal;;;;1;No;No;Mayo
+Córdoba ;(Tierralta);OIM;Secretaría de salud Departamental y Municipal;;;;1;No;No;Mayo
+Guaviare ;(San José del Guaviare);OIM;Secretaría de salud Departamental y Municipal;;;;1;No;No;Mayo
+Atlántico ;(Barranquilla);OIM;Secretaría de salud Departamental y Municipal;;;;1;No;No;Mayo
+Amazonas;Leticia;;Hospital San Rafael de Leticia;;;;;SI;SI;
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;Guantes para limpeza;unidades;25;No;Si;Abril
+Arauca;Arauquita;OIM;Secretaría de salud Municipal;;;;2;No;No;Mayo
+Norte de Santander;(Cúcuta, Villa del Rosario, Tibú);OIM;Secretaría de salud Municipal;;;;2;No;No;Mayo
+Nariño; (Tumaco, Policarpa);OIM;Secretaría de salud Municipal;;;;2;No;No;Mayo
+Guajira ;(Fonseca);OIM;Secretaría de salud Municipal;;;;2;No;No;Mayo
+Putumayo ;(Puerto Asís);OIM;Secretaría de salud Municipal;;;;2;No;No;Mayo
+Caquetá ;(San Vicente del Caguán, La Montañita);OIM;Secretaría de salud Municipal;;;;2;No;No;Mayo
+Cauca ;(Caldono, Miranda, Patía, Buenos Aires);OIM;Secretaría de salud Municipal;;;;2;No;No;Mayo
+Meta ;(Vistahermosa, Mesetas, La Macarena);OIM;Secretaría de salud Municipal;;;;2;No;No;Mayo
+Tolima ;(Ibagué, Planadas, Icononzo);OIM;Secretaría de salud Municipal;;;;2;No;No;Mayo
+Antioquia ;(Anorí, Dabeiba, Remedios, Ituango, Vigía del Fuerte);;Secretaría de salud Municipal;;;;;No;No;Mayo
+Chocó ;(Riosucio);;Secretaría de salud Municipal;;;;;No;No;Mayo
+Cesar ;(la Paz);;Secretaría de salud Municipal;;;;;No;No;Mayo
+Córdoba ;(Tierralta);;Secretaría de salud Municipal;;;;;No;No;Mayo
+Guaviare ;(San José del Guaviare);;Secretaría de salud Municipal;;;;;No;No;Mayo
+Arauca;Arauquita;OIM;Secretaría de salud Departamental y Municipal;Secretaría de salud Departamental y Municipal;;;1;No;No;Mayo
+Norte de Santander;(Cúcuta, Villa del Rosario, Tibú);OIM;Secretaría de salud Departamental y Municipal;Secretaría de salud Departamental y Municipal;;;1;No;No;Mayo
+Nariño; (Tumaco, Policarpa);OIM;Secretaría de salud Departamental y Municipal;Secretaría de salud Departamental y Municipal;;;2;No;No;Mayo
+Guajira ;(Fonseca);OIM;Secretaría de salud Departamental y Municipal;Secretaría de salud Departamental y Municipal;;;1;No;No;Mayo
+Putumayo ;(Puerto Asís);OIM;Secretaría de salud Departamental y Municipal;Secretaría de salud Departamental y Municipal;;;1;No;No;Mayo
+Caquetá ;(San Vicente del Caguán, La Montañita);OIM;Secretaría de salud Departamental y Municipal;Secretaría de salud Departamental y Municipal;;;2;No;No;Mayo
+Cauca ;(Caldono, Miranda, Patía, Buenos Aires);OIM;Secretaría de salud Departamental y Municipal;Secretaría de salud Departamental y Municipal;;;4;No;No;Mayo
+Meta ;(Vistahermosa, Mesetas, La Macarena);OIM;Secretaría de salud Departamental y Municipal;Secretaría de salud Departamental y Municipal;;;3;No;No;Mayo
+Tolima ;(Ibagué, Planadas, Icononzo);OIM;Secretaría de salud Departamental y Municipal;Secretaría de salud Departamental y Municipal;;;2;No;No;Mayo
+Antioquia ;(Anorí, Dabeiba, Remedios, Ituango, Vigía del Fuerte);OIM;Secretaría de salud Departamental y Municipal;Secretaría de salud Departamental y Municipal;;;5;No;No;Mayo
+Chocó ;(Riosucio);OIM;Secretaría de salud Departamental y Municipal;Secretaría de salud Departamental y Municipal;;;1;No;No;Mayo
+Cesar ;(la Paz);OIM;Secretaría de salud Departamental y Municipal;Secretaría de salud Departamental y Municipal;;;1;No;No;Mayo
+Córdoba ;(Tierralta);OIM;Secretaría de salud Departamental y Municipal;Secretaría de salud Departamental y Municipal;;;1;No;No;Mayo
+Guaviare ;(San José del Guaviare);OIM;Secretaría de salud Departamental y Municipal;Secretaría de salud Departamental y Municipal;;;1;No;No;Mayo
+Atlántico ;(Barranquilla);OIM;Secretaría de salud Departamental y Municipal;Secretaría de salud Departamental y Municipal;;;1;No;No;Mayo
+La Guajira ;Riohacha ;Samaritan's Purse ;Secretaria de Salud ;Secretaria de Salud ;;;1;;SI ;Abril
+Cundinamarca;Bogotá;OIM;STAFF OIM;;;;;Si;Si;
+Cundinamarca;Bogotá;OIM;STAFF OIM;;;;;Si;Si;
+Cundinamarca;Bogotá;OIM;STAFF OIM;;;;;Si;Si;
+Cundinamarca;Bogotá;OIM;STAFF OIM;;;;;Si;Si;
+Cundinamarca;Bogotá;OIM;STAFF OIM;;;;;Si;Si;
+Cundinamarca;Bogotá;OIM;STAFF OIM;;;;;Si;Si;
+;;UNICEF;;;;;;;;
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;Jabón polvo;kilo;48;No;Si;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;Pañales desechables;unidades;320;No;Si;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;Papel Higiénico;Rollo;100;No;Si;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;Tanques de Basura;unidades;5;No;Si;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;Toallas higiénicas;paquetes;30;No;Si;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;Trapero;unidades;8;No;Si;Abril
+Norte de Santander;Cucuta-Los patios- Herran- Ragonvalia - pamplona;CISP - Comitato Internazionale Per Lo Sviluppo Dei Popoli;;;Vinagre;litros;414;No;Si;Abril
+Magdalena;Santa Marta;OIM;CRUE departamental;;Profesional en Medicina General (Experiencia en regulación del CRUE);;3;No;No;Mayo
+Magdalena;Santa Marta;OIM;CRUE departamental;;Radio - operadores;;3;No;No;Mayo
+Magdalena;Santa Marta;OIM;CRUE departamental;;Profesional en Enfermería (para apoyo de gestión);;2;No;No;Mayo
+Vichada;Puerto Carreño;OIM;CRUE departamental;;Profesional en Medicina General;;1;No;No;Mayo
+Vichada;Puerto Carreño;OIM;CRUE departamental;;Profesional en enfermeria;;1;No;No;Mayo
+Amazonas;Leticia;Médicos del Mundo;;;Personal médico triaje;;;SI;SI;Mayo
+Amazonas;La Chorrera;MMI;;;Medicamentos;;;SI;SI;Mayo
+Amazonas;Leticia;MMI;;;Medicamentos;;;SI;SI;Mayo
+Amazonas;Leticia;MMI;;;Apoyo logístico;;;SI;SI;Mayo
+Amazonas;Leticia;OIM;;;Termómetro láser;unidades;4;SI;SI;Mayo
+Amazonas;Leticia;OIM;;;monogafas;unidades;95;SI;SI;Mayo
+Amazonas;Leticia;OIM;;;Mascarillas quirúrgicas;unidades;2000;SI;SI;Mayo
+Amazonas;Leticia;OIM;;;Batas desechables;unidades;100;SI;SI;Mayo
+Amazonas;Leticia;OIM;;;Gel antibacterial;unidades;4;SI;SI;Mayo
+Antioquia;Anorí;OIM;Total Comunidad;Comunidad , ETCR;Mascarillas quirúrgicas;unidades;320;No;Si;Abril
+Antioquia;Anorí;OIM;Total Hospital;E.S.E Hospital San Juan de Dios ( 300 para la E.S.E y 50 para las UAIC);Mascarillas quirúrgicas;unidades;160;No;Si;Abril
+Antioquia;Anorí;OIM;Total Institución Pública;Alcaldía;Mascarillas quirúrgicas;unidades;320;No;Si;Abril
+Antioquia;Bello;OIM;Hospital;ESE Bello salud;Mascarillas quirúrgicas;unidades;1500;No;Si;Abril
+Antioquia;Caldas;OIM;Hospital;ESE Hsopital San Vicente de Paul;Mascarillas quirúrgicas;unidades;1500;No;Si;Abril
+Antioquia;Copacabana;OIM;Institución Pública;Secretaria de Salud ;Mascarillas quirúrgicas;unidades;850;No;Si;Abril
+Antioquia;Envigado;OIM;Institución Pública;Secretaria de Salud ;Mascarillas quirúrgicas;unidades;850;No;Si;Abril
+Antioquia;Itagui;OIM;Hospital;ESE hospital del Sur;Mascarillas quirúrgicas;unidades;800;No;Si;Abril
+Antioquia;Itagui;OIM;Institución Pública;Secretaria de Salud;Mascarillas quirúrgicas;unidades;800;No;Si;Abril
+Antioquia;Ituango;OIM;Comunidad;Comunidad , ETCR;Mascarillas quirúrgicas;unidades;130;No;Si;Abril
+Antioquia;Ituango;OIM;Hospital;E.S.E Hospital San Juan de Dios ( 300 para la ESE y 50 para la UAIC Santa Rita);Mascarillas quirúrgicas;unidades;350;No;Si;Abril
+Antioquia;Ituango;OIM;Institución Pública;Dirección Local de Salud;Mascarillas quirúrgicas;unidades;20;No;Si;Abril
+Antioquia;Medellin;OIM;Albergue;Casa del buen dios;Mascarillas quirúrgicas;unidades;250;No;Si;Abril
+Antioquia;Medellin;OIM;;Coorporacion Vive;Mascarillas quirúrgicas;unidades;500;No;Si;Abril
+Antioquia;Medellin;OIM;;Pastoral social;Mascarillas quirúrgicas;unidades;250;No;Si;Abril
+Antioquia;Medellin;OIM;Comunidad;Famicove;Mascarillas quirúrgicas;unidades;300;No;Si;Abril
+Antioquia;Medellin;OIM;;Red Barrial;Mascarillas quirúrgicas;unidades;200;No;Si;Abril
+Antioquia;Medellin;OIM;Institución Pública;Secretaria de participacion-Albergues;Mascarillas quirúrgicas;unidades;2700;No;Si;Abril
+Antioquia;Medellín, Itagüi, Bello, Caldas, Envigado, Ituango, Riosucio, Dabeiba, Remedios, Anorí;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;650;No;Si;Abril
+Antioquia;Remedios;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Antioquia;Remedios;OIM;;ETCR;Mascarillas quirúrgicas;unidades;150;No;Si;Abril
+Antioquia;Remedios;OIM;Hospital;E.S.E. Hospital San Vicente de Paul;Mascarillas quirúrgicas;unidades;300;No;Si;Abril
+Antioquia;Vigía del Fuerte;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Antioquia;Vigía del Fuerte;OIM;;ETCR;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Antioquia;Vigía del Fuerte;OIM;;UAIC;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Antioquia;Vigía del Fuerte;OIM;Hospital;Hospital;Mascarillas quirúrgicas;unidades;300;No;Si;Abril
+Antioquia ;Bello;OIM;ESE Bellosalud;;Disposición y dotación (carpas 6x6) para entregar a los hospitales para disposición de zona de triage respiratorio.;;1;No;No;Mayo
+Antioquia ;Caldas;OIM;Hospital San Vicente Paul;;Disposición y dotación (carpas 6x6) para entregar a los hospitales para disposición de zona de triage respiratorio.;;1;No;No;Mayo
+Antioquia ;Itagúi;OIM;ESE Hospital del Sur;;Disposición y dotación (carpas 6x6) para entregar a los hospitales para disposición de zona de triage respiratorio.;;2;No;No;Mayo
+Arauca;Arauquita;OIM;Secretaría de salud Departamental y Municipal;;Profesional en enfermeria;;1;No;No;Mayo
+Arauca ;Araca, Arauquita;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;250;No;Si;Abril
+Arauca ;Arauca;OIM;Hospital;ESE Jaime Alvardo y Castilla ;Mascarillas quirúrgicas;unidades;500;No;Si;Abril
+Arauca ;Arauca;OIM;Hospital;Hospital San Vicente de Arauca ;Mascarillas quirúrgicas;unidades;1000;No;Si;Abril
+Arauca ;Arauca;OIM;Hospital;Unidad administrativa especial de salud de Arauca ;Mascarillas quirúrgicas;unidades;500;No;Si;Abril
+Arauca ;Arauca;OIM;Institución Pública;Personería municipal ;Mascarillas quirúrgicas;unidades;250;No;Si;Abril
+Arauca ;Arauca ;OIM;ESE Jaime Alvarado y Castilla;;Disposición y dotación (carpas 6x3) para entregar a los hospitales para disposición de zona de triage respiratorio.;;4;No;No;Mayo
+Arauca ;Arauquita;OIM;Comunidad;ETCR FiLIPINA ;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Arauca ;Arauquita;OIM;Comunidad;Vereda Panamá;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Arauca ;Arauquita;OIM;Comunidad;VeredaLa Paz;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Arauca ;Arauquita;OIM;Hospital;E.S.E Hospital San Lorenzo de Arauquita;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Arauca ;Arauquita;OIM;Hospital;Hospital San Lorenzo de Arauquita ;Mascarillas quirúrgicas;unidades;900;No;Si;Abril
+Arauca ;Arauquita;OIM;Hospital;Puesto de Salud Aguachica;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Arauca ;Arauquita;OIM;Hospital;Puesto de Salud El Oasis;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Arauca ;Arauquita;OIM;Institución Pública;Alcaldía municipal de Arauquita - PST;Mascarillas quirúrgicas;unidades;300;No;Si;Abril
+Arauca ;Arauquita;OIM;Institución Pública;Comisaria de familia municipio de Arauquita ;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Arauca ;Arauquita;OIM;Institución Pública;Secretaría de Salud Municipal;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Arauca ;Tame;OIM;Hospital;Hospital San Antonio de Tame ;Mascarillas quirúrgicas;unidades;1000;No;Si;Abril
+Arauca ;Tame;OIM;Institución Pública;Alcaldía municipal de Tame - Bienestar Social ;Mascarillas quirúrgicas;unidades;300;No;Si;Abril
+Atlántico;Barranquilla;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;200;No;Si;Abril
+Atlántico;Barranquilla;OIM;Hospital;MiRed IPS;Mascarillas quirúrgicas;unidades;1400;No;Si;Abril
+Atlántico;Barranquilla;OIM;Institución Pública;Secretaría de Salud- Oficina Salud Pública ;Mascarillas quirúrgicas;unidades;1100;No;Si;Abril
+Atlántico;Barranquilla;OIM;Hospital Materno Infantil de Soledad- ;;Disposición y dotación (carpas 4x4) para entregar a los hospitales para disposición de zona de triage respiratorio.;;4;No;No;Mayo
+Atlántico;Barranquilla- Soledad;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;1000;No;Si;Abril
+Atlántico;Soledad;OIM;Institución Pública;Hospital Materno Infantil de Soledad;Mascarillas quirúrgicas;unidades;1400;No;Si;Abril
+Atlántico;Soledad;OIM;;Secretaría de Salud- Oficina Salud Pública ;Mascarillas quirúrgicas;unidades;1400;No;Si;Abril
+Atlántico ;Soledad;OIM;Secretaria de Salud de Soledad ;;Disposición y dotación (carpas 6x3) para entregar a los hospitales para disposición de zona de triage respiratorio.;;5;No;No;Mayo
+Bogotá D.C.;Bogotá ;OIM;Comunidad;Comunidad ;Mascarillas quirúrgicas;unidades;500;No;Si;Abril
+Bogotá D.C.;Bogotá ;OIM;Hospital;Subred Integrada de Servicios de Salud Centro Oriente (Usuarios de asistencial). ;Mascarillas quirúrgicas;unidades;2000;No;Si;Abril
+Bogotá D.C.;Bogotá ;OIM;;Subred Integrada de Servicios de Salud Centro Oriente (usuarios PIC).;Mascarillas quirúrgicas;unidades;600;No;Si;Abril
+Bolívar;Cartagena;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;2300;No;Si;Abril
+Bolívar;Cartagena;OIM;Hospital;Departamento Administartivo Distrital de salud  DADIS ;Mascarillas quirúrgicas;unidades;4000;No;Si;Abril
+Bolívar;Cartagena;OIM;Hospital Infantil Napoleón Franco pareja ;;Disposición y dotación (carpas 4x4) para entregar a los hospitales para disposición de zona de triage respiratorio.;;6;No;No;Mayo
+Bolívar ;Cartagena;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;200;No;Si;Abril
+Caquetá ;La Montañita;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Caquetá ;La Montañita;OIM;;ETCR Agua Bonita 2;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Caquetá ;La Montañita;OIM;Hospital;Centro de Salud la Montañita y ;Mascarillas quirúrgicas;unidades;350;No;Si;Abril
+Caquetá ;San Vicente del Caguán;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Caquetá ;San Vicente del Caguán;OIM;Comunidad;ETCR Vereda Miravalle;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Caquetá ;San Vicente del Caguán;OIM;Comunidad;UAIC - Vereda Guacamayas;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Caquetá ;San Vicente del Caguán;OIM;Hospital;E.S.E. Hospital San Rafael;Mascarillas quirúrgicas;unidades;250;No;Si;Abril
+Caquetá ;San Vicente del Caguán;OIM;Institución Pública;Alcaldia San Vicente del Caguan;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Caquetá ;San Vicente del Caguán, La Montañita;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;100;No;Si;Abril
+Casanare;Yopal;OIM;Institución Pública;Secretaría de Salud Municipal;Mascarillas quirúrgicas;unidades;1000;No;Si;Abril
+Cauca;Buenos Aires;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Cauca;Buenos Aires;OIM;Hospital;E.S.E Norte Uno , Punto de atención Buenos Aires;Mascarillas quirúrgicas;unidades;450;No;Si;Abril
+Cauca;Caldono;OIM;Hospital;E.S.E Popayán;Mascarillas quirúrgicas;unidades;500;No;Si;Abril
+Cauca;Caldono, Patía, Buenos Aires, Miranda;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;200;No;Si;Abril
+Cauca;Miranda;OIM;Hospital;E.S.E Norte 2 - Punto de atención Miranda;Mascarillas quirúrgicas;unidades;500;No;Si;Abril
+Cauca;Patía;OIM;Hospital;E.S.E Hospital el Bordo;Mascarillas quirúrgicas;unidades;500;No;Si;Abril
+Cesar;La Paz;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Cesar;La Paz;OIM;;ETCR - UAIC;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Cesar;La Paz;OIM;;Lider comunitario y población General;Mascarillas quirúrgicas;unidades;25;No;Si;Abril
+Cesar;La Paz;OIM;Hospital;Hospital Mariano Zuleta;Mascarillas quirúrgicas;unidades;300;No;Si;Abril
+Cesar;La Paz;OIM;Institución Pública;Secretaría Local de Salud;Mascarillas quirúrgicas;unidades;25;No;Si;Abril
+Cesar;Valledupar;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;1000;No;Si;Abril
+Cesar;Valledupar;OIM;Comunidad;Líderes comunitarios Red de Vigilancia ;Mascarillas quirúrgicas;unidades;450;No;Si;Abril
+Cesar;Valledupar;OIM;Comunidad;Taxistas, mototaxistas, domiciliarios.;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Cesar;Valledupar;OIM;Hospital;Hospital Eduardo Arredondo Daza;Mascarillas quirúrgicas;unidades;1500;No;Si;Abril
+Cesar;Valledupar;OIM;Hospital;Hospital Rosario Pumarejo de López;Mascarillas quirúrgicas;unidades;1500;No;Si;Abril
+Cesar;Valledupar;OIM;Institución Pública;Secretaría de Salud Departamental;Mascarillas quirúrgicas;unidades;500;No;Si;Abril
+Cesar;Valledupar;OIM;Institución Pública;Secretaría de Salud Municipal;Mascarillas quirúrgicas;unidades;1000;No;Si;Abril
+Cesar ;Valledupar;OIM;Hospital Eduardo Arredondo Daza;;Disposición y dotación (carpas 6x3) para entregar a los hospitales para disposición de zona de triage respiratorio.;;5;No;No;Mayo
+Cesar ;Valledupar, La Paz;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;250;No;Si;Abril
+Chocó;Quibdó;OIM;Institución Pública;Dirección Local de Salud;Mascarillas quirúrgicas;unidades;1000;No;Si;Abril
+Chocó;Riosucio;OIM;Comunidad;ETCR;Mascarillas quirúrgicas;unidades;150;No;Si;Abril
+Chocó;Riosucio;OIM;Hospital;IPS Servimédico;Mascarillas quirúrgicas;unidades;300;No;Si;Abril
+Chocó;Riosucio;OIM;Institución Pública;Secretaría de Salud Municipal;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Córdoba;Tierralta;OIM;Hospital;E.S.E. Hospital San José;Mascarillas quirúrgicas;unidades;250;No;Si;Abril
+Córdoba;Tierralta;OIM;Institución Pública;Dirección Local de Salud;Mascarillas quirúrgicas;unidades;250;No;Si;Abril
+Córdoba;Tierralta;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;50;No;Si;Abril
+Cundinamarca;Bogotá;OIM;Subred Centro Oriente -CAPS Samper Mendoza;;Disposición y dotación (carpas 4x4) para entregar a los hospitales para disposición de zona de triage respiratorio.;;1;Si;Si;Mayo
+Cundinamarca;Bogotá;OIM;Cancillería;;Volante;;1250000;Si;Si;Marzo
+Cundinamarca;Bogotá, Soacha, Chía;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;400;No;Si;Abril
+Cundinamarca;Chía ;OIM;Comunidad;Comunidad ;Mascarillas quirúrgicas;unidades;400;No;Si;Abril
+Cundinamarca;Chía ;OIM;Hospital;ESE San Antonio de Chia ;Mascarillas quirúrgicas;unidades;2000;No;Si;Abril
+Cundinamarca;Chía ;OIM;Institución Pública;Fundasovenex ;Mascarillas quirúrgicas;unidades;200;No;Si;Abril
+Cundinamarca;Soacha;OIM;ESE Municipal de Soacha;;Disposición y dotación (carpas 4x4) para entregar a los hospitales para disposición de zona de triage respiratorio.;;2;Si;Si;Mayo
+Cundinamarca;Soacha ;OIM;Comunidad;Comunidad ;Mascarillas quirúrgicas;unidades;2500;No;Si;Abril
+Cundinamarca;Soacha ;OIM;Hospital;ESE Municipal de Soacha ;Mascarillas quirúrgicas;unidades;500;No;Si;Abril
+Cundinamarca;Soacha ;OIM;Comunidad;Colombia Nuevos Horizontes ;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Cundinamarca;Soacha ;OIM;Hospital;Hospital Mario Gaitan Yanguas ESE ;Mascarillas quirúrgicas;unidades;2000;No;Si;Abril
+Cundinamarca ;Chía;OIM;ESE Hospital San Antonio de Chía;;Disposición y dotación (carpas 6x6) para entregar a los hospitales para disposición de zona de triage respiratorio.;;1;No;No;Mayo
+Guaviare;San José del Guaviare;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Guaviare;San José del Guaviare;OIM;;ETCR Charras;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Guaviare;San José del Guaviare;OIM;;ETCR Colinas;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Guaviare;San José del Guaviare;OIM;;UAIC;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Guaviare;San José del Guaviare;OIM;;UAIC Colinas;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Guaviare;San José del Guaviare;OIM;Hospital;E.S.E UEN San José;Mascarillas quirúrgicas;unidades;600;No;Si;Abril
+Guaviare ;San José del Guaviare;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;100;No;Si;Abril
+La Guajira;Fonseca;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+La Guajira;Fonseca;OIM;;ETCR;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+La Guajira;Fonseca;OIM;;UAIC;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+La Guajira;Fonseca;OIM;Hospital;E.S.E HOSPITAL SAN AGUSTIN;Mascarillas quirúrgicas;unidades;300;No;Si;Abril
+La Guajira;La Guajira;OIM;Institución Pública;SECRETARIA DE SALUD DEPARTAMENTAL DE LA GUAJIRA;Mascarillas quirúrgicas;unidades;2000;No;Si;Abril
+La Guajira;Maica, Riohacha, Fonseca;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;450;No;Si;Abril
+La Guajira;Maicao;OIM;Hospital;ESE HOSPITAL SAN JOSE DE MAICAO;Mascarillas quirúrgicas;unidades;2000;No;Si;Abril
+La Guajira;Maicao;OIM;Institución Pública;SECRETARIA DE SALUD MAICAO;Mascarillas quirúrgicas;unidades;500;No;Si;Abril
+La Guajira;Maicao;OIM;Hospital San José de Maicao;;Disposición y dotación (carpas 6x3) para entregar a los hospitales para disposición de zona de triage respiratorio.;;5;No;No;Mayo
+La Guajira;Riohacha;OIM;Hospital;ESE HOSPITAL NUESTRA SEÑORA DE LOS REMEDIOS;Mascarillas quirúrgicas;unidades;2000;No;Si;Abril
+La Guajira;Riohacha;OIM;Institución Pública;SECRETARIA DE SALUD RIOHACHA;Mascarillas quirúrgicas;unidades;800;No;Si;Abril
+La Guajira;Riohacha;OIM;Hospital Nuestra Señora de los Remedios de Riohacha;;Disposición y dotación (carpas 6x3) para entregar a los hospitales para disposición de zona de triage respiratorio.;;4;Si;Si;Mayo
+La Guajira;Riohacha y Maicao;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;1000;No;Si;Abril
+La Guajira;San Juan del Cesar;OIM;Hospital;ESE SAN RAFAEL II NIVEL DE SAN JUAN DEL CESAR;Mascarillas quirúrgicas;unidades;1000;No;Si;Abril
+La Guajira;San Juan del Cesar;OIM;Hospital San Rafael de San Juan del Cesar;;Disposición y dotación (carpas 6x3) para entregar a los hospitales para disposición de zona de triage respiratorio.;;1;No;No;Mayo
+La Guajira;Uribia;OIM;Hospital;ESE HOSPITAL NUESTRA SEÑORA DEL PERPETUO SOCORRO;Mascarillas quirúrgicas;unidades;1000;No;Si;Abril
+La Guajira;Uribia ;OIM;Hospital Nuestra Señora del Perpetuo Socorro de Uribía;;Disposición y dotación (carpas 6x3) para entregar a los hospitales para disposición de zona de triage respiratorio.;;1;No;No;Mayo
+Magdalena;Santa Marta;OIM;Hospital;ESE ALEJANDRO PROSPERO REVEREND,               ;Mascarillas quirúrgicas;unidades;3300;No;Si;Abril
+Magdalena;Santa Marta;OIM;Institución Pública;SECRETARIA DE SALUD  DEPARTAMENTAL;Mascarillas quirúrgicas;unidades;1000;No;Si;Abril
+Magdalena;Santa Marta;OIM;Institución Pública;SECRETARIA DE SALUD DISTRITAL     ;Mascarillas quirúrgicas;unidades;2000;No;Si;Abril
+Magdalena;Santa Marta;OIM;Secretaría Deptal de Salud;;Disposición y dotación (carpas 4x4) para entregar a los hospitales para disposición de zona de triage respiratorio.;;4;No;No;Mayo
+Magdalena ;Santa Marta;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;200;No;Si;Abril
+Magdalena ;Santa Marta);OIM;Secretaría Deptal de Salud;;Disposición y dotación (carpas 6x3) para entregar a los hospitales para disposición de zona de triage respiratorio.;;1;No;No;Mayo
+Meta;La Macarena;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Meta;La Macarena;OIM;;ETCR;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Meta;La Macarena;OIM;Hospital;Centro de atención La Macarena;Mascarillas quirúrgicas;unidades;250;No;Si;Abril
+Meta;La Macarena;OIM;Institución Pública;Plan de Salud Territorial;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Meta;Mesetas;OIM;Comunidad;ETCR Marina Páez;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Meta;Mesetas;OIM;Hospital;Centro de Atención Salud Mesetas;Mascarillas quirúrgicas;unidades;300;No;Si;Abril
+Meta;Mesetas;OIM;Institución Pública;Plan Territorial de salud de Mesetas;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Meta;Vistahermosa;OIM;Comunidad;ETCR;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Meta;Vistahermosa;OIM;;UAIC;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Meta;Vistahermosa;OIM;Hospital;Centro de Salud;Mascarillas quirúrgicas;unidades;300;No;Si;Abril
+Meta;Vistahermosa;OIM;Institución Pública;Plan Salud Territorial;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Meta ;Vistahermosa, La Macarena, Mesetas;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;150;No;Si;Abril
+Nariño;Ipiales;OIM;Albergue;Ancianato San Jose;Mascarillas quirúrgicas;unidades;300;No;Si;Abril
+Nariño;Ipiales;OIM;Hospital;Clinica Las Lajas ;Mascarillas quirúrgicas;unidades;500;No;Si;Abril
+Nariño;Ipiales;OIM;;Hospital Civil de Ipiales;Mascarillas quirúrgicas;unidades;3000;No;Si;Abril
+Nariño;Ipiales;OIM;;IPS Municipal de Ipiales;Mascarillas quirúrgicas;unidades;2000;No;Si;Abril
+Nariño;Ipiales;OIM;Institución Pública;Secretaria de Salud Municipal;Mascarillas quirúrgicas;unidades;700;No;Si;Abril
+Nariño;Ipiales;OIM;Hospital Civil de Ipiales;;Disposición y dotación (carpas 4x4) para entregar a los hospitales para disposición de zona de triage respiratorio.;;5;No;No;Mayo
+Nariño;Ipiales, Tumaco, Policarpa;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;500;No;Si;Abril
+Nariño;Policarpa;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Nariño;Policarpa;OIM;Hospital;E.S.E Policarpa;Mascarillas quirúrgicas;unidades;450;No;Si;Abril
+Nariño;Tumaco;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Nariño;Tumaco;OIM;;ETCR;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Nariño;Tumaco;OIM;Hospital;E.S.E Divino Niño;Mascarillas quirúrgicas;unidades;300;No;Si;Abril
+Nariño;Tumaco;OIM;Institución Pública;Secretaría de Salud Municipal;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Nariño ;Ipiales);OIM;Hospital Civil de Ipiales;;Disposición y dotación (carpas 6x3) para entregar a los hospitales para disposición de zona de triage respiratorio.;;3;No;No;Mayo
+Norte de Santander;Cúcuta;OIM;Albergue;Centro del Atencion a Habitante de Calle Departamento Administrativo de Bienestar Social Cucuta ;Mascarillas quirúrgicas;unidades;250;No;Si;Abril
+Norte de Santander;Cúcuta;OIM;;Hogar de paso Itzayana;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Norte de Santander;Cúcuta;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;750;No;Si;Abril
+Norte de Santander;Cúcuta;OIM;;COMUNIDAD YUKPA JORNADA DE 30 DE MARZO AL 8 DE ABRIL. ;Mascarillas quirúrgicas;unidades;900;No;Si;Abril
+Norte de Santander;Cúcuta;OIM;;Comunidad,  gestantes, Familias con COVID;Mascarillas quirúrgicas;unidades;150;No;Si;Abril
+Norte de Santander;Cúcuta;OIM;;ORGANIZACIÓN CAPELLANIA OFICA;Mascarillas quirúrgicas;unidades;600;No;Si;Abril
+Norte de Santander;Cúcuta;OIM;Hospital;ESE IMSALUD;Mascarillas quirúrgicas;unidades;4000;No;Si;Abril
+Norte de Santander;Cúcuta;OIM;Institución Pública;Centro de Restablecimiento penal para menores ICBF - ONG crecer en Familia Centro juvenil Los patios ;Mascarillas quirúrgicas;unidades;200;No;Si;Abril
+Norte de Santander;Cúcuta;OIM;;INSTITUTO DEPARTAMENTAL DE SALUD ;Mascarillas quirúrgicas;unidades;400;No;Si;Abril
+Norte de Santander;Cúcuta;OIM;;POLICIA NACIONAL;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Norte de Santander;Cúcuta;OIM;;Policia Nacional MECUC -  Antinarcoticos;Mascarillas quirúrgicas;unidades;300;No;Si;Mayo
+Norte de Santander;Cúcuta;OIM;IMSALUD;;Disposición y dotación (carpas 4x4) para entregar a los hospitales para disposición de zona de triage respiratorio.;;3;Si;Si;Mayo
+Norte de Santander;Cúcuta;OIM;ISABU;;Disposición y dotación (carpas 9x3) para entregar a los hospitales para disposición de zona de triage respiratorio.;;1;No;No;Mayo
+Norte de Santander;Cúcuta, Villa del Rosario, Tibú;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;500;No;Si;Abril
+Norte de Santander;Tibú;OIM;Comunidad;ETCR Caño;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Norte de Santander;Tibú;OIM;;UAIC;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Norte de Santander;Tibú;OIM;Hospital;E.S.E Regional Norte;Mascarillas quirúrgicas;unidades;300;No;Si;Abril
+Norte de Santander;Tibú;OIM;;ESE HOSPITAL REGIONAL NORTE;Mascarillas quirúrgicas;unidades;2000;No;Si;Abril
+Norte de Santander;Tibú;OIM;Institución Pública;Dirección Local de Salud;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Norte de Santander;Villa del Rosario;OIM;Albergue;CATM;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Norte de Santander;Villa del Rosario;OIM;;Instituto La Esperanza ;Mascarillas quirúrgicas;unidades;200;No;Si;Abril
+Norte de Santander;Villa del Rosario;OIM;Comunidad;Iglesia para la Frontera ;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Norte de Santander;Villa del Rosario;OIM;Hospital;ESE HOSPITAL JORGE CRISTO SAHIUM;Mascarillas quirúrgicas;unidades;2000;No;Si;Abril
+Norte de Santander;Villa del Rosario;OIM;Institución Pública;Secretaria de salud de Villa del Rosario;Mascarillas quirúrgicas;unidades;300;No;Si;Abril
+Norte de Santander;Villa del Rosario;OIM;ESE Jorge Cristo Sahium;;Disposición y dotación (carpas 4x4) para entregar a los hospitales para disposición de zona de triage respiratorio.;;4;No;No;Mayo
+Pendiente entrega a las instituciones y comunidades;Pendiente entrega a las instituciones y comunidades;OIM;Pendiente entrega a las instituciones y comunidades;Pendiente entrega a las instituciones y comunidades;Batas desechables;unidades;9980;No;Si;Abril
+Pendiente entrega a las instituciones y comunidades;Pendiente entrega a las instituciones y comunidades;OIM;;;Gel antibacterial;galones;995;No;Si;Abril
+Pendiente entrega a las instituciones y comunidades;Pendiente entrega al territorio;OIM;Pendiente entrega al territorio;Pendiente entrega al territorio;Termómetro láser;unidades;99;No;Si;Abril
+Putumayo;Puerto Asís;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Putumayo;Puerto Asís;OIM;;ETCR;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Putumayo;Puerto Asís;OIM;;Guardia Indígena - Comunidad Cabildo Mame Ñata a Umugse - ZIO BAIN;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Putumayo;Puerto Asís;OIM;Institución Pública;Equipo de Gestión del Riesgo;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Putumayo;Puerto Asís;OIM;;Secretaría de Salud Municipal;Mascarillas quirúrgicas;unidades;200;No;Si;Abril
+Putumayo;Puerto Asís;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;50;No;Si;Abril
+Santander;Bucaramanga;OIM;ISABU;;Disposición y dotación (carpas 4x4) para entregar a los hospitales para disposición de zona de triage respiratorio.;;1;No;No;Mayo
+Santander ;Bucaramanga;OIM;Albergue;Fundación Hogar Geriátrico Luz de Esperanza;Mascarillas quirúrgicas;unidades;250;No;Si;Abril
+Santander ;Bucaramanga;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;400;No;Si;Abril
+Santander ;Bucaramanga;OIM;;Comunidad Centro de Salud Café Madrid - Hospital Local del Norte - Tamizajes ESE ISABU;Mascarillas quirúrgicas;unidades;65;No;Si;Abril
+Santander ;Bucaramanga;OIM;;Comunidad migrante - Hoteles centro de Bucaramanga;Mascarillas quirúrgicas;unidades;150;No;Si;Abril
+Santander ;Bucaramanga;OIM;;Comunidad migrante CASA Cruz Roja;Mascarillas quirúrgicas;unidades;65;No;Si;Abril
+Santander ;Bucaramanga;OIM;;Comunidad migrante en condición de calle en el parque del agua;Mascarillas quirúrgicas;unidades;400;No;Si;Abril
+Santander ;Bucaramanga;OIM;;Comunidad migrantes en condición de calle en el parque del agua;Mascarillas quirúrgicas;unidades;2800;No;Si;Abril
+Santander ;Bucaramanga;OIM;;Madres gestantes y comunidad migrante;Mascarillas quirúrgicas;unidades;70;No;Si;Abril
+Santander ;Bucaramanga;OIM;;Migración Colombia - Comunidad migrante;Mascarillas quirúrgicas;unidades;650;No;Si;Abril
+Santander ;Bucaramanga;OIM;;Secretaría de Salud de Bucaramanga / Programa de Tuberculosis;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Santander ;Bucaramanga;OIM;Hospital;ESE HUS Hospital Universitario de Santander;Mascarillas quirúrgicas;unidades;2400;No;Si;Abril
+Santander ;Bucaramanga;OIM;;ESE ISABU Instituto de Salud de Bucaramanga;Mascarillas quirúrgicas;unidades;2400;No;Si;Abril
+Santander ;Bucaramanga;OIM;Institución Pública;Secretaría de Desarrollo Social de la Alcaldía de Bucaramanga;Mascarillas quirúrgicas;unidades;350;No;Si;Abril
+Santander ;Bucaramanga;OIM;;Secretaría de Salud de Santander;Mascarillas quirúrgicas;unidades;200;No;Si;Abril
+Santander ;Bucaramanga;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;200;No;Si;Abril
+Santander ;Bucaramanga;OIM;IMSALUD;;Disposición y dotación (carpas 9x3) para entregar a los hospitales para disposición de zona de triage respiratorio.;;1;Si;Si;Mayo
+Tolima ;Ibagué;OIM;Institución Pública;Secretaría de Salud Municipal;Mascarillas quirúrgicas;unidades;2000;No;Si;Abril
+Tolima ;Icononzo;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Tolima ;Icononzo;OIM;;ETCR La Fila;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Tolima ;Icononzo;OIM;;Vereda El Triunfo;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Tolima ;Icononzo;OIM;Hospital;Hospital Sumapaz;Mascarillas quirúrgicas;unidades;300;No;Si;Abril
+Tolima ;Icononzo, Planadas;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;100;No;Si;Abril
+Tolima ;Planadas;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Tolima ;Planadas;OIM;;ETCR El Oso;Mascarillas quirúrgicas;unidades;150;No;Si;Abril
+Tolima ;Planadas;OIM;Hospital;E.S.E Hospital Centro Planadas;Mascarillas quirúrgicas;unidades;300;No;Si;Abril
+Valle del Cauca;Cali;OIM;Comunidad;Comunidad;Mascarillas quirúrgicas;unidades;4450;No;Si;Abril
+Valle del Cauca;Cali;OIM;Hospital;HOSPITAL CARLOS CARMONA;Mascarillas quirúrgicas;unidades;1100;No;Si;Abril
+Valle del Cauca;Cali;OIM;;HOSPITAL SAN JUAN DE DIOS;Mascarillas quirúrgicas;unidades;300;No;Si;Abril
+Valle del Cauca;Cali;OIM;Institución Pública;ALCALDIA MUNICIPAL DE CALI;Mascarillas quirúrgicas;unidades;500;No;Si;Abril
+Valle del Cauca ;Cali;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;200;No;Si;Abril
+Valle del Cauca ;Cali);OIM;Red Salud Suroriente;;Disposición y dotación (carpas 6x6) para entregar a los hospitales para disposición de zona de triage respiratorio.;;1;No;No;Mayo
+Vichada;Puerto Carreño;OIM;Albergue;Asentamiento indígena La Bloquera;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Vichada;Puerto Carreño;OIM;;Asentamiento Indigena Piedra Custodio sector 1;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Vichada;Puerto Carreño;OIM;;Asentamiento Indigena Piedra Custodio sector 2;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Vichada;Puerto Carreño;OIM;;Asentamiento Indigena Piedra Custodio sector 3;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Vichada;Puerto Carreño;OIM;;Asentamiento Pavoni;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Vichada;Puerto Carreño;OIM;;Asentamientos indígenas Cerro Bandera;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Vichada;Puerto Carreño;OIM;;Asentamientos indígenas Sitio Sagrado;Mascarillas quirúrgicas;unidades;50;No;Si;Abril
+Vichada;Puerto Carreño;OIM;Hospital;ESE Hospita San Juan de Dios;Mascarillas quirúrgicas;unidades;1500;No;Si;Abril
+Vichada;Puerto Carreño;OIM;Institución Pública;Cárcel Municipal de Puerto Carreño;Mascarillas quirúrgicas;unidades;100;No;Si;Abril
+Vichada;Puerto Carreño;OIM;;Secretaria de Desarrollo Social de Puerto Carreño;Mascarillas quirúrgicas;unidades;700;No;Si;Abril
+Vichada;Puerto Carreño;OIM;;Secretaria Departamental de Salud;Mascarillas quirúrgicas;unidades;1000;No;Si;Abril
+Vichada ;Puerto Carreño;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;200;No;Si;Abril
+Vichada ;Puerto Carreño);OIM;ESE Hospital Dptal San Juan de Dios;;Disposición y dotación (carpas 6x6) para entregar a los hospitales para disposición de zona de triage respiratorio.;;1;No;No;Mayo
+;Riosucio;OIM;Pendiente entrega a las instituciones;Pendiente entrega a las instituciones;Protector visual;unidades;50;No;Si;Abril
+Amazonas;Leticia;OPS;ESE Hospital San Rafael de Leticia;ESE Hospital San Rafael de Leticia;Ventiladores;unidades; 3 ;SI;SI;Marzo
+Amazonas;Leticia;OPS;ESE Hospital San Rafael de Leticia;ESE Hospital San Rafael de Leticia;Filtro vírico (circuito de ventilación);unidades; 15 ;Si;SI;Marzo
+Amazonas;Leticia;OPS;ESE Hospital San Rafael de Leticia;ESE Hospital San Rafael de Leticia;Regulador Flujometro de Oxigeno ;unidades; 3 ;Si;SI;Marzo
+Amazonas;Leticia;OPS;ESE Hospital San Rafael de Leticia;ESE Hospital San Rafael de Leticia;Ventiladores quirurgico;unidades; 3 ;Si;SI;Marzo
+Amazonas;Leticia;OPS;ESE Hospital San Rafael de Leticia;ESE Hospital San Rafael de Leticia;Cápsula de pacientes;unidades; 1 ;SI;SI;Mayo
+Amazonas;Leticia;OPS;ESE Hospital San Rafael de Leticia;ESE Hospital San Rafael de Leticia;Kit insumos medicos;kit; 1.000 ;SI;SI;Mayo
+Amazonas;Leticia;OPS;ESE Hospital San Rafael de Leticia;ESE Hospital San Rafael de Leticia;Profesional en Medicina General;; 4 ;SI;SI;Mayo
+Amazonas;Leticia;OPS;ESE Hospital San Rafael de Leticia;ESE Hospital San Rafael de Leticia;Profesional en enfermeria;; 3 ;SI;SI;Mayo
+Amazonas;Leticia;OPS;ESE Hospital San Rafael de Leticia;ESE Hospital San Rafael de Leticia;Especialista;; 1 ;SI;SI;Mayo
+Amazonas;Leticia;OPS;ESE Hospital San Rafael de Leticia;ESE Hospital San Rafael de Leticia;Auxiliares de enfermeria;; 3 ;SI;SI;Mayo
+Amazonas;Leticia;Profamilia;;;Kit SSR;;;SI;SI;Mayo
+La Guajira ;Riohacha ;Samaritan's Purse ;Secretaria de Salud ;;Médico epidemiólogo;;1;;SI ;Abril
+Norte de Santander;Cucuta;Samaritan's Purse ;IDS ;;Auxiliares de enfermeria;;4;;SI;Abril
+Norte de Santander;Cúcuta;Samaritan's Purse ;IDS ;;Médico epidemiólogo;;1;;SI;Abril
+Norte de Santander;Cúcuta;Samaritan's Purse ;IDS ;;Profesional en enfermeria;;2;;SI;Abril
+(en blanco);(en blanco);UNFPA;(en blanco);(en blanco);Guantes  estériles;unidades;4000;No;No;Abril 
+(en blanco);(en blanco);UNFPA;(en blanco);(en blanco);Kit higiene comunidad;;17100;No;No;Abril 
+(en blanco);(en blanco);UNFPA;(en blanco);(en blanco);Polainas;unidades;34200;No;No;Abril 
+(en blanco);(en blanco);UNFPA;(en blanco);(en blanco);Sabanas desechables;unidades;34200;No;No;Abril 
+(en blanco);(en blanco);UNFPA;(en blanco);(en blanco);Termómetro láser;unidades;342;No;No;Abril 
+Antioquia;Anorí, Remedios, Dabeiba, Ituango, Vigia del fuerte;UNFPA;(en blanco);(en blanco);Batas desechables;unidades;1000;No;No;Abril 
+Antioquia;Anorí, Remedios, Dabeiba, Ituango, Vigia del fuerte;UNFPA;(en blanco);(en blanco);Gel antibacterial;galones;100;No;No;Abril 
+Antioquia;Anorí, Remedios, Dabeiba, Ituango, Vigia del fuerte;UNFPA;(en blanco);(en blanco);Guantes  estériles;unidades;4000;No;No;Abril 
+Antioquia;Anorí, Remedios, Dabeiba, Ituango, Vigia del fuerte;UNFPA;(en blanco);(en blanco);Jabón antiséptico;galones;50;No;No;Abril 
+Antioquia;Anorí, Remedios, Dabeiba, Ituango, Vigia del fuerte;UNFPA;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;500;No;No;Abril 
+Antioquia;Anorí, Remedios, Dabeiba, Ituango, Vigia del fuerte;UNFPA;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;2000;No;No;Abril 
+Antioquia;Anorí, Remedios, Dabeiba, Ituango, Vigia del fuerte;UNFPA;(en blanco);(en blanco);Protector visual;unidades;75;No;No;Abril 
+Arauca ;Arauquita;UNFPA;(en blanco);(en blanco);Batas desechables;unidades;200;No;No;Abril 
+Arauca ;Arauquita;UNFPA;(en blanco);(en blanco);Gel antibacterial;galones;100;No;No;Abril 
+Arauca ;Arauquita;UNFPA;(en blanco);(en blanco);Guantes  estériles;unidades;800;No;No;Abril 
+Arauca ;Arauquita;UNFPA;(en blanco);(en blanco);Jabón antiséptico;galones;50;No;No;Abril 
+Arauca ;Arauquita;UNFPA;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;100;No;No;Abril 
+Arauca ;Arauquita;UNFPA;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;400;No;No;Abril 
+Arauca ;Arauquita;UNFPA;(en blanco);(en blanco);Protector visual;unidades;15;No;No;Abril 
+Caquetá ;La Montañita, San Vicente del Caguan ;UNFPA;(en blanco);(en blanco);Batas desechables;unidades;400;No;No;Abril 
+Caquetá ;La Montañita, San Vicente del Caguan ;UNFPA;(en blanco);(en blanco);Gel antibacterial;galones;100;No;No;Abril 
+Caquetá ;La Montañita, San Vicente del Caguan ;UNFPA;(en blanco);(en blanco);Guantes  estériles;unidades;1600;No;No;Abril 
+Caquetá ;La Montañita, San Vicente del Caguan ;UNFPA;(en blanco);(en blanco);Jabón antiséptico;galones;50;No;No;Abril 
+Caquetá ;La Montañita, San Vicente del Caguan ;UNFPA;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;200;No;No;Abril 
+Caquetá ;La Montañita, San Vicente del Caguan ;UNFPA;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;800;No;No;Abril 
+Caquetá ;La Montañita, San Vicente del Caguan ;UNFPA;(en blanco);(en blanco);Protector visual;unidades;30;No;No;Abril 
+Cauca;Caldono, Miranda, Patía, Buenos Aires;UNFPA;(en blanco);(en blanco);Batas desechables;unidades;800;No;No;Abril 
+Cauca;Caldono, Miranda, Patía, Buenos Aires;UNFPA;(en blanco);(en blanco);Gel antibacterial;galones;100;No;No;Abril 
+Cauca;Caldono, Miranda, Patía, Buenos Aires;UNFPA;(en blanco);(en blanco);Guantes  estériles;unidades;3200;No;No;Abril 
+Cauca;Caldono, Miranda, Patía, Buenos Aires;UNFPA;(en blanco);(en blanco);Jabón antiséptico;galones;50;No;No;Abril 
+Cauca;Caldono, Miranda, Patía, Buenos Aires;UNFPA;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;400;No;No;Abril 
+Cauca;Caldono, Miranda, Patía, Buenos Aires;UNFPA;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;1600;No;No;Abril 
+Cauca;Caldono, Miranda, Patía, Buenos Aires;UNFPA;(en blanco);(en blanco);Protector visual;unidades;60;No;No;Abril 
+Cesar ;La Paz;UNFPA;(en blanco);(en blanco);Batas desechables;unidades;200;No;No;Abril 
+Cesar ;La Paz;UNFPA;(en blanco);(en blanco);Gel antibacterial;galones;100;No;No;Abril 
+Cesar ;La Paz;UNFPA;(en blanco);(en blanco);Guantes  estériles;unidades;800;No;No;Abril 
+Cesar ;La Paz;UNFPA;(en blanco);(en blanco);Jabón antiséptico;galones;50;No;No;Abril 
+Cesar ;La Paz;UNFPA;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;100;No;No;Abril 
+Cesar ;La Paz;UNFPA;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;400;No;No;Abril 
+Cesar ;La Paz;UNFPA;(en blanco);(en blanco);Protector visual;unidades;15;No;No;Abril 
+Chocó ;Rio sucio;UNFPA;(en blanco);(en blanco);Batas desechables;unidades;200;No;No;Abril 
+Chocó ;Rio sucio;UNFPA;(en blanco);(en blanco);Gel antibacterial;galones;100;No;No;Abril 
+Chocó ;Rio sucio;UNFPA;(en blanco);(en blanco);Guantes  estériles;unidades;800;No;No;Abril 
+Chocó ;Rio sucio;UNFPA;(en blanco);(en blanco);Jabón antiséptico;galones;50;No;No;Abril 
+Chocó ;Rio sucio;UNFPA;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;100;No;No;Abril 
+Chocó ;Rio sucio;UNFPA;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;400;No;No;Abril 
+Chocó ;Rio sucio;UNFPA;(en blanco);(en blanco);Protector visual;unidades;15;No;No;Abril 
+Córdoba;Tierralta;UNFPA;(en blanco);(en blanco);Batas desechables;unidades;200;No;No;Abril 
+Córdoba;Tierralta;UNFPA;(en blanco);(en blanco);Gel antibacterial;galones;100;No;No;Abril 
+Córdoba;Tierralta;UNFPA;(en blanco);(en blanco);Guantes  estériles;unidades;800;No;No;Abril 
+Córdoba;Tierralta;UNFPA;(en blanco);(en blanco);Jabón antiséptico;galones;50;No;No;Abril 
+Córdoba;Tierralta;UNFPA;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;100;No;No;Abril 
+Córdoba;Tierralta;UNFPA;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;400;No;No;Abril 
+Córdoba;Tierralta;UNFPA;(en blanco);(en blanco);Protector visual;unidades;15;No;No;Abril 
+La Guajira;Fonseca;UNFPA;(en blanco);(en blanco);Batas desechables;unidades;200;No;No;Abril 
+La Guajira;Fonseca;UNFPA;(en blanco);(en blanco);Gel antibacterial;galones;100;No;No;Abril 
+La Guajira;Fonseca;UNFPA;(en blanco);(en blanco);Guantes  estériles;unidades;800;No;No;Abril 
+La Guajira;Fonseca;UNFPA;(en blanco);(en blanco);Jabón antiséptico;galones;50;No;No;Abril 
+La Guajira;Fonseca;UNFPA;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;100;No;No;Abril 
+La Guajira;Fonseca;UNFPA;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;400;No;No;Abril 
+La Guajira;Fonseca;UNFPA;(en blanco);(en blanco);Protector visual;unidades;15;No;No;Abril 
+Meta ;Planadas, Vista Hermosa, Mesetas, La Macarena;UNFPA;(en blanco);(en blanco);Batas desechables;unidades;800;No;No;Abril 
+Meta ;Planadas, Vista Hermosa, Mesetas, La Macarena;UNFPA;(en blanco);(en blanco);Gel antibacterial;galones;100;No;No;Abril 
+Meta ;Planadas, Vista Hermosa, Mesetas, La Macarena;UNFPA;(en blanco);(en blanco);Guantes  estériles;unidades;3200;No;No;Abril 
+Meta ;Planadas, Vista Hermosa, Mesetas, La Macarena;UNFPA;(en blanco);(en blanco);Jabón antiséptico;galones;50;No;No;Abril 
+Meta ;Planadas, Vista Hermosa, Mesetas, La Macarena;UNFPA;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;400;No;No;Abril 
+Meta ;Planadas, Vista Hermosa, Mesetas, La Macarena;UNFPA;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;1600;No;No;Abril 
+Meta ;Planadas, Vista Hermosa, Mesetas, La Macarena;UNFPA;(en blanco);(en blanco);Protector visual;unidades;60;No;No;Abril 
+Nariño;Tumaco, Policarpa;UNFPA;(en blanco);(en blanco);Batas desechables;unidades;400;No;No;Abril 
+Nariño;Tumaco, Policarpa;UNFPA;(en blanco);(en blanco);Gel antibacterial;galones;100;No;No;Abril 
+Nariño;Tumaco, Policarpa;UNFPA;(en blanco);(en blanco);Guantes  estériles;unidades;1600;No;No;Abril 
+Nariño;Tumaco, Policarpa;UNFPA;(en blanco);(en blanco);Jabón antiséptico;galones;50;No;No;Abril 
+Nariño;Tumaco, Policarpa;UNFPA;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;200;No;No;Abril 
+Nariño;Tumaco, Policarpa;UNFPA;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;800;No;No;Abril 
+Nariño;Tumaco, Policarpa;UNFPA;(en blanco);(en blanco);Protector visual;unidades;30;No;No;Abril 
+Norte de Santander;Tibú;UNFPA;(en blanco);(en blanco);Batas desechables;unidades;200;No;No;Abril 
+Norte de Santander;Tibú;UNFPA;(en blanco);(en blanco);Gel antibacterial;galones;100;No;No;Abril 
+Norte de Santander;Tibú;UNFPA;(en blanco);(en blanco);Guantes  estériles;unidades;800;No;No;Abril 
+Norte de Santander;Tibú;UNFPA;(en blanco);(en blanco);Jabón antiséptico;galones;50;No;No;Abril 
+Norte de Santander;Tibú;UNFPA;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;100;No;No;Abril 
+Norte de Santander;Tibú;UNFPA;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;400;No;No;Abril 
+Norte de Santander;Tibú;UNFPA;(en blanco);(en blanco);Protector visual;unidades;15;No;No;Abril 
+Otro;Cinco zonas de influencia para atención de población indígena ;UNFPA;(en blanco);(en blanco);Jabón antiséptico;galones;50;No;No;Abril 
+Otro;Cinco zonas de influencia para atención de población indígena ;UNFPA;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;800;No;No;Abril 
+Otro;Cinco zonas de influencia para atención de población indígena ;UNFPA;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;2500;No;No;Abril 
+Otro;Cinco zonas de influencia para atención de población indígena ;UNFPA;(en blanco);(en blanco);Protector visual;unidades;75;No;No;Abril 
+Putumayo;Puerto asis;UNFPA;(en blanco);(en blanco);Batas desechables;unidades;200;No;No;Abril 
+Putumayo;Puerto asis;UNFPA;(en blanco);(en blanco);Gel antibacterial;galones;100;No;No;Abril 
+Putumayo;Puerto asis;UNFPA;(en blanco);(en blanco);Guantes  estériles;unidades;800;No;No;Abril 
+Putumayo;Puerto asis;UNFPA;(en blanco);(en blanco);Jabón antiséptico;galones;50;No;No;Abril 
+Putumayo;Puerto asis;UNFPA;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;100;No;No;Abril 
+Putumayo;Puerto asis;UNFPA;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;400;No;No;Abril 
+Putumayo;Puerto asis;UNFPA;(en blanco);(en blanco);Protector visual;unidades;15;No;No;Abril 
+Tolima ;Icononzo;UNFPA;(en blanco);(en blanco);Batas desechables;unidades;200;No;No;Abril 
+Tolima ;Icononzo;UNFPA;(en blanco);(en blanco);Gel antibacterial;galones;100;No;No;Abril 
+Tolima ;Icononzo;UNFPA;(en blanco);(en blanco);Guantes  estériles;unidades;800;No;No;Abril 
+Tolima ;Icononzo;UNFPA;(en blanco);(en blanco);Jabón antiséptico;galones;50;No;No;Abril 
+Tolima ;Icononzo;UNFPA;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;100;No;No;Abril 
+Tolima ;Icononzo;UNFPA;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;400;No;No;Abril 
+Tolima ;Icononzo;UNFPA;(en blanco);(en blanco);Protector visual;unidades;15;No;No;Abril 
+Arauca ;(en blanco);UNICEF;(en blanco);(en blanco);Batas desechables;unidades;800;No;No;
+Arauca ;(en blanco);UNICEF;(en blanco);(en blanco);Gel antibacterial;galones;35;No;No;
+Arauca ;(en blanco);UNICEF;(en blanco);(en blanco);Guantes  estériles;unidades;20;No;No;
+Arauca ;(en blanco);UNICEF;(en blanco);(en blanco);Jabón antiséptico;galones;30;No;No;
+Arauca ;(en blanco);UNICEF;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;2000;No;No;
+Arauca ;(en blanco);UNICEF;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;3000;No;No;
+Arauca ;(en blanco);UNICEF;(en blanco);(en blanco);Protector visual;unidades;70;No;No;
+Arauca ;(en blanco);UNICEF;(en blanco);(en blanco);Toallas de papel;paquetes;20;No;No;
+Atlántico;(en blanco);UNICEF;(en blanco);(en blanco);Batas desechables;unidades;1000;No;No;
+Atlántico;(en blanco);UNICEF;(en blanco);(en blanco);Gel antibacterial;galones;11;No;No;
+Atlántico;(en blanco);UNICEF;(en blanco);(en blanco);Guantes  estériles;unidades;7;No;No;
+Atlántico;(en blanco);UNICEF;(en blanco);(en blanco);Jabón antiséptico;galones;10;No;No;
+Atlántico;(en blanco);UNICEF;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;800;No;No;
+Atlántico;(en blanco);UNICEF;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;4000;No;No;
+Atlántico;(en blanco);UNICEF;(en blanco);(en blanco);Protector visual;unidades;100;No;No;
+Atlántico;(en blanco);UNICEF;(en blanco);(en blanco);Toallas de papel;paquetes;7;No;No;
+Cesar;(en blanco);UNICEF;(en blanco);(en blanco);Batas desechables;unidades;100;No;No;
+Cesar;(en blanco);UNICEF;(en blanco);(en blanco);Gel antibacterial;galones;4;No;No;
+Cesar;(en blanco);UNICEF;(en blanco);(en blanco);Guantes  estériles;unidades;3;No;No;
+Cesar;(en blanco);UNICEF;(en blanco);(en blanco);Jabón antiséptico;galones;5;No;No;
+Cesar;(en blanco);UNICEF;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;200;No;No;
+Cesar;(en blanco);UNICEF;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;1000;No;No;
+Cesar;(en blanco);UNICEF;(en blanco);(en blanco);Toallas de papel;paquetes;3;No;No;
+Chocó;(en blanco);UNICEF;(en blanco);(en blanco);Batas desechables;unidades;900;No;No;
+Chocó;(en blanco);UNICEF;(en blanco);(en blanco);Gel antibacterial;galones;15;No;No;
+Chocó;(en blanco);UNICEF;(en blanco);(en blanco);Guantes  estériles;unidades;10;No;No;
+Chocó;(en blanco);UNICEF;(en blanco);(en blanco);Jabón antiséptico;galones;15;No;No;
+Chocó;(en blanco);UNICEF;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;1000;No;No;
+Chocó;(en blanco);UNICEF;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;1000;No;No;
+Chocó;(en blanco);UNICEF;(en blanco);(en blanco);Protector visual;unidades;20;No;No;
+Chocó;(en blanco);UNICEF;(en blanco);(en blanco);Toallas de papel;paquetes;10;No;No;
+La Guajira;(en blanco);UNICEF;(en blanco);(en blanco);Batas desechables;unidades;1100;No;No;
+La Guajira;(en blanco);UNICEF;(en blanco);(en blanco);Gel antibacterial;galones;60;No;No;
+La Guajira;(en blanco);UNICEF;(en blanco);(en blanco);Guantes  estériles;unidades;30;No;No;
+La Guajira;(en blanco);UNICEF;(en blanco);(en blanco);Jabón antiséptico;galones;50;No;No;
+La Guajira;(en blanco);UNICEF;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;3000;No;No;
+La Guajira;(en blanco);UNICEF;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;3000;No;No;
+La Guajira;(en blanco);UNICEF;(en blanco);(en blanco);Protector visual;unidades;110;No;No;
+La Guajira;(en blanco);UNICEF;(en blanco);(en blanco);Toallas de papel;paquetes;40;No;No;
+Nariño;(en blanco);UNICEF;(en blanco);(en blanco);Batas desechables;unidades;1000;No;No;
+Nariño;(en blanco);UNICEF;(en blanco);(en blanco);Gel antibacterial;galones;35;No;No;
+Nariño;(en blanco);UNICEF;(en blanco);(en blanco);Guantes  estériles;unidades;20;No;No;
+Nariño;(en blanco);UNICEF;(en blanco);(en blanco);Jabón antiséptico;galones;30;No;No;
+Nariño;(en blanco);UNICEF;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;2000;No;No;
+Nariño;(en blanco);UNICEF;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;4000;No;No;
+Nariño;(en blanco);UNICEF;(en blanco);(en blanco);Protector visual;unidades;100;No;No;
+Nariño;(en blanco);UNICEF;(en blanco);(en blanco);Toallas de papel;paquetes;20;No;No;
+Norte de Santander;(en blanco);UNICEF;(en blanco);(en blanco);Batas desechables;unidades;1100;No;Si;Abril 
+Norte de Santander;(en blanco);UNICEF;(en blanco);(en blanco);Gel antibacterial;galones;60;Pendiente;Pendiente;
+Norte de Santander;(en blanco);UNICEF;(en blanco);(en blanco);Guantes  estériles;unidades;30;No;Si;Abril 
+Norte de Santander;(en blanco);UNICEF;(en blanco);(en blanco);Jabón antiséptico;galones;60;Pendiente;Pendiente;
+Norte de Santander;(en blanco);UNICEF;(en blanco);(en blanco);Máscaras de Alta Eficiencia N95;unidades;3000;No;SI;Abril 
+Norte de Santander;(en blanco);UNICEF;(en blanco);(en blanco);Mascarillas quirúrgicas;unidades;4000;No;SI;Abril 
+Norte de Santander;(en blanco);UNICEF;(en blanco);(en blanco);Protector visual;unidades;100;No;SI;Abril 
+Norte de Santander;(en blanco);UNICEF;(en blanco);(en blanco);Toallas de papel;paquetes;40;Pendiente;Pendiente;
+Otro;(en blanco);UNICEF;(en blanco);(en blanco);Termómetro láser;unidades;100;No;No;
+Otro;(en blanco);UNICEF;(en blanco);(en blanco);Toallas de papel;paquetes;5000;No;No;
+Otro;(en blanco);UNICEF;(en blanco);(en blanco);Gel antibacterial;galones;100;No;No;
+Otro;(en blanco);UNICEF;(en blanco);(en blanco);Jabón antiséptico;galones;50;No;No;
+Atlántico;Barranquilla;World Vision;Hospital;Sec Salud;Batas desechables;unidades;500;Si;No;Mayo
+Atlántico;Barranquilla;World Vision;Hospital;Sec Salud;Gel antibacterial;galones;5;Si;No;Mayo
+Atlántico;Barranquilla;World Vision;Hospital;Sec Salud;Guantes  estériles;unidades;5000;Si;No;Mayo
+Atlántico;Barranquilla;World Vision;Hospital;Sec Salud;Jabón antiséptico;galones;5;Si;No;Mayo
+Atlántico;Barranquilla;World Vision;Hospital;Sec Salud;Máscaras de Alta Eficiencia N95;unidades;200;Si;No;Mayo
+Atlántico;Barranquilla;World Vision;Hospital;Sec Salud;Toallas de papel;paquetes;20;Si;No;Mayo
+Cundinamarca;Soacha;World Vision;Hospital;Hospital Mario Gaitan yanguas o ESE Municipal ;Batas desechables;unidades;500;Si;No;Mayo
+Cundinamarca;Soacha;World Vision;Hospital;Hospital Mario Gaitan yanguas o ESE Municipal ;Gel antibacterial;galones;5;Si;No;Mayo
+Cundinamarca;Soacha;World Vision;Hospital;Hospital Mario Gaitan yanguas o ESE Municipal ;Guantes  estériles;unidades;5000;Si;No;Mayo
+Cundinamarca;Soacha;World Vision;Hospital;Hospital Mario Gaitan yanguas o ESE Municipal ;Jabón antiséptico;galones;5;Si;No;Mayo
+Cundinamarca;Soacha;World Vision;Hospital;Hospital Mario Gaitan yanguas o ESE Municipal ;Máscaras de Alta Eficiencia N95;unidades;200;Si;No;Mayo
+Cundinamarca;Soacha;World Vision;Hospital;Hospital Mario Gaitan yanguas o ESE Municipal ;Toallas de papel;paquetes;20;Si;No;Mayo
+La Guajira;Riohacha;World Vision;Hospital;Sec Salud;Batas desechables;unidades;500;Si;No;Mayo
+La Guajira;Riohacha;World Vision;Hospital;Sec Salud;Gel antibacterial;galones;5;Si;No;Mayo
+La Guajira;Riohacha;World Vision;Hospital;Sec Salud;Guantes  estériles;unidades;5000;Si;No;Mayo
+La Guajira;Riohacha;World Vision;Hospital;Sec Salud;Jabón antiséptico;galones;5;Si;No;Mayo
+La Guajira;Riohacha;World Vision;Hospital;Sec Salud;Máscaras de Alta Eficiencia N95;unidades;200;Si;No;Mayo
+La Guajira;Riohacha;World Vision;Hospital;Sec Salud;Toallas de papel;paquetes;20;Si;No;Mayo
+Nariño;Ipiales;World Vision;Pública;Hospital Civil/IPS Municipal de Primer Nivel;Batas desechables;unidades;500;Si;No;Mayo
+Nariño;Ipiales;World Vision;;;Gel antibacterial;galones;5;Si;No;Mayo
+Nariño;Ipiales;World Vision;;;Guantes  estériles;unidades;5000;Si;No;Mayo
+Nariño;Ipiales;World Vision;;;Jabón antiséptico;galones;5;Si;No;Mayo
+Nariño;Ipiales;World Vision;;;Máscaras de Alta Eficiencia N95;unidades;200;Si;No;Mayo
+Nariño;Ipiales;World Vision;;;Toallas de papel;paquetes;20;Si;No;Mayo
+Norte de Santander;Cúcuta;World Vision;Hospital;Instituto Departamental de Salud;Batas desechables;unidades;500;Si;No;Mayo
+Norte de Santander;Cúcuta;World Vision;;;Gel antibacterial;galones;5;Si;No;Mayo
+Norte de Santander;Cúcuta;World Vision;;;Guantes  estériles;unidades;5000;Si;No;Mayo
+Norte de Santander;Cúcuta;World Vision;;;Jabón antiséptico;galones;5;Si;No;Mayo
+Norte de Santander;Cúcuta;World Vision;;;Máscaras de Alta Eficiencia N95;unidades;200;Si;No;Mayo
+Norte de Santander;Cúcuta;World Vision;;;Toallas de papel;paquetes;20;Si;No;Mayo
+(en blanco);(en blanco);Sin identificar;;;Gorros desechables;;34200;No;No;Abril
+Otro;Cinco zonas de influencia para atención de población indígena ;Sin identificar;;;Gel antibacterial;galones;100;No;No;Abril
+Otro;Cinco zonas de influencia para atención de población indígena ;Sin identificar;;;Guantes  estériles;unidades;4000;No;No;Abril
+Nariño;Pasto;OPS;Laboratorio de Salud Publica de Nariño;Laboratorio de Salud Publica de Nariño;52906 QIAamp Viral RNA Mini Kit (250).;unidades; 1 ;Si;si;Mayo
+Nariño;Pasto;OPS;Laboratorio de Salud Publica de Nariño;Laboratorio de Salud Publica de Nariño;Cabina de flujo labconco ref. 302381101;unidades; 1 ;;Si;Junio
+Nariño;Pasto;OPS;Laboratorio de Salud Publica de Nariño;Laboratorio de Salud Publica de Nariño;Microscopio trinocular de fluorecencia hbo optika - italia;unidades; 1 ;Si;Si;Mayo
+Nariño;Pasto;OPS;Laboratorio de Salud Publica de Nariño;Laboratorio de Salud Publica de Nariño;Refrigerador vertical de 2 a 8°c haier modelo hyc-390;unidades; 1 ;Si;Si;Mayo
+Nariño;Pasto;OPS;Laboratorio de Salud Publica de Nariño;Laboratorio de Salud Publica de Nariño;mascarilla tapabocas no quirurgica-no esteriles cajas x 50;unidades; 4 ;Si;Si;Mayo
+Nariño;Pasto;OPS;Laboratorio de Salud Publica de Nariño;Laboratorio de Salud Publica de Nariño;tapabocas n95 cajas x 25;unidades; 1 ;Si;Si;Mayo
+Nariño;Pasto;OPS;Laboratorio de Salud Publica de Nariño;Laboratorio de Salud Publica de Nariño;toalla para manos hoja tripe;unidades; 1 ;Si;Si;Mayo
+Cundinamarca;;OPS;Gobernación de Cundinamarca;Gobernación de Cundinamarca;trajes de equipo de proteccion tybek;unidades; 100 ;Si;Si;Mayo
+Cundinamarca;;OPS;Gobernación de Cundinamarca;Gobernación de Cundinamarca;trajes de equipo de proteccion tybek;set; 100 ;Si;SI;Mayo
+Cundinamarca;Soacha;OPS;ESE Mario Gaitan Yanguas;ESE Mario Gaitan Yanguas;trajes de equipo de proteccion tybek;unidades; 100 ;Si;SI;Mayo
+Cundinamarca;Soacha;OPS;ESE Mario Gaitan Yanguas;ESE Mario Gaitan Yanguas;termómetro infrarrojo;unidades; 100 ;Si;SI;Mayo
+Cundinamarca;Soacha ;OPS;ESE Mario Gaitan Yanguas;ESE Mario Gaitan Yanguas;Mascarilla no quirúrgica ;cajas; 20 ;Si;SI;Mayo
+Cundinamarca;Soacha;OPS;ESE Mario Gaitan Yanguas;ESE Mario Gaitan Yanguas;Overol desechable;cajas; 28 ;Si;si;Mayo
+Cundinamarca;Soacha;OPS;ESE Mario Gaitan Yanguas;ESE Mario Gaitan Yanguas;Overol desechable;paquetes; 100 ;Si;si;Mayo
+Cundinamarca;Soacha;OPS;ESE Mario Gaitan Yanguas;ESE Mario Gaitan Yanguas;Overol desechable;unidades; 100 ;Si;si;Mayo
+Cundinamarca;Soacha ;OPS;ESE Mario Gaitan Yanguas;ESE Mario Gaitan Yanguas;Overol desechable;unidades; 100 ;Si;si;Mayo
+Cundinamarca;Soacha;OPS;ESE Mario Gaitan Yanguas;ESE Mario Gaitan Yanguas;Máscaras de Alta Eficiencia N95;unidades; 100 ;Si;si;Mayo
+Norte de Santander;;OPS;Secretaría de Salud;;tapabocas n95 cajas x 20;;7;Si;si;Abril
+Guajira ;;OPS;Secretaría de Salud;;trajes de equipo de proteccion tybek;;2;Si;Si;Abril
+Vichada;;OPS;Secretaría de Salud;;polainas desechables;;1;Si;Si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;protector facial;unidades; 15 ;Si;si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;toalla desinfectantes;paquetes por 10 und; 120 ;Si;Si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;toalla para manos hoja tripe;paquetes por 10 und; 50 ;Si;Si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;overol desechable;paquetes; 59 ;Si;Si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;overol desechable;paquetes; 120 ;Si;Si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;Overol desechable;unidades; 1 ;Si;Si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;overol desechable;unidades; 60 ;Si;Si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;tapabocas n95 cajas x 15;unidades; 126 ;Si;Si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;mascarilla tapabocas no quirurgica-no esteriles cajas x 50;cajas; 7.000 ;Si;Si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;overol desechable;cajas; 1.000 ;Si;Si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;overol desechable;unidades; 5 ;Si;Si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;overol desechable;unidades; 500 ;Si;Si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;Overol desechable;unidades; 500 ;Si;Si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;Máscaras de Alta Eficiencia N95;unidades; 20 ;Si;Si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;Trajes de equipo de proteccion tybek;unidades; 20 ;Si;Si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;Trajes de equipo de proteccion tybek;unidades; 20 ;Si;Si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;Trajes de equipo de proteccion tybek;unidades; 20 ;Si;Si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;Termómetro infrarrojo;cajas; 300 ;Si;Si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;Trajes de equipo de proteccion tybek;cajas; 60 ;Si;si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;Termómetro infrarrojo;unidades; 120 ;Si;si;Abril
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;mesa de puente graduable, kramer ref: e-77 b unidad;paquetes por 10 und; 1 ;Si;si;Mayo
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;pulsoximetro o sensor de pulsoximetria;unidades; 60 ;Si;si;Mayo
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;pulsoximetro o sensor de pulsoximetria;unidades; 60 ;Si;si;Mayo
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;pulsoximetro o sensor de pulsoximetria;unidades; 100 ;Si;si;Mayo
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;pulsoximetro o sensor de pulsoximetria;unidades; 1 ;Si;si;Mayo
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;unidad manual respiratoria o ambu adulto;unidades; 1 ;Si;si;Mayo
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;unidad manual respiratoria o ambu adulto;unidades; 48 ;Si;si;Mayo
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;Unidad manual respiratoria o ambu adulto;unidades; 120 ;Si;si;Mayo
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;Unidad manual respiratoria o ambu adulto;unidades; 20 ;Si;si;Mayo
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;Sonda succion. sistema de aspiracion cerrada, disco, puerto mdi, 10 fr, esteril, dar;paquetes; 60 ;Si;si;Mayo
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;Toallas para manos;paquetes; 50 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;Vinilo calibre 30 color transparente medida 50 ancho;unidades; 3 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;Capsula para el traslado de pacientes.;unidades; 1 ;Si;Pendiente;Junio
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;Hepa filter: 99.99% eficency for 0.3um particles (3 pieces). (200 cambios a la capsula);unidades; 40 ;Si;Pendiente;Junio
+Nacional;Nacional;OPS;Fuerza Aerea Colombiana;Fuerza Aerea Colombiana;Filtro vírico (circuito de ventilación) (200 cambios a la capsula);unidades; 30 ;Si;Pendiente;Junio
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;Guantes nitrilo;cajas; 500 ;Si;si;Mayo
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;Guantes nitrilo;cajas; 200 ;Si;si;Mayo
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;Guantes nitrilo;cajas; 500 ;Si;si;Mayo
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;Guantes látex;cajas; 200 ;Si;si;Mayo
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;HIPOCLORITO DE SODIO AL 13%;galones; 5 ;Si;si;Mayo
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;Overol desechable;unidades; 50 ;Si;si;Mayo
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;Overol desechable;unidades; 100 ;Si;si;Mayo
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;Overol desechable;unidades; 50 ;Si;si;Mayo
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;Overol desechable;unidades; 100 ;Si;si;Mayo
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;Alcohol glicerinado;litro; 15 ;Si;si;Mayo
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;Máscaras de Alta Eficiencia N95;cajas; 150 ;Si;si;Mayo
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;1 set de iniciadores y sonda para Gen E;Set; 3.400 ;Si;si;Febrero
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;15 kits para detección del Gen E ;Set;;Si;si;Febrero
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;3 sets de iniciadores y sondas para Gen RdRP ;Set; 6.280 ;Si;si;Marzo
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;2 Set Control E-gen;Set; 100.000 ;Si;si;ABRIL
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;1 sets de iniciadores y sondas para Gen RdRP ;Set;;Si;si;ABRIL
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;3 Set Control Positivo E-gen;Set; 154.000 ;Si;si;Mayo
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;3 sets de iniciadores y sondas para Gen RdRP ;Set;;Si;si;Mayo
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;Auxiliares de laboratorio;;3;si;si;Abril
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;Bacteriologas;;5;si;si;Abril
+Nacional;Nacional;OPS;Instituto Nacional de Salud - INS;INS;Digitadores;;8;si;si;Abril
+Cundinamarca;Cundinamarca;OPS;Gobernación de Cundinamarca;Gobernación de Cundinamarca;2 Set Control E-gen;Set; 100.000 ;Si;si;Mayo
+Cundinamarca;Cundinamarca;OPS;Gobernación de Cundinamarca;Gobernación de Cundinamarca;1 sets de iniciadores y sondas para Gen RdRP ;Set; 100.000 ;Si;si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Alcohol glicerinado;litro; 720 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Alcohol glicerinado;litro; 720 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Batas desechables;paquetes por 10 und; 700 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Batas desechables;paquetes por 10 und; 120 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Gafas de proteccion;unidades; 706 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Guantes nitrilo;cajas; 1.400 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Guantes nitrilo;cajas; 300 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Guantes nitrilo;cajas; 1.000 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Guantes nitrilo;cajas; 2.000 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Guantes nitrilo;cajas; 800 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Guantes nitrilo;cajas; 500 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;HIPOCLORITO DE SODIO AL 13%;galones; 10 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Mascarilla no quirúrgica ;cajas; 600 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Overol desechable;unidades; 145 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Overol desechable;unidades; 80 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Overol desechable;unidades; 215 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Overol desechable;unidades; 80 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Máscaras de Alta Eficiencia N95;cajas; 1.320 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Trajes de equipo de proteccion tybek;unidades; 240 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Trajes de equipo de proteccion tybek;unidades; 340 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Trajes de equipo de proteccion tybek;unidades; 100 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Termómetro infrarrojo;unidades; 4 ;Si;si;Abril
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Batas desechables;unidades; 1.200 ;Si;Si;Febrero
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Batas desechables;unidades; 50 ;Si;Si;Febrero
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Guantes látex;cajas; 2.500 ;Si;Si;Febrero
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Mascarilla Quirúrgica;cajas; 1.250 ;Si;Si;Febrero
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Máscaras de Alta Eficiencia N95;unidades; 50 ;Si;Si;Febrero
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Gafas de proteccion;unidades; 50 ;Si;Si;Febrero
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Bolsas de bioseguridad;paquetes; 20 ;Si;Si;Febrero
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Batas desechables;unidades talla M; 50 ;Si;Si;Febrero
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Batas desechables;unidades talla L; 50 ;Si;Si;Febrero
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Tapabocas Adulto;unidades; 1.000 ;Si;Si;Febrero
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Sales de hidratación;unidades; 100 ;Si;Si;Febrero
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Kit PPE talla S;kit; 145 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Kit PPE talla L;kit; 109 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Kit PPE talla XL;kit; 100 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Guantes látex;cajas; 400 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Máscaras de Alta Eficiencia N95;unidades; 100 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Monogafas;unidades; 100 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Cubre zapatos;par; 100 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Trajes de equipo de proteccion tybek;unidades; 100 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Bolsas rojasmanejo de desechos orgánicos;paquetes; 100 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Pañitos Desinfectantes caja X 100 unidades;unidades; 100 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Toallitas de Alcohol;cajas; 400 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Delantal de Polietileno;unidades; 100 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Manual de instrucciones trajes PPE;unidades; 100 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Toallitas alcohol al 70% 100 cajas x 100 unidades;cajas; 100 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Alcohol glicerinado;Botella 150 ml; 50 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Jabon antiseptico / envase x galon;galones; 3 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Batas desechables;paquetes por 10 und; 100 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Bolsa para cadaveres;unidades; 5 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Termometro infrarojo;unidades; 3 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Tapabocas niño / Caja x 50 unidades;cajas; 1 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Kit PPE Talla S;kit; 50 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Kit PPE Talla L;kit; 50 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Ventilador portátil Modelo S1600 Perlong Medical;unidades; 5 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Filtro para circuito de ventilador;unidades; 500 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Máscaras de Alta Eficiencia N95;unidades; 5.000 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Kit de dispositivos e insumos medicos baja complejidad;kit; 3 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Kit de dispositivos e insumos medicos baja complejidad;kit; 3 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Kit de dispositivos e insumos medicos alta complejidad;kit; 3 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Circuito universal para ventilación adulto expansible desechables;unidades; 6 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Regulador Flujometro de Oxigeno para Perlong medical.;unidades; 6 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Ventilador Ivent 201;unidades; 1 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Guantes  nitrilo ;cajas; 140 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Mascarilla Quirúrgica;cajas; 150 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Trajes de proteccion dupont (Tibek);unidades; 2.000 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Alcohol glicerinado;litro; 30 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Caretas de protección con pantalla de acetato y ajustables;unidades; 4.800 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Máscaras de Alta Eficiencia N95;unidades; 4.000 ;Si;Si;Mayo
+Nacional;Nacional;OPS;Ministerio de Salud;Ministerio de Salud;Kit cirujano 35 grs (blusa manga larga ,pantalon,gorro y polainas);kit; 3.500 ;Si;Si;Mayo
+Amazonas; Leticia;ACH;;;Máscaras de Alta Eficiencia N95;;300;SI;SI;Mayo
+Amazonas; Puerto Nariño;ACH;;;Máscaras de Alta Eficiencia N95;;100;SI;SI;Mayo
+Amazonas; Leticia;ACH;;;Mascarilla Quirúrgica;;2.480;SI;SI;Mayo
+Amazonas; Puerto Nariño;ACH;;;Mascarilla Quirúrgica;;720;SI;SI;Mayo
+Amazonas; Leticia;ACH;;;Gorros desechables;;1.240;SI;SI;Mayo
+Amazonas; Puerto Nariño;ACH;;;Gorros desechables;;360;SI;SI;Mayo
+Amazonas; Leticia;ACH;;;Batas desechables;;1.660;SI;SI;Mayo
+Amazonas; Puerto Nariño;ACH;;;Batas desechables;;480;SI;SI;Mayo
+Amazonas; Leticia;ACH;;;Traje completo desechable;;48;SI;SI;Mayo
+Amazonas; Puerto Nariño;ACH;;;Traje completo desechable;;12;SI;SI;Mayo
+Amazonas; Leticia;ACH;;;Guantes Estériles;;124;SI;SI;Mayo
+Amazonas; Puerto Nariño;ACH;;;Guantes Estériles;;36;SI;SI;Mayo
+Amazonas; Leticia;ACH;;;Caretas;;48;SI;SI;Mayo
+Amazonas; Puerto Nariño;ACH;;;Caretas;;12;SI;SI;Mayo
+Amazonas; Leticia;ACH;;;Gel Antibacterial;;14;SI;SI;Mayo
+Amazonas; Puerto Nariño;ACH;;;Gel Antibacterial;;6;SI;SI;Mayo
+Amazonas; Leticia;ACH;;;Alcohol;;14;SI;SI;Mayo
+Amazonas; Puerto Nariño;ACH;;;Alcohol;;6;SI;SI;Mayo
+Amazonas; Leticia;ACH;;;Cloro granulado;;1;SI;SI;Mayo
+Amazonas; Puerto Nariño;ACH;;;Cloro granulado;;1;SI;SI;Mayo
+Amazonas; Leticia;ACH;;;Elementos de desinfeción  IPC- WASH;;;SI;SI;Mayo
+Amazonas; Puerto Nariño;ACH;;;Elementos de desinfeción  IPC- WASH;;;SI;SI;Mayo
+;;ACNUR;;;Máscaras de Alta Eficiencia N95;;600;SI;SI;Abril
+;;ACNUR;;;Máscaras de Alta Eficiencia N95;;10000;SI;SI;Junio
+;;ACNUR;;;Máscaras de Alta Eficiencia N95;;500;SI;SI;Junio
+;;ACNUR;;;Máscaras de Alta Eficiencia N95;;700;SI;SI;Junio
+;;ACNUR;;;Máscaras de Alta Eficiencia N95;;225;SI;SI;Junio
+;;ACNUR;;;Máscaras de Alta Eficiencia N95;;1500;SI;SI;Junio
+;;ACNUR;;;Mascarilla Quirúrgica;;300;SI;SI;Junio
+;;ACNUR;;;Mascarilla Quirúrgica;;2.000;SI;SI;Junio
+;;ACNUR;;;Mascarilla Quirúrgica;;2.300;SI;SI;Junio
+;;ACNUR;;;Mascarilla Quirúrgica;;80.000;SI;SI;Junio
+;;ACNUR;;;Mascarilla Quirúrgica;;1.000;SI;SI;Junio
+;;ACNUR;;;Mascarilla Quirúrgica;;225;SI;SI;Junio
+;;ACNUR;;;Mascarilla Quirúrgica;;1.500;SI;SI;Junio
+;;ACNUR;;;Batas desechables;;300;SI;SI;Junio
+;;ACNUR;;;Batas desechables;;300;SI;SI;Junio
+;;ACNUR;;;Batas desechables;;50;SI;SI;Junio
+;;ACNUR;;;Batas desechables;;2000;SI;SI;Junio
+;;ACNUR;;;Batas desechables;;300;SI;SI;Junio
+;;ACNUR;;;Batas desechables;;225;SI;SI;Junio
+;;ACNUR;;;Batas desechables;;500;SI;SI;Junio
+;;ACNUR;;;Protector Visual;;30;SI;SI;Junio
+;;ACNUR;;;Protector Visual;;225;SI;SI;Junio
+;;ACNUR;;;Guantes Estériles;;300;SI;SI;Junio
+;;ACNUR;;;Guantes Estériles;;300;SI;SI;Junio
+;;ACNUR;;;Caretas;;1.500;SI;SI;Junio
+;;ACNUR;;;Caretas;;100;SI;SI;Junio
+;;ACNUR;;;Caretas;;225;SI;SI;Junio
+;;ACNUR;;;Termómetros Laser;;1000;SI;SI;Junio
+;;ACNUR;;;Termómetros Laser;;10;SI;SI;Junio
+;;ACNUR;;;Termómetros Laser;;12;SI;SI;Junio
+;;ACNUR;;;Termómetros Laser;;300;SI;SI;Junio
+;;ACNUR;;;Jabón;;50;SI;SI;Junio
+;;ACNUR;;;Jabón;;50;SI;SI;Junio
+;;ACNUR;;;Jabón;;100;SI;SI;Junio
+;;ACNUR;;;Jabón;;10;SI;SI;Junio
+;;ACNUR;;;Gel Antibacterial;;100;SI;SI;Junio
+;;ACNUR;;;Gel Antibacterial;;500;SI;SI;Junio
+;;ACNUR;;;Gel Antibacterial;;38;SI;SI;Junio
+;;ACNUR;;;Toallas de Papel;;225;SI;SI;Junio
+;;ACNUR;;;Toallas de Papel;;225;SI;SI;Junio
+;;ACNUR;;;Toallas Tyvek;;600;SI;SI;Junio
+;;ACNUR;;;Toallas Tyvek;;60;SI;SI;Junio
+;;ACNUR;;;Personal Vigilancia;;225;SI;SI;Junio
+Norte de Santander ;;ACNUR;;;Personal Sanidad Portuaria;;4*;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Personal CRUE;;9;SI;SI;Junio
+La Guajira;;ACNUR;;;Insumos Aislamiento;;1;SI;SI;Junio
+La Guajira;;ACNUR;;;Insumos Aislamiento;;25;SI;SI;Junio
+La Guajira;;ACNUR;;;Insumos Aislamiento;;40;SI;SI;Junio
+Santander;Bucarmanga;ACNUR;;;Insumos Aislamiento;;7;SI;SI;Junio
+Norte de Santander;Pamplona;ACNUR;;;Insumos Aislamiento;;4;SI;SI;Junio
+Norte de Santander;Cucuta;ACNUR;;;Insumos Aislamiento;;62;SI;SI;Junio
+Bogotá;Bogotá;ACNUR;;;Insumos Aislamiento;;22;SI;SI;Junio
+Vichada;Puerto Carreño;ACNUR;;;Insumos Aislamiento;;10;SI;SI;Junio
+Vichada;Cumaribo;ACNUR;;;Insumos Aislamiento;;2;SI;SI;Junio
+Cundinamarca;Soacha;ACNUR;;;Insumos Aislamiento;;23;SI;SI;Junio
+Cundinamarca;Soacha;ACNUR;;;Insumos Aislamiento;;2;SI;SI;Junio
+Bogotá;Bogotá;ACNUR;;;Insumos Aislamiento;;3;SI;SI;Junio
+Guainia;Inirida;ACNUR;;;Insumos Aislamiento;;10;SI;SI;Junio
+Arauca;Tame;ACNUR;;;Insumos Aislamiento;;10;SI;SI;Junio
+Arauca;Arauca;ACNUR;;;Insumos Aislamiento;;2;SI;SI;Junio
+La Guajira;Maicao;ACNUR;;;Insumos Aislamiento;;40;SI;SI;Junio
+La Guajira;Maicao;ACNUR;;;Insumos Aislamiento;;25;SI;SI;Junio
+Antioquia;Medellin ;ACNUR;;;Insumos Aislamiento;;3;SI;SI;Junio
+Antioquia;Medellin ;ACNUR;;;Insumos Aislamiento;;10;SI;SI;Junio
+Antioquia;;ACNUR;;;Insumos Aislamiento;;1;SI;SI;Junio
+Antioquia;;ACNUR;;;Insumos Aislamiento;;2;SI;SI;Junio
+Antioquia;;ACNUR;;;Insumos Aislamiento;;1;SI;SI;Junio
+Antioquia;Turbo;ACNUR;;;Insumos Aislamiento;;2;SI;SI;Junio
+Antioquia;Apartado;ACNUR;;;Insumos Aislamiento;;2;SI;SI;Junio
+Choco;Quibdo;ACNUR;;;Insumos Aislamiento;;2;SI;SI;Junio
+Choco;Quibdo;ACNUR;;;Insumos Aislamiento;;3;SI;SI;Junio
+Valle del Cauca;Cali;ACNUR;;;Insumos Aislamiento;;2;SI;SI;Junio
+Valle del Cauca;Buenaventura;ACNUR;;;Insumos Aislamiento;;2;SI;SI;Junio
+Valle del Cauca;Buenaventura;ACNUR;;;Insumos Aislamiento;;2;SI;SI;Junio
+Valle del Cauca;Buenaventura;ACNUR;;;Insumos Aislamiento;;2;SI;SI;Junio
+Valle del Cauca;Jamundi;ACNUR;;;Insumos Aislamiento;;2;SI;SI;Junio
+Valle del Cauca;Jamundi;ACNUR;;;Insumos Aislamiento;;4;SI;SI;Junio
+Valle del Cauca;Cali;ACNUR;;;Insumos Aislamiento;;2;SI;SI;Junio
+Valle del Cauca;Cali;ACNUR;;;Insumos Aislamiento;;4;SI;SI;Junio
+Nariño;Ipiales;ACNUR;;;Insumos Aislamiento;;2;SI;SI;Junio
+Nariño;Ipiales;ACNUR;;;Insumos Aislamiento;;1;SI;SI;Junio
+Nariño;Ipiales;ACNUR;;;Insumos Aislamiento;;2;SI;SI;Junio
+Nariño;Pasto;ACNUR;;;Insumos Aislamiento;;1;SI;SI;Junio
+Nariño;Tumaco;ACNUR;;;Insumos Aislamiento;;3;SI;SI;Junio
+Nariño;Tumaco;ACNUR;;;Insumos Aislamiento;;3;SI;SI;Junio
+Nariño;Roberto Payan;ACNUR;;;Insumos Aislamiento;;1;SI;SI;Junio
+Nariño;Roberto Payan;ACNUR;;;Insumos Aislamiento;;4;SI;SI;Junio
+Nariño;Olaya Herrera;ACNUR;;;Insumos Aislamiento;;3;SI;SI;Junio
+Putumayo;Colon;ACNUR;;;Insumos Aislamiento;;1;SI;SI;Junio
+Putumayo;Mocoa;ACNUR;;;Insumos Aislamiento;;2;SI;SI;Junio
+Putumayo;Puerto Asís;ACNUR;;;Insumos Aislamiento;;1;SI;SI;Junio
+Putumayo;Orito;ACNUR;;;Insumos Aislamiento;;1;SI;SI;Junio
+Putumayo;Valle del Guamuez;ACNUR;;;Insumos Aislamiento;;1;SI;SI;Junio
+Putumayo;San Miguel;ACNUR;;;Insumos Aislamiento;;1;SI;SI;Junio
+Putumayo;Puerto Leguízamo;ACNUR;;;Insumos Aislamiento;;1;SI;SI;Junio
+Nariño;;ACNUR;;;Insumos Aislamiento;;;SI;SI;Junio
+;;ACNUR;;;Insumos Aislamiento;;;SI;SI;Junio
+;;ACNUR;;;Insumos Aislamiento;;;SI;SI;Junio
+;;ACNUR;;;Camas hospitalarias;;;SI;SI;Junio
+Arauca;;ACNUR;;;Ventiladores mecánicos;;5;SI;SI;Junio
+Antioquia;;ACNUR;;;Ventiladores mecánicos;;2;SI;SI;Junio
+Arauca;;ACNUR;;;Monitores de signos vitales, con accesorios para adultos y pediatrico;;2;SI;SI;Junio
+La Guajira;;ACNUR;;;Monitores de signos vitales, con accesorios para adultos y pediatrico;;8;SI;SI;Junio
+Guainía;;ACNUR;;;Monitores de signos vitales, con accesorios para adultos y pediatrico;;3;SI;SI;Junio
+Antioquia;;ACNUR;;;Monitores de signos vitales, con accesorios para adultos y pediatrico;;2;SI;SI;Junio
+Santander;Bucaramaga;ACNUR;;;Monitores de signos vitales, con accesorios para adultos y pediatrico;;4;SI;SI;Junio
+Arauca;;ACNUR;;;Atriles porta suero;;3;SI;SI;Junio
+Guainía;;ACNUR;;;Atriles porta suero;;3;SI;SI;Junio
+Guajira;;ACNUR;;;Bombas de infusion (opción de ser multicanales).;;125;SI;SI;Junio
+Guainía;;ACNUR;;;Bombas de infusion (opción de ser multicanales).;;5;SI;SI;Junio
+La Guajira;;ACNUR;;;Bombas de infusion (opción de ser multicanales).;;12;SI;SI;Junio
+Choco;;ACNUR;;;Camillas de transporte multiposición con altura graduable con frenos y llantas antibacteriales, con porta oxigeno y barrandas;;3;SI;SI;Junio
+La Guajira;;ACNUR;;;Camillas de transporte multiposición con altura graduable con frenos y llantas antibacteriales, con porta oxigeno y barrandas;;4;SI;SI;Junio
+Choco;;ACNUR;;;Camillas para examen, marca dispromedic unidad;;5;SI;SI;Junio
+La Guajira;;ACNUR;;;Camillas fijas de dos planos;;4;SI;SI;Junio
+La Guajira;;ACNUR;;;Escalerilla de dos pasos en acero inoxidable;;96;SI;SI;Junio
+La Guajira;;ACNUR;;;Escalerillas de un paso;;40;SI;SI;Junio
+Valle del Cauca;;ACNUR;;;Mesa de puente gradual, KRAMER REF: E-77 B UNIDAD;;105;SI;SI;Junio
+La Guajira;;ACNUR;;;Sillas de rueda bariatrica con braceros y pieceros fijos llantas macizas;;39;SI;SI;Junio
+La Guajira;;ACNUR;;;Mesas auxiliares de mallo;;4;SI;SI;Junio
+La Guajira;;ACNUR;;;Fonesdoscopio;;20;SI;SI;Junio
+La Guajira;;ACNUR;;;Tensiometro;;2;SI;SI;Junio
+La Guajira;;ACNUR;;;Bandejas de metal o metroplata, lavable 40*30 cm - 36*27 cm - 32* 22 cm. Altura 5 cm;;20;SI;SI;Junio
+La Guajira;;ACNUR;;;Tachos con tapa de 1 litro;;10;SI;SI;Junio
+La Guajira;;ACNUR;;;"Cilindros de Oxigeno de 2000 lt, con abrazaderas y regulador para oxígeno medicinal. Cada cilindro debe tener 2 manómetros de 2"" entrada de 0-4000 Psi y Flujo de salida de 2-15 l/min conexión rosca CGA540 y un carrito para transporte.";;10;SI;SI;Junio
+La Guajira;;ACNUR;;;Mesa puente hospitalaria;;10;SI;SI;Junio
+La Guajira;;ACNUR;;;Equipo de Rx portatil, rodante, generador de alta frecuencia 4Kw, 1000Khz.;;20;SI;SI;Junio
+La Guajira;;ACNUR;;;Bombas de Infusión;;1;SI;SI;Junio
+La Guajira;;ACNUR;;;Aspirador de secreciones;;12;SI;SI;Junio
+La Guajira;;ACNUR;;;Oximetro;;3;SI;SI;Junio
+La Guajira;;ACNUR;;;Pisingo -Orinales para manejo hospitalario hombre;;6;SI;SI;Junio
+La Guajira;;ACNUR;;;Pato - clínico coprológico en acero inoxidable;;12;SI;SI;Junio
+La Guajira;;ACNUR;;;"Desfibrilador 4 en 1: monitorización, desfibrilación manual, DEA y marcapasos, pantalla 7""";;12;SI;SI;Junio
+La Guajira;;ACNUR;;;Carro de paro;;1;SI;SI;Junio
+La Guajira;;ACNUR;;;Abanicos de Pie;;1;SI;SI;Junio
+La Guajira;;ACNUR;;;Bombas de infusión;;13;SI;SI;Junio
+La Guajira;;ACNUR;;;Camas hospitalarias;;5;SI;SI;Junio
+Guainía;;ACNUR;;;Camas hospitalarias;;2;SI;SI;Junio
+Arauca;;ACNUR;;;Desfibriladores bimodales;;20;SI;SI;Junio
+Guainía;;ACNUR;;;Insumos básicos UCI (canúlas, tubos endotraqeales, filtro ventiladores, etc);;1;SI;SI;Junio
+Arauca;;ACNUR;;;Estetoscopioo fonnendoscopio duplex 2,0 negro, aluminio, black edition en caja expositora de carton;;100;SI;SI;Junio
+La Guajira;;ACNUR;;;Estetoscopio duplex 2,0 negro, aluminio, black edition en caja expositora de carton;;8;SI;SI;Junio
+La Guajira;;ACNUR;;;Electrocardiografo;;8;SI;SI;Junio
+Guainía;;ACNUR;;;Equipo de órganos e-scope f.o. otoscopio / oftalmoscopio led 3,7 , negro en estuche;;1;SI;SI;Junio
+La Guajira;;ACNUR;;;Filtro ventilador. filtro inspiratorio desechable;;6;SI;SI;Junio
+Arauca;;ACNUR;;;Circuito ventilador ht70/560. circuito doble rama adulto con válvula exhalatoria 180 cm;;200;SI;SI;Junio
+Arauca;;ACNUR;;;Pulximetro o sensor de pulxiomatria;;200;SI;SI;Junio
+Soacha;;ACNUR;;;Pulximetro o sensor de pulxiomatria;;25;SI;SI;Junio
+La Guajira;;ACNUR;;;Pulximetro o sensor de pulxiomatria;;5;SI;SI;Junio
+Arauca;;ACNUR;;;Pulximetro o sensor de pulxiomatria;;100;SI;SI;Junio
+Choco;;ACNUR;;;Unidad manual respiratoria o ambu adulto;;1;SI;SI;Junio
+Guainía;;ACNUR;;;Unidad manual respiratoria o ambu adulto;;3;SI;SI;Junio
+La Guajira;;ACNUR;;;Unidad manual respiratoria o ambu adulto;;8;SI;SI;Junio
+Arauca;;ACNUR;;;Unidad manual respiratoria o ambu adulto;;100;SI;SI;Junio
+Choco;;ACNUR;;;Ambu pediátrico, Merlin Medical, W4454 Unidad;;5;SI;SI;Junio
+La Guajira;;ACNUR;;;Canula capnografia. omnivent paciente intubado adulto;;8;SI;SI;Junio
+Soacha;;ACNUR;;;Canula capnografia. omnivent paciente intubado adulto;;250;SI;SI;Junio
+Arauca;;ACNUR;;;Joja videolaringoscopio. hoja desechable videolaringoscopio mcgrath tamaño 3;;100;SI;SI;Junio
+Arauca;;ACNUR;;;hoja videolaringoscopio. hoja desechable videolaringoscopio mcgrath tamaño 4;;100;SI;SI;Junio
+Arauca;;ACNUR;;;Estilete. Estilete para Intubacion 14FR;;100;SI;SI;Junio
+Arauca;;ACNUR;;;Canula o tubo endotraqueal. tubo endotraqueal oral/ nasal hi-lo con balón 6.0;;100;SI;SI;Junio
+Arauca;;ACNUR;;;Canula o tubo endotraqueal. tubo endotraqueal taperguard con balón conico 6.0 evac;;100;SI;SI;Junio
+Arauca;;ACNUR;;;Circuito. adulto circuito en pvc con codo de 90º , puerto de capnografía, 150cm. esteril;;100;SI;SI;Junio
+Arauca;;ACNUR;;;Mascarilla ventury Adulto;;100;SI;SI;Junio
+Cundinamarca;Soacha;ACNUR;;;Mascarilla ventury Niño;;50;SI;SI;Junio
+Cundinamarca;Soacha;ACNUR;;;Humidificadores;;50;SI;SI;Junio
+Cundinamarca;Soacha;ACNUR;;;Aerocámaras inhaladores para adultos;;50;SI;SI;Junio
+Cundinamarca;Soacha;ACNUR;;;Aerocámaras inhaladores para adultos;;125;SI;SI;Junio
+Nariño;;ACNUR;;;Aerocámaras inhaladores para niños;;300;SI;SI;Junio
+Cundinamarca;Soacha;ACNUR;;;Succionadores portátiles;;125;SI;SI;Junio
+Cundinamarca;Soacha;ACNUR;;;Filtro. Filtro Electrostatico Bacteriano Adulto con puerto de Capnografia - Barrierbac;;3;SI;SI;Junio
+Arauca;;ACNUR;;;Sonda succión. Sistema de aspiracion cerrada, disco, puerto MDI, 10 Fr, Esteril, DAR;;100;SI;SI;Junio
+Arauca;;ACNUR;;;Canula traqueostomia. cànula fenestrada con balòn 6.4 mm shiley;;100;SI;SI;Junio
+Arauca;;ACNUR;;;Sistema de aires acondicionados y extracción como sistema de aire aséptico 60,000 BTU.;;100;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Unidades extractoras centrífuga de 5.500 CFM a 800 FPM, incluyen filtros MERV 14 de alta eficiencia 95%;;4;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Termostatos para control de encendido de aires acondicionados;;2;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Sistema de aires acondicionados y extracción como sistema de aire aséptico 24,000 BTU;;45;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Equipo de aire acondicionado de 36,000 BTU;;1;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Tensiometro;;1;SI;SI;Junio
+Nariño;;ACNUR;;;Timbres inhalambricos;;300;SI;SI;Junio
+Valle del Cauca;;ACNUR;;;Sillas de rueda bariatrica con braceros y pieceros fijos llantas macizas;;120;SI;SI;Junio
+Choco;;ACNUR;;;Sillas plásticas sin brazo;;5;SI;SI;Junio
+Norte de Santander;;ACNUR;;;"Escritorio con cubierta de melamina, tapacantos de PVC; estructura de aluminio pintadocon perfil de sección triangular y patines regulares; dimensiones 0,60 * 1.20 * 0.74";;30;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Planta de oxigeno;;12;SI;SI;Junio
+Vichada;;ACNUR;;;Manta térmica;;1;SI;SI;Junio
+Arauca;;ACNUR;;;Carro recolector de residuos de 180 litros con tapa y ruedas, color rojo;;100;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Carro recolector de residuos de 1100 litros con tapa y ruedas color rojo;;1;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Caneca con pedal y tapa de 25 lts color roja;;1;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Caneca con pedal y tapa de 60 lts color roja;;75;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Carro escurridor de traperos de 36 litros;;6;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Bolsas rojasmanejo de desechos orgánicos;30 litros;3;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Bolsas rojasmanejo de desechos orgánicos;200 litros;10000;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Hipoclorito de sodio 5% o 13% (pimpina 20 lts);;600;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Peroxido de hidrogeno (pimpina 20 lts);;4;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Jabon liquido (pimpina 20 lts);;2;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Mopa pequeña de microfibra con mango metálico de 50 cm;;2;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Escobas ;;5;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Trapero con mango metálico;;5;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Paños de microfibra 32x36 cm (mínimo);;17;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Baldes de plastico con agarradera;;215;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Guantes de neopreno largo 12 litros (o su equivalente);;4;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Marcador de tinta negra permanente;;22;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Bolsas con cierre hermetico de 30x40 cm;;12;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Cepillo de baño con base;;44;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Jabon de barra azul;;5;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Toalla absorbente para manos desechables x paquete (papel) doblada en z color natural (o su equivalente);;10;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Atomizadores plásticos de 500 ml (o su equivalente);;10;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Sanitarios en porcelana;;10;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Lavamanos, muebles y griferia;;3;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Cabina de ducha con accesorios;;6;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Mesones de acero inoxidable, con poceta lavautencilios, griferia escualizable;;3;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Estibas en madera 1 * 1 * 0.10;;6;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Láminas de triplex 1 * 1.20 * 0.01;;250;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Canales de agua para lluvia en lámina galvanizada Coll Rolled Cal 16;;160;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Divisiones en aluminio y plástico CLEAD 630 para RHU;;70 mL;SI;SI;Junio
+Norte de Santander;;ACNUR;;;Comunicación;;220 m2;SI;SI;Junio
+;;ACNUR;;;Manejo Cadaveres;;100;SI;SI;Junio
+;;ACNUR;;;Manejo Cadaveres;;600;SI;SI;Junio
+;;IRC ;;;Máscaras de Alta Eficiencia N95;;200;SI;SI;Abril
+;;IRC ;;;Máscaras de Alta Eficiencia N95;;200;SI;SI;Abril
+;;IRC;;;Mascarilla Quirúrgica;;10.000;SI;SI;Abril
+;;IRC;;;Mascarilla Quirúrgica;;10.000;SI;SI;Abril
+;;IRC;;;Batas desechables;;200;SI;SI;Abril
+;;IRC;;;Batas desechables;;200;SI;SI;Abril
+;;IRC;;;Protector Visual;;150;SI;SI;Abril
+;;IRC ;;;Protector Visual;;150;SI;SI;Abril
+;;IRC;;;Guantes Estériles;;2.000;SI;SI;Abril
+;;IRC ;;;Guantes Estériles;;2.000;SI;SI;Abril
+;;IRC;;;Termómetros Laser;;;SI;SI;Abril
+;;IRC;;;Termómetros Laser;;;SI;SI;Abril
+;;IRC;;;Jabón;;;SI;SI;Abril
+;;IRC;;;Jabón;;;SI;SI;Abril
+;;IRC;;;Gel Antibacterial;;;SI;SI;Abril
+;;IRC;;;Gel Antibacterial;;;SI;SI;Abril
+Norte de Santander;;IRC;;;Prestación Servicios;;3;SI;SI;Abril
+Norte de Santander;;IRC;;;Prestación Servicios;;2;SI;SI;Abril
+Norte de Santander;;IRC;;;Prestación Servicios;;1;SI;SI;Abril
+;;IRC;;;Comunicación;;2.000;SI;SI;Abril
+Cundinamarca;;FAO;;;Personal CRUE;;5;SI;SI;Abril
+Cundinamarca;;FAO;;;Personal linea 192;;5;SI;SI;Abril
+;;NRC;;;Comunicación;;2.500;SI;SI;Abril
+;;NRC;;;Comunicación;;50;SI;SI;Abril
+Arauca;;PMA;;; Carpas (32mt de largo x 10mt de ancho) ;;;SI;SI;Abril
+ Cundinamarca;;PMA;;; Carpas (32mt de largo x 10mt de ancho) ;;;SI;SI;Abril
+ Norte de Santander;;PMA;;; Carpas (32mt de largo x 10mt de ancho) ;;;SI;SI;Abril
+La Guajira;;PMA;;; Carpas (32mt de largo x 10mt de ancho) ;;;SI;SI;Abril
+ Nariño;;PMA;;; Carpas (32mt de largo x 10mt de ancho) ;;;SI;SI;Abril
+ Vichada;;PMA;;; Carpas (32mt de largo x 10mt de ancho) ;;;SI;SI;Abril
+ Putumayo;;PMA;;; Carpas (32mt de largo x 10mt de ancho) ;;;SI;SI;Abril
+Bolívar; Cartagena;PMA;;; Carpas (32mt de largo x 10mt de ancho) ;;;SI;SI;Abril
+Atlántico; Barranquilla;PMA;;; Carpas (32mt de largo x 10mt de ancho) ;;;SI;SI;Abril
+Madgalena; Santa Marta;PMA;;; Carpas (32mt de largo x 10mt de ancho) ;;;SI;SI;Abril
+Arauca;;PMA;;;Asistencia alimentaria a poblaciones en cuarentena;;;SI;SI;Abril
+ Cundiamarca;;PMA;;;Asistencia alimentaria a poblaciones en cuarentena;;;SI;SI;Abril
+ Norte de Santander;;PMA;;;Asistencia alimentaria a poblaciones en cuarentena;;;SI;SI;Abril
+ Nariño;;PMA;;;Asistencia alimentaria a poblaciones en cuarentena;;;SI;SI;Abril
+ Buenaventura;;PMA;;;Asistencia alimentaria a poblaciones en cuarentena;;;SI;SI;Abril
+ Putumayo ;;PMA;;;Asistencia alimentaria a poblaciones en cuarentena;;;SI;SI;Abril
+Amazonas;Leticia;Médicos del Mundo;;;Profesional de enfermeria;;;SI;SI;Mayo
+Amazonas;Leticia;Médicos del Mundo;;;Profesional de medicina;;;SI;SI;Mayo
+Amazonas;Leticia;Médicos del Mundo;;;Comunicación;;;SI;SI;Mayo
